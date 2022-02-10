@@ -1,27 +1,72 @@
-# ML Research Project Template
+# Evaluation of Writing Elements in Argumentative  Essay Pieces to Map Writing Proficiency
 
-This template is designed to help you with your research projects. In addition to the basic python code you would see in a generic project, I have also added development and production sections, including app development and web development.
+BY **Liew Wei Pyn and Prannaya Gupta**
 
-In a more generic sense, a ML Research Project goes through 3 real components (shown in the form of a repository structure):
+Done for the **CS5131** Introduction to Artificial Intelligence Final Project
 
-- [**`research`**](./research), wherein students perform exploratory data analyses, cleaning, model prototyping and simple experimentation and exploration. This is very likely done in the context of a notebook (eg Jupyter Notebook). This formally represents the data science lifecycle up till the data exploration section (i.e. acquisition, cleaning and exploration of data).
+<hr>
 
-  - **[`preprocessing`](./research/preprocessing)** (Python): Data Acquisition and Cleaning location.
+**Domain**: Literature, Education, English
 
-  - **[`exploration`](./research/exploration)** (Python): A huge report-esque mini-research project.
-  - [**`pipeline`**](./research/pipeline) (Python): A simple machine learning template.
-  - [**`modelling`**](./research/modelling) (Python): A simple modelling section with some customized directories.
-    - [**`algorithms`**](./research/modelling/algorithms): A set of tools from many tasks in Machine Learning.
-    - [**`classification`**](./research/modelling/classification) and [**`regression`**](./research/modelling/regression): A set of templates for classification and regression tasks.
-    - [**`deep-learning`**](./research/modelling/deep-learning): A specialised environment for general Deep Learning (DL) projects.
-    - [**`pytorch`**](./research/modelling/pytorch): An environment designed for any project done in PyTorch.
+**Subject Area**: Natural Language Processing, Deep Neural Network,  BERT, Transformers, Transfer Learning
 
-- [**`production`**](./production), where researchers use the prototyped models and fully train them. Since such models require a lot of usage of RAM etc, this is often done with the help of GPUs. Hence, distilled utils lib, training job and inference service are implemented here. The production-ready solution(s) are composed of libraries, services, and jobs.
+## Description
 
-  - **[`python-utils-lib`](./production/python-utils-lib)** (Python): Utility functions that are distilled from the research phase and used across multiple scripts. Should only contain refactored and tested Python scripts/modules. Installable via pip.
-  - **[`training-job`](./production/training-job)** (Python/Docker): Combines required data exports, preprocessing and training scripts into a Docker container. This makes results reproducible and the production model retrainable in _any_ ennvironment.
-  - **[`inference-service`](./production/inference-service)** (Python/Docker): Docker container that provides the final model prediction capabilities via a REST API.
+Argumentative Essays usually include a plethora of different essay elements that are quite  difficult for the average student to identify. These include, but are not strictly limited to, Lead, Position, Claim, Counterclaim, Rebuttal, Evidence,  Concluding Statement.
 
-- [**`development`**](./development), where researchers often utilise software development strategies in a truly ML4SE-like system to visualise and utilise their results. Applications on the web, desktop or mobile are often preferred, and this repository contains many templates for such development. Often, Streamlit is also used as a substitute to simply model information rather than creating a full-fledged application. Due to the complexity of these submodules, I have chosen to leave them as an exercise to the reader.
+For instance, given a passage such as the  following: 
 
-It is recommended to simply clone this repo and customize it to the specific use-case at hand. Delete appropriate directories please!
+>  *Although the  history of human invention spans over millennia, there have been relatively  few game-changing technologies. From the manipulation of fire back in the primal age to the invention of the electronic transistor in the 1940s, these monumental developments have often been followed up by fervent exploration and a burgeoning of new technologies that stem from that initial spark.*
+
+Here, you can state that this paragraph is the Lede, or the **Lead**. It is the  statement of facts prior to a statement of opinion, and this is a very objective set of statements. 
+
+However, after this, the author writes the  following: 
+
+> *While some  may say Artificial Intelligence, or AI, is akin to these other inventions, I  beg to disagree.*  
+
+This is a **Position**,  as can be said from the subjective statement of opinion, which has yet to be  substantiated by fact or evidence. However, in a different context, this can  be classified as a **Rebuttal**  as well, since it started by giving an alternate perspective and then  admitting that this is not something that matches up with the perspective of  the author.
+
+This contradiction can often cause confusion in  modern machine learning models, since they may classify sentences without  keeping track of context. Context is quite important in Natural Language  Processing (NLP) Tasks, which is something many models would not excel at.
+
+Often, students struggling with or generally writing essays use automated writing feedback tools, which, while numerous, each have their own limitations. Many of these feedback tools are unable to  identify writing structures in essays, or are at least very inaccurate in  their identification. Many of these tools are proprietary, with algorithms and feature claims that cannot be backed up independently, and more importantly, that are inaccessible to educators due to high costs.
+
+In addition, automatically and consistently identifying and highlighting such elements,  that too amongst hundreds of scripts, can be a tedious task for teachers, who  may wish not to use these tools due to, in summary, their high levels of  inaccuracy, lacking features and high costs.
+
+**Objective(s)**: Developing a model capable of analyzing essay elements in argumentative pieces
+
+## Target Users
+
+- Teachers aiming to help their students improve their writing
+- Students aiming to improve their writing to prepare for the A Level GP and University  Preparation
+
+## Project Plan and Timeline
+
+| Timeline         | Project Plan                                                 |
+| ---------------- | ------------------------------------------------------------ |
+| 28-1st February  | Load and prepare dataset                                     |
+| 2-20th February  | Try different Hugging Face supported models (GPT2, BERT etc.), and evaluate their performances |
+| 20-28th February | Create a frontend GUI                                        |
+| 1st March        | Mid-Way project review                                       |
+| 2-20th March     | Buffer time, pray we don’t need it                           |
+| 21-29th March    | Report and Presentation                                      |
+
+## Resources and Tools Use
+
+- PyTorch
+- GPUs
+- Google Colaboratory
+- Hugging Face
+- Fast.AI
+
+## Target Outcome and Benefits
+
+A model capable of analysing and identifying the key argumentative elements in an English essay. We can possibly test it on real-life samples like model essays from teachers at NUS High.
+
+## References
+
+- [Feedback Prize - Evaluating Student Writing (Kaggle Competition, Georgia State University)](https://www.kaggle.com/c/feedback-prize-2021/overview)
+- Zaheer, M., Guruganesh, G., Dubey, A., Ainslie, J., Alberti, C., Ontanon, S., … Ahmed, A. (2021). Big Bird: Transformers for Longer Sequences. *arXiv [cs.LG]*. Opgehaal van http://arxiv.org/abs/2007.14062
+- Cohan, A., Beltagy, I., King, D., Dalvi, B., & Weld, D. (2019). Pretrained Language Models for Sequential Sentence Classification. *Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)*. doi:10.18653/v1/d19-1383
+- Beltagy, I., Peters, M. E., & Cohan, A. (2020). Longformer: The Long-Document Transformer. *arXiv [cs.CL]*. Opgehaal van http://arxiv.org/abs/2004.05150
+- Press, O., Smith, N. A., & Lewis, M. (2021). Shortformer: Better Language Modeling using Shorter Inputs. *arXiv [cs.CL]*. Opgehaal van http://arxiv.org/abs/2012.15832
+
