@@ -1,0 +1,53 @@
+Social isolation, economic stress, loss of loved ones and other struggles during the pandemic have contributed to rising mental health issues like anxiety and depression.
+
+But can having Covid itself increase the risk of developing mental health problems? A large new study suggests it can.
+
+The study, published Wednesday in the journal The BMJ, analyzed records of nearly 154,000 Covid patients in the Veterans Health Administration system and compared their experience in the year after they recovered from their initial infection with that of a similar group of people who did not contract the virus.
+
+The study included only patients who had no mental health diagnoses or treatment for at least two years before becoming infected with the coronavirus, allowing researchers to focus on psychiatric diagnoses and treatment that occurred after coronavirus infection.
+
+People who had Covid were 39 percent more likely to be diagnosed with depression and 35 percent more likely to be diagnosed with anxiety over the months following infection than people without Covid during the same period, the study found. Covid patients were 38 percent more likely to be diagnosed with stress and adjustment disorders and 41 percent more likely to be diagnosed with sleep disorders than uninfected people.
+
+“There appears to be a clear excess of mental health diagnoses in the months after Covid,” said Dr. Paul Harrison, a professor of psychiatry at the University of Oxford, who was not involved in the study. He said the results echoed the emerging picture from other research, including a 2021 study on which he was an author, and “it strengthens the case that there is something about Covid that is leaving people at greater risk of common mental health conditions.”
+
+The data does not suggest that most Covid patients will develop mental health symptoms. Only between 4.4 percent and 5.6 percent of those in the study received diagnoses of depression, anxiety or stress and adjustment disorders.
+
+“It’s not an epidemic of anxiety and depression, fortunately,” Dr. Harrison said. “But it’s not trivial.”
+
+Researchers also found that Covid patients were 80 percent more likely to develop cognitive problems like brain fog, confusion and forgetfulness than those who didn’t have Covid. They were 34 percent more likely to develop opioid use disorders, possibly from drugs prescribed for pain, and 20 percent more likely to develop non-opioid substance use disorders including alcoholism, the study reported.
+
+After having Covid, people were 55 percent more likely to be taking prescribed antidepressants and 65 percent more likely to be taking prescribed anti-anxiety medications than contemporaries without Covid, the study found.
+
+Overall, more than 18 percent of the Covid patients received a diagnosis of or prescription for a neuropsychiatric issue in the following year, compared with less than 12 percent of the non-Covid group. Covid patients were 60 percent more likely to fall into those categories than people who didn’t have Covid, the study found.
+
+The study found that patients hospitalized for Covid were more likely to be diagnosed with mental health issues than those with less serious coronavirus infections. But people with mild initial infections were still at greater risk than people without Covid.
+
+“Some people always argue that ‘Oh, well, maybe people are depressed because they needed to go to the hospital and they spent like a week in the I.C.U.,’” said the senior author of the study, Dr. Ziyad Al-Aly, chief of research and development at the V.A. St. Louis Health Care System and a clinical epidemiologist at Washington University in St. Louis. “In people who weren’t hospitalized for Covid-19, the risk was lower but certainly significant. And most people don’t need to be hospitalized, so that is really the group that’s representative of most people with Covid-19.”
+
+The team also compared mental health diagnoses for people hospitalized for Covid with those hospitalized for any other reason. “Whether people were hospitalized for heart attacks or chemotherapy or whatever other conditions, the Covid-19 group exhibited a higher risk,” Dr. Al-Aly said.
+
+The study involved electronic medical records of 153,848 adults who tested positive for the coronavirus between March 1, 2020, and Jan. 15, 2021, and survived for at least 30 days. Because it was early in the pandemic, very few were vaccinated before infection. The patients were followed until Nov. 30, 2021. Dr. Al-Aly said his team was planning to analyze whether subsequent vaccination modified people’s mental health symptoms, as well as other post-Covid medical issues the group has studied.
+
+The Covid patients were compared with more than 5.6 million patients in the Veterans system who did not test positive for the coronavirus and more than 5.8 million patients from before the pandemic, in the period spanning March 2018 through January 2019. To try to gauge the mental health impact of Covid-19 against that of another virus, the patients were also compared with about 72,000 patients who had the flu during the two and a half years before the pandemic. (Dr. Al-Aly said there were too few flu cases during the pandemic to provide a contemporaneous comparison.)
+
+The researchers tried to minimize differences between groups by adjusting for many demographic characteristics, pre-Covid health conditions, residence in nursing homes and other variables.
+
+In the year after their infection, the Covid patients had higher rates of mental health diagnoses than the other groups.
+
+“It’s not really surprising to me because we’ve been seeing this,” said Dr. Maura Boldrini, an associate professor of psychiatry at NewYork-Presbyterian Columbia University Medical Center. “It’s striking to me how many times we’ve seen people with these new symptoms with no previous psychiatric history.”
+
+Most veterans in the study were men, three-quarters were white and their average age was 63, so the findings may not apply to all Americans. Still, the study included over 1.3 million women and 2.1 million Black patients, and Dr. Al-Aly said “we found evidence of increased risk regardless of age, race or gender.”
+
+There are several possible reasons for the increase in mental health diagnoses, Dr. Al-Aly and outside experts said. Dr. Boldrini said she believed the symptoms were most likely influenced by both biological factors and the psychological stresses associated with having an illness.
+
+“In psychiatry, it almost always is an interplay,” she said.
+
+Research, including brain autopsies of patients who died of Covid-19, has found evidence that Covid infection can generate inflammation or tiny blood clots in the brain, and can cause small and large strokes, said Dr. Boldrini, who has conducted some of these studies. In some people, the immune response that is activated to fight against a coronavirus infection may not shut down effectively once the infection is gone, which can fuel inflammation, she said.
+
+“Inflammatory markers can disrupt the ability of the brain to function in many ways, including the ability of the brain to make serotonin, which is fundamental for mood and sleep,” Dr. Boldrini said.
+
+By themselves, such brain changes may or may not cause psychological problems. But, if someone is experiencing stress from having felt physically ill or because having Covid disrupted their lives and routines, she said, “you may be more prone to not being able to cope because your brain is not functioning 100 percent.”
+
+Dr. Harrison, who has conducted other studies with large electronic medical databases, noted that such analyses can miss more granular information about patients. He also said that some people in the comparison groups might have had Covid and not been tested to confirm it, and that some Covid patients might have been more likely to receive diagnoses because they were more worried about their health after Covid or because doctors were quicker to identify psychological symptoms.
+
+“There’s no one analysis that tells you the whole story,” Dr. Al-Aly said. “Maybe all of us or most of us experienced some sort of an emotional distress or mental health stress or some sleep problem,” he added. “But people with Covid did worse.”

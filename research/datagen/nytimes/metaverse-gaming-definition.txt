@@ -1,0 +1,41 @@
+The term “metaverse” is everywhere.
+
+On Tuesday, Microsoft cited the so-called metaverse as a reason for acquiring the game developer Activision Blizzard for $68.7 billion, saying the deal would provide “building blocks for the metaverse.” Facebook’s founder, Mark Zuckerberg, has also bet on the metaverse and renamed his social networking company Meta. Google has worked on metaverse-related technology for years. And Apple has its own related devices in the works.
+
+But what does the metaverse really mean, and does it even exist? Here’s what you need to know.
+
+The metaverse is the convergence of two ideas that have been around for many years: virtual reality and a digital second life.
+
+For decades, technologists have dreamed of an era when our virtual lives play as important a role as our physical realities. In theory, we would spend lots of time interacting with our friends and colleagues in virtual space. As a result, we would spend money there, too, on outfits and objects for our digital avatars.
+
+In what techies like Mr. Zuckerberg call the metaverse, virtual reality serves as a computing platform for living a second life online. In virtual reality, you wear a headset that immerses you in a 3-D environment. You carry motion-sensing controllers to interact with virtual objects and use a microphone to communicate with others.
+
+Matthew Ball, a venture capitalist who has written extensively about the topic, said the metaverse represented the fourth wave to computers, following mainframe computing, personal computing and mobile computing.
+
+“It’s moving into what people call ambient computing,” he said about the metaverse. “It’s about being within the computer rather than accessing the computer. It’s about being always online rather than always having access to an online world.”
+
+To put it simply, yes.
+
+To some extent, there is already a metaverse in games. But — and it’s an important but — it’s rudimentary.
+
+Some social elements of the metaverse can already be found in video games. Consider Fortnite, an online shooter game played on computers, game consoles and mobile devices. The average Fortnite player spends hundreds of hours in the game with a personal avatar, fighting with and interacting with the avatars of other players. Players also accrue virtual currency that unlocks outfits and other goodies to customize their avatars.
+
+A precursor to the metaverse could also be found in Second Life, an online social platform developed by Linden Lab nearly two decades ago, where people created digital representations of themselves to socialize with others. In the virtual space, users could shop and build property to enrich their virtual lives.
+
+Virtual reality is also somewhat advanced in video games. In 2016, Sony released the $400 PlayStation VR, a virtual reality headset that plugged into its PlayStation 4 console to play virtual reality games. This month, Sony said a second-generation headset was coming for the PlayStation 5, though it did not share a release date.
+
+But those were just steppingstones toward the complete metaverse, which is still taking shape. Technologists say that thanks to a number of things — fast internet connections, powerful virtual reality headsets and a large audience of gamers — it is now more possible to live in a richly animated, lifelike 3-D simulation.
+
+“It’s only in the last few years that a critical mass of working pieces has come together,” Mr. Ball said.
+
+Truth be told, not too much.
+
+Activision Blizzard is well known for making online games that have a metaverse component, where players spent hundreds of hours forming communities within the games. In its role-playing game World of Warcraft, released in 2004, gamers worked together online to complete quests in an effort to make their digital avatars stronger by collecting items like weapons and armors.
+
+But the company has not dabbled in virtual reality. It has primarily made games for personal computers and game consoles but has yet to release a virtual reality game.
+
+So far, Microsoft’s work on the metaverse has been nascent.
+
+For several years, the software giant has developed the HoloLens, a $3,500 headset that shows digital holograms, with a focus on applications for businesses and government agencies. The device is related to augmented reality, which some technologists consider to be part of the future metaverse.
+
+Microsoft is also the developer of the Xbox, the second most popular game console after the Sony PlayStation. But unlike the PlayStation, the Xbox has been conspicuously absent from the virtual reality gaming space. 

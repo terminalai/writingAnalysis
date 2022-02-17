@@ -1,0 +1,53 @@
+It was as if a “Seinfeld” plot met John le Carré.
+
+Kristin Zawatski, 44, who works in information technology, in a department of about 70 people, was helping to conduct a virtual job interview. She said she was impressed by the candidate’s sharp understanding of the technical skills required for the position. But about 15 minutes into the conversation, one of her colleagues muted the video call.
+
+“The person answering the questions isn’t the person on camera,” he declared, according to her recollection, prompting an audible gasp from his teammates.
+
+Ms. Zawatski’s colleague had recognized the voice coming from the screen and realized it was an acquaintance who was answering the technical questions while the job candidate moved his lips onscreen — something the candidate’s friend had just confessed to over text message.
+
+“What did he think was going to happen when he moved across the country and realized he couldn’t do the job?” Ms. Zawatski later wondered aloud.
+
+Job interviews have always demanded a pair of somewhat incongruous qualities: authenticity and polish. Interview guides urge candidates to put their best foot forward. Recruiters encourage people to be genuine, even have fun with the process. (“The surprising secret to interview success — be yourself,” goes the typical advice.) It can be a psychologically taxing combination of tips, compelling job seekers to wonder how they can simultaneously convey a real sense of their flawed, leave-dishes-in-the-sink personalities while also boasting of their abilities as a math whiz, polyglot, team leader, calendaring virtuoso or whatever.
+
+“It’s very easy to present yourself as you would like to be, as opposed to the way you really are,” said Robert Feldman, a psychologist at University of Massachusetts Amherst and the author of “The Liar in Your Life.” People, he added, tend to learn from a young age the advantages conferred by fibbing.
+
+Children are taught that when Grandma comes over with the gift of an impossibly ugly sweater, they should act as if they had gotten a PlayStation, Dr. Feldman said. As they get older, the stakes of lying are raised — most notably in a job interview, when there’s money on the table.
+
+Remote hiring processes have given some job seekers the impression that they can get away with extreme forms of dishonesty. Virtual interviews leave open the possibility that candidates can ask a friend to feed them answers. Telephone calls can create a psychological distance between the interviewer and interviewee, Dr. Feldman noted, which may make it easier for people to justify presenting themselves in an inaccurate way. At the same time, people are doing far more interviews than before, with about one in five employees voluntarily switching jobs in 2020.
+
+Still, recruiters know to expect some gloss in the hiring process. It’s even acknowledged in pop culture. “Fluent in Finnish?” Isla Fisher’s character is asked in “Confessions of a Shopaholic,” by a friend who is scanning her job qualifications. Ms. Fisher’s character responds: “Everyone has fudged their résumé a little.”
+
+Often, it’s as benign as someone forcing undue perkiness. Like Logan Levey, 32, now an office coordinator in San Francisco, who recalled how he had maintained a sunny expression while interviewing for hospitality roles.
+
+“I always tried to keep the energy super high,” Mr. Levey said. “Even if I wasn’t feeling it that day.”
+
+Psychologists who study interviews note that a wide range of inauthentic behaviors can be in play. Most job seekers use what’s called “impression management” in the interview process, which means they’re thinking about how to present the best version of themselves, according to Joshua Bourdage, an organizational psychologist at the University of Calgary, and Nicolas Roulin, an organizational psychologist at Saint Mary’s University.
+
+But there are honest, relatively honest and flat-out deceptive versions of that. Deceptive ingratiation can mean laughing at unfunny jokes, and honest ingratiation can be connecting with the interviewer over real shared interests, like hiking or watching the Knicks. Slight image creation means inflating your skills just a bit (maybe that camping trip becomes a passion for wilderness survival), while extensive image creation means making up stories of fake accomplishments (maybe that camping trip includes wrestling a bear). Some two-thirds of job applicants use deceptive ingratiation, and over half admit to slight image creation, according to research by Dr. Bourdage and Dr. Roulin.
+
+How likely people are to fall back on these practices depends on how much they want the job, as well as how easily they think they can get away with the ruse. Research has shown that Americans are more likely to consider using deceptive interview tactics than Western Europeans, and deception is more commonly considered in some parts of the Northeast and California than in other areas of the United States.
+
+Whether employers pick up on fishy behaviors can depend on their level of desperation. Right now, with job openings high and unemployment low, many companies are scrambling to find talent.
+
+“There’s a lot of demand out there for relatively few people,” said Ben Zhao, a computer science professor at the University of Chicago who studies online marketplaces, adding that the imbalance in the labor market might push companies toward risky hires. “That makes them more susceptible to misrepresentation or fraud.”
+
+Employers are also facing a moment in which collective angst is driving all kinds of unusual misbehavior. That’s something Tamara Sylvestre, 32, said she realized last year when she was working as a recruiter at a staffing firm based in Michigan and interviewed someone for an engineering position. She did an initial phone screening with the candidate, in which she noted that he had a high-pitched voice. When she conducted a follow-up technical interview by video, his voice seemed to have deepened.
+
+Ms. Sylvestre later asked why his vocal pitch had changed, and he confessed that he had asked a friend to do the video interview for him.
+
+“What were you going to do if you ended up getting the role?” Ms. Sylvestre recalled asking the candidate, bewildered. “He was like: ‘I was really nervous. I thought no one would notice.’ The role was 100 percent remote, so maybe he thought it wouldn’t make a difference.”
+
+Mark Bradbourne, 46, who works as an engineer in Ohio, recalled a trickster who got even further in the hiring process several years ago. Mr. Bradbourne asked a new employee during his first week to do a data visualization exercise identical to one he had completed in his technical interview. The new hire didn’t know how to proceed. When Mr. Bradbourne reminded the employee that he had done the same task in his hiring process, the man jumped up and ran out of the room, then immediately resigned.
+
+Persuading a friend to pinch-hit during a technical screening is an extreme variety of interview fake-out. But organizational psychologists observe that interviewers tend to reward honesty. They recognize when people speak genuinely to the aspects of a company that resonate with their interests, Dr. Bourdage said.
+
+Interviewers are also getting savvier at detecting dishonesty. Meta, formerly Facebook, has in-house psychologists who devise probing questions that would be hard for interviewees to fake. Scott Gregory, chief executive of the personality testing company Hogan Assessment Systems, encourages employers to scrap classic interview questions — “What are your greatest strengths?” — in favor of situational and behavioral ones, in which candidates narrate experiences they’ve had or explore hypothetical scenarios. Meta’s head recruiter said the company expected candidates to turn on their camera for video interviews, though it can accommodate any circumstances that make it hard to do so.
+
+Still, the subtler stresses of the interview process remain: In a corporate culture where a popular term of art is transparency, how much of your true personality can you reveal before you’re hired? Should you be yourself if yourself might not get you the job?
+
+“It is a fine line between being unprofessional, too casual, too familiar, and being your authentic self,” said Miranda Kalinowski, Meta’s global head of recruiting.
+
+Kelsey Klausing, 32, a manager at Hogan, recalled years ago interviewing for a position that was slightly outside her realm of experience. Buckling under the pressure, Ms. Klausing found herself emphasizing skills that she had only really “dabbled in.” Weeks later, when she found out she was out of the running because the company had decided not to hire for the role, she felt a wave of relief.
+
+“It probably wasn’t the best match for me anyway,” Ms. Klausing said. “Fake it till you make it can only last for so long.”

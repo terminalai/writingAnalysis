@@ -1,0 +1,83 @@
+Virginia Lewis Hall’s post-polio syndrome makes breathing difficult; the newspaper clipping shows her in an ‘iron lung’ respirator as a child.Credit: Tom Smart/New York Times/Redux/eyevine
+
+When Ashley Shew turned up for an appointment at a medical centre in spring 2020, a member of staff told her she could remove her mask because only people with pre-existing conditions were vulnerable to COVID-19. Shew was surprised. “A hard-of-hearing amputee battered by chemotherapy and more”, as she describes herself, she is a regular at the centre — the appointment that day concerned her prosthetic leg. Who, she wondered, did the staff member think counted as a person with pre-existing conditions?
+
+The invisibility of disability is not new, says Shew, a 38-year-old philosopher who explores the intersection of technology and disability at Virginia Polytechnic Institute and State University in Blacksburg. “But it is particularly deadly that we don’t frame COVID-19 as a disability issue,” she says. “Even linguistically we’re pointed away from it. ‘Pre-existing conditions’ is a way of not saying ‘disability’.”
+
+From the beginning of this pandemic, people with disabilities understood that the disease would target them and would swell their ranks. Disability historians knew that there was a penumbra of ill health to previous mass-death events. Health economists warned that, as with tuberculosis, HIV and other diseases, morbidity would stalk mortality. Too many others have clung stubbornly to a belief that COVID-19 is something from which a minority of people die, and that most bounce back quickly and intact, with only their immune system updated. The longer the pandemic drags on, the harder it is to maintain that fiction.
+
+Two years in, the debilitating tail of the pandemic has revealed itself in the form of tens of millions of people living with long COVID1. It is high time to ask whether attitudes to disability will change as a result. Will society grasp that the body can be altered for a long period — even permanently — by infectious disease, just as it seems to have accepted that the body politic will never be the same again? And will it make the necessary accommodations?
+
+These questions have been asked before.
+
+##Long influenza
+
+Consider the ‘mother of all pandemics’ — the 1918 Spanish influenza outbreak. Even in the 1920s, scientists understood that this flu had neurological and other effects. The most notorious and debated of those — still — is the overlapping pandemic of encephalitis lethargica (EL) or ‘sleepy sickness’. Eighty per cent of EL survivors went on to develop a Parkinson’s-like disease2. According to cell biologist Richard Smeyne at the Jefferson Hospital for Neuroscience in Philadelphia, Pennsylvania, it has never been proved biologically that flu caused both EL and this post-encephalitic parkinsonism — at least not in the sense of catching the virus in flagrante in the brain tissue of people who had died. Yet the statistical case for it seems strong2.
+
+
+
+The neurological tails of two subsequent flu pandemics, in 1957 and 1968, were less pronounced, but both were followed by rises in cases of encephalitis (brain inflammation), among other conditions2. Once again, researchers failed to demonstrate a clear causal link with an earlier flu infection, but it has since been established that the flu virus can infect the brain and trigger inflammation there and elsewhere in the body. Clinicians see this after every flu season, in a wave of strokes and heart attacks predominantly among older people3. And flu can cause encephalitis in children. It’s rare, but it can kill, and those who survive can be left with long-term brain damage2.
+
+Flu is by no means the only infectious disease with long-term effects. For old foes such as measles and hepatitis, complications are well documented — such as the progressive neurological disorder subacute sclerosing panencephalitis and chronic liver disease, respectively. And researchers might even have good insight into the mechanisms that cause them.
+
+With new diseases, or new variations on old diseases, long-range effects take time to be characterized. It took decades for researchers to prove a hunch that infection with the Epstein–Barr virus is a trigger for multiple sclerosis4, for example. There are reasons it’s not always easy to connect late-developing symptoms to the acute form of the disease, and identify a common cause.
+
+Children attend a long-COVID clinic in Israel.Credit: Corinna Kern/Reuters
+
+Take Ebola. Ever since the outbreak in West Africa in 2014, researchers have recognized a post-Ebola syndrome that affects the heart, brain, eyes and joints5. How the Ebola virus causes symptoms across so many organs is not yet clear. Studying the problem is complicated by the fact that, because Ebola is so deadly — killing around half those it infects — survivors experience significant social stigma.
+
+Stigma can draw a veil of silence around a disease’s chronic effects, with the result that they don’t filter into the public consciousness. Jeanne Billioux, an infectious-diseases clinician at the US National Institute of Neurological Disorders and Stroke in Rockville, Maryland, has been following survivors of Ebola in Liberia since 2015. Many of them were expelled from their villages, she says: “They’re getting better over time, but a significant proportion are still symptomatic.”
+
+##Post-polio syndrome
+
+Before virologist Jonas Salk’s polio vaccine was approved in 1955, the terrifying polio epidemics that swept North America and Europe each summer scarred the collective imagination. That mobilized support for the US non-profit organization March of Dimes, which helped to fund the vaccine. After 1955, there was a sense that the problem had been solved.
+
+When, decades later, a proportion of the survivors of those epidemics relapsed — estimates vary between 20% and 85%6 — their condition failed to elicit the same level of concern.
+
+
+
+As encroaching respiratory and motor difficulties forced people back into dependence on aids for breathing and mobility, their priorities were re-ordered as radically as it’s possible to imagine. Medical anthropologist and historian Joseph Kaufert at the University of Manitoba in Winnipeg, Canada, interviewed people with post-polio syndrome in the 1980s and 1990s7. “When I was up in the wheelchair it was just a matter of trying to breathe,” one man told him. “That was a day’s work.”
+
+For Kaufert, the invisibility of these individuals owes much to a failure of collective memory. As their hard-won autonomy seeped away, they often reached out to the respiratory physicians who had treated them initially. But many had retired, and younger clinicians showed less interest. “It was really hard to build a career on an illness from the past,” Kaufert says.
+
+In the 1980s, medical researcher Albert Sabin, who developed the polio vaccine that replaced Salk’s, drew attention to post-polio syndrome, and March of Dimes took up the cause. It quickly became clear that there would be no silver bullet, no equivalent of the vaccine. The solution would involve mixing and matching therapies to suit each individual. That was a harder sell to the money-giving public.
+
+Looking back over the twentieth century, it’s impossible to ignore the scarring effects of infectious disease. Yet when a new virus emerged in late 2019, even the best-resourced nations failed to anticipate its long-term impact.
+
+##The long haul
+
+Long COVID is the latest reminder that epidemics have long tails – biologically, as well as psychologically, economically and socially. Since the persistent effects of COVID-19 were recognized 6 months into the pandemic, up to 200 symptoms have been reported8 in 10 organ systems9, including the skin, brain10, heart11 and gut. The recurring core12 of these comprises loss of mobility, lung abnormalities, fatigue and cognitive and mental-health problems. But it’s clear that long COVID is a catch-all term for a panoply of post-viral syndromes. Consequently, there is no simple test for it. Diagnosis is based on clinical symptoms, past infection with COVID-19 and the lack of an obvious alternative cause.
+
+There was a tendency among medics to play down long COVID to begin with. Now, thanks in large part to the voice that ‘long-haulers’ found as they came together in a global online community that includes health-care workers, long COVID is the subject of large grants, research projects and a few specialist clinics, including for children.
+
+Yet it continues to be overlooked by decision makers, who still present the costs and benefits of COVID-19 containment in terms of data on cases, hospitalizations and deaths alone. This means that in many countries, a burden of future disability is being created that could have been prevented, or reduced.
+
+A man who has recovered from Ebola receives medication to help treat his long-term symptoms.Credit: Tommy Trenchard/MSF
+
+In May 2021, health economists at the London School of Hygiene & Tropical Medicine estimated that COVID-induced disability might account for roughly 30% of the pandemic’s overall health burden13. Theirs was an early, necessarily limited attempt at quantification. It excluded mental illness, for example. More recent estimates, made in the light of accumulating but still partial knowledge about long COVID, indicate that disability is likely to account for the lion’s share of COVID-19’s burden, and might disproportionately affect women, especially those who were infected young14.
+
+These estimates remain crude, not least because too little is known about COVID-19’s long-term effects on children. And they do not capture the impact of the predicted wave of disability on carers. Numbers will be refined as time goes on, and as data come in from ongoing studies, such as COVID-CNS (led by the University of Liverpool, UK, and King’s College London) and STIMULATE-ICP (led by University College London).
+
+
+
+Meanwhile, work proceeds on trying to understand how the coronavirus SARS-CoV-2 triggers long-term effects. Just how it damages the central nervous system is a matter of heated debate, for example15–19. One theory is that SARS-CoV-2 prompts a fleeting immune response that primes the brain for a later insult — genetic or environmental. If such a model applies more broadly, it might explain why it has been so hard to demonstrate a direct biological link15 between viral infection and neurological disease, says Smeyne. It could also make it fiendishly difficult to predict who will succumb later. “It’s like, spin the wheel,” he says.
+
+It could even turn the idea of pre-existing conditions on its head. Does transient infection itself create a vulnerability which, sometime later, might or might not translate into an epidemic of disability?
+
+##Disability rights
+
+In the past, awareness of the disability that contagion brings in its wake has translated into meaningful change. In the United States, for example, polio survivors Judith Heumann and Ed Roberts emerged as leaders of the disability-rights movement. They were influential in pushing through legislation intended to improve life for all people with disabilities, including the Rehabilitation Act of 1973 and the Americans with Disabilities Act of 1990.
+
+One of long-haulers’ clearest demands has yet to be reflected on national or international data dashboards. Namely that the tsunami of COVID-induced disability is acknowledged in pandemic policymaking, not just in scientific grants, papers and clinics. “There is a strange disconnect whereby health ministers are now talking about the gravity of long COVID, but it features nowhere in the considerations on which they base their pandemic policy,” says Nisreen Alwan, a public-health specialist at the University of Southampton, UK, who is herself recovering from long COVID.
+
+
+
+And many long-haulers have found common cause with clinically vulnerable people in calling out the ableism and disablism (see go.nature.com/336rjwc) of policies that fail to keep COVID-19 case numbers low. Rampant spread not only raises the risk of more troublesome variants evolving, it also sets more people up for long-term health problems — especially those who are already marginalized — and it limits the lives of millions for whom vaccines are unavailable or ineffective.
+
+Public health has always privileged the acute over the chronic, but this is about more than discounting the future. It’s about duelling models of disability — the medical and the social. When will it be safe for the adult with severe asthma to return to in-person work? How is the thriving child with an organ transplant to get educated if there’s no vaccine for her, no masks or tests for her classmates, no notifying her parents when there’s a case in class, and public messaging that runaway infection among children is fine?
+
+The extent to which such conditions are disabling is largely determined by society’s willingness to adapt, notes historian Catherine Kudlick, who directs the Paul K. Longmore Institute on Disability at San Francisco State University in California. She says: “Like disability in general, the pandemic causes you to re-evaluate your priorities and say, ‘OK, what really matters?’”
+
+Shew points out that, during the lockdowns triggered by the present pandemic, accommodations that disabled people had long campaigned for — remote working, and flexibility in working hours, communication format and metrics of productivity — were universally adopted. She worries that they’ll be dropped in some futile quest to return to a pre-pandemic ‘normal’. Yet she also draws hope from Heumann and Roberts.
+
+If polio survivors could drive social change in the past century, perhaps COVID-19 survivors will in this one — making all disability more visible. “If it weren’t built on suffering and death,” Shew says, “it would be an exciting time to be thinking about disability rights.”
