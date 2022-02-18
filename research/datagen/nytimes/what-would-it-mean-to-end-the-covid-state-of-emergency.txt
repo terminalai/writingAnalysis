@@ -1,0 +1,75 @@
+This article is part of the Debatable newsletter. You can sign up here to receive it on Tuesdays and Thursdays.
+
+As the Omicron wave recedes from the United States, a new politics of pandemic resignation is setting in. Pundits on late-night television talk of being “done with Covid.” High-profile governors in big blue states — California, New York and New Jersey among them — are lifting indoor mask mandates. And according to a recent poll, 70 percent of Americans agree that “it’s time we accept that Covid is here to stay and we just need to get on with our lives.”
+
+And yet what exactly it would mean to “get on with our lives,” and how to do so, remains unclear. Covid case and hospitalization rates are declining almost everywhere in the country, but over 2,300 Americans are still dying every day, more than at any point of the pandemic except last winter. And while the public may want a return to normal, it also does not necessarily want an immediate end to coronavirus restrictions.
+
+At this once again uncertain stage of the pandemic, how should we be thinking about Covid prevention measures? Is it time to consider shifting the domain of Covid mitigation from government mandates to personal risk assessments and behavior? Here’s what people are saying.
+
+As The Times’s David Leonhardt has written, some Americans, particularly on the liberal side of the spectrum, have come to speak of expert opinion and science almost as an ultimate authority on Covid precautions, one that “could solve our dilemmas if we only listened.”
+
+But every Covid restriction has public-health benefits as well as potential social and economic downsides. Science, at its best, can give us an accurate picture of what those trade-offs are. But it cannot resolve the question — which is a fundamentally political one — of which trade-offs are worth making.
+
+“The truth is that science doesn’t have an answer for what level of Covid-19 transmission is acceptable in schools before and after masks are removed or what level is acceptable in communities before and after vaccine verification,” Jay K. Varma writes for The Times. “Someone has to decide, and that decision will involve subjective assessments of the risks people will tolerate.”
+
+Compliance adds another complicating factor. As Michael Bang Petersen, a professor of political science who advises the Danish government on Covid policy, writes in The Times, “Within the set of legitimate strategies, the choice of strategy is often less important than whether or not people follow and support it.”
+
+With vaccines and high-quality masks now widely available, expert opinion about the wisdom of mask mandates is no longer as homogeneous as it once was. Leana Wen, for example, a professor at George Washington University’s Milken Institute School of Public Health, has argued that masks should be optional, not required, even at high rates of community transmission.
+
+Those concerned about contracting the virus or transmitting it to others would retain the option of one-way masking, which experts say can still confer good protection. If you are vaccinated, boosted, and wearing a well-fitted N95 or similar mask indoors, “your risk is extremely low,” Joseph Allen, a Covid and ventilation expert at Harvard, told The Atlantic. “I mean, there’s not much else in life that would have as low a risk as that.”
+
+But others argue that one-way masking is a mistaken public health strategy. Research has shown that while one-way masking, particularly with an N95 or similar, does substantially reduce the risk of infection, it is not a perfect substitute for universal masking.
+
+At this stage, then, the benefits of convenience from doing away with mask mandates will come at the expense of the most vulnerable, Abdullah Shihipar, a public-health researcher based at Brown University, argues in Slate. “If we share the burden of masking in public spaces, not only will vulnerable people be better protected, but cases will go down faster,” he writes.
+
+Still others believe that mask mandate changes won’t significantly affect people’s behavior. “Even with mandates,” says Tara Parker Pope of The Times, “the reality has been that people who hate masks are lax and wear flimsy masks below those noses and people who don’t mind masks are wearing them correctly.”
+
+Schools occupy a uniquely contentious corner of the national mask debate, for a couple of reasons:
+
+Some experts believe that school masking isn’t very beneficial in a post-Omicron world, since cloth masks are insufficiently protective, surgical masks are poorly fitted for young children and pediatric N95s don’t exist.
+
+In recent months, more concerns have also been raised about the potential harms masking might inflict on childhood development. A new study out of Canada, for example, found that the deficit in face perception abilities with masks was more pronounced in children than in adults. “There is a possibility it could impair children’s ability to navigate through social interactions with their peers and teachers, and this could lead to issues forming important relationships,” Erez Freud, the study’s lead author, told The New York Post.
+
+In part for these reasons, the United States remains an outlier in recommending masks from the age of 2. The World Health Organization does not recommend masks for children under 5, while the European equivalent of the Centers for Disease Control and Prevention doesn’t recommend them for those under 12.
+
+Still, some parents find the idea of ending school mask mandates unfathomable in places where Covid continues to disrupt in-person schooling. “The substitute shortage is so bad that parents — and, in New Mexico, members of the National Guard — are being asked to fill in,” The Times columnist Michelle Goldberg wrote at the end of January. “This isn’t a problem that can be fixed with an attitude adjustment.”
+
+Some commentators have also pointed out that the evidence that masking harms children is at best inconclusive. “There are few long-term studies on masks and development because we’ve only been wearing them widely in the United States for two years or so (and some places never fully adopted them),” Melody Schreiber writes for The New Republic. “But it’s striking that, two years in, early fears about developmental issues from masks have still not materialized into delays.”
+
+Some public health experts hope that the rollback of mask mandates may create an opening to draw the public’s attention to a long-overlooked Covid prevention measure: ventilation and filtration. Ventilation and filtration can significantly reduce the number of infectious particles in the air, and unlike masks don’t rely on personal choice. “They can run in the background without getting too mired in political decision making, so it’s important to lean on them,” Anisa Heming, director of the Center for Green Schools at the U.S. Green Building Council, said recently.
+
+But upgrading ventilation systems in public spaces is a costly and involved proposition. While The American Rescue Plan provided billions of dollars to schools to adapt to Covid, it’s not clear whether those funds are being spent wisely. “I have so many examples, I’m collecting them now, with schools being sold, essentially, snake oil, when all they need to do is try to figure out the ventilation and the HEPA filter,” Zeynep Tufekci of The Times said last month.
+
+Of all the Covid prevention measures we have at our disposal, vaccines are far and away the most effective at reducing the risk of hospitalization and death. But the U.S. vaccination rate continues to trail that of dozens of other countries, with only 64 percent of the population having received two doses.
+
+The politics of changing that statistic have proved prohibitive. The Supreme Court has bound the Biden administration’s hands when it comes to federal vaccine mandates, and a sizable minority of Americans remain so opposed to a Covid vaccination that there is little chance of persuading them.
+
+Still, many believe there is more the government can do to increase the vaccination rate:
+
+As Sarah Zhang notes in The Atlantic, Covid hospitalizations and deaths are disproportionately concentrated in older populations, and 11 percent of Americans 65 and older still haven’t received a shot — a significantly larger share than in other countries. To change that, experts whom Zhang spoke to recommended that the agency that oversees Medicare provide more direct incentives for vaccination, like making vaccination and booster rates among patients a criterion for determining how much providers are reimbursed and how highly the quality of nursing homes are rated.
+
+As Elisabeth Rosenthal points out in The Times, the vaccination rates among children ages 5 to 11 are still alarmingly low. But there is a simple, time-tested way to rectify that: States could mandate vaccination against the coronavirus in schools, just as they already do for measles and chickenpox. 
+
+And vaccinating the rest of the world is still a vital prevention measure against future waves, Gregg Gonsalves, a Yale epidemiologist and AIDS activist, argues in The Times. “Think of the home we’ve then made for viruses like SARS-CoV-2 by impeding access to vaccines and allowing millions to go without AIDS treatment even now,” he writes. “Variants can emerge from our desire to put it all behind us. No one is truly safe until we all are.”
+
+In the United States, about 7 million people — more than the populations of 36 states — have compromised immune systems that are partly or completely incapable of generating immunity against the coronavirus.
+
+For the state of emergency to end for this vulnerable group, Dorry Segev and William Werbel argue in The Times that blanket restrictions on additional vaccine doses have to be lifted; production of pre-exposure monoclonal antibody treatments has to be scaled up; and, most important, pharmaceutical companies conducting clinical trials for Covid drugs need to include people with weakened immune systems.
+
+Immunocompromised people also deserve accommodations that make their lives easier, Ed Yong argues in The Atlantic, much as ramps, accessibility buttons and screen readers have made life easier for disabled people. No immunocompromised person he spoke to wanted a lockdown. What they did want, in addition to better medical treatments, was more work flexibility and better ways of controlling infectious diseases through ventilation standards, mask mandates for essential spaces such as grocery stores and pharmacies that can be tied to case rates, widespread availability of tests, paid sick leave and improved vaccination rates.
+
+Yong argues that these changes would benefit everyone in the long run, not just the immunocompromised. But there are selfish reasons for healthy people to support them too. For one thing, the coronavirus evolves rapidly in people with weakened immune systems, so protecting immunocompromised people could guard against future variants.
+
+And for another, even healthy people’s immune systems tend to weaken with age. “Everyone’s going to deal with illness at some point in their life,” Maggie Levantovskaya, a writer and literature professor who has lupus, told him. “Don’t you want a better world for yourself when that time comes?”
+
+Do you have a point of view we missed? Email us at debatable@nytimes.com. Please note your name, age and location in your response, which may be included in the next newsletter. 
+
+“Vulnerable to the Virus, High-Risk Americans Feel Pain as the U.S. Moves On” [The New York Times]
+
+“Post-Omicron Life Can Be Downright Maddening” [The Atlantic]
+
+“How to Reclaim Normal Life Without Being ‘Done’” [The Atlantic]
+
+“There Will Be No Post-Covid” [The New York Times]
+
+“The Covid Emergency Is Ending. Here’s What We Should Do Next.” [Politico]

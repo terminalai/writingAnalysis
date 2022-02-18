@@ -1,0 +1,83 @@
+To hear more audio stories from publications like The New York Times, download Audm for iPhone or Android.
+
+Spotify has been rocked in recent weeks by the controversy engulfing its most popular podcaster, Joe Rogan.
+
+Several prominent musicians and podcasters have left the streaming service to protest what they described as Mr. Rogan’s history of promoting misinformation about the coronavirus and vaccines. There have been calls for boycotts, and Mr. Rogan issued an apology for his past use of a racial slur and took down as many as 70 old episodes of his podcast, “The Joe Rogan Experience,” without explanation.
+
+The catalyst for much of the controversy was a December episode of his podcast that featured Dr. Robert Malone, a virologist and vaccine skeptic. Hundreds of public health officials and professors, citing the promotion of “several falsehoods about Covid-19 vaccines,” urged the service to crack down on misinformation about the virus.
+
+For over three hours, Dr. Malone and Mr. Rogan discussed theories and claims about the coronavirus pandemic and vaccines. The conversation included a false equivalence between the vaccine and Nazi medical experiments, baseless conjecture that President Biden is not actually vaccinated and inaccurate interpretations of government data and guidelines.
+
+Here’s a fact check of some of their claims.
+
+“Whatever was in those packages was rumored to include ivermectin. But there was a specific visit of Biden to Modi and a decision was made in the Indian government not to disclose the contents of those packages that were being deployed in Uttar Pradesh, which they’re still there, and Uttar Pradesh is flatlined right now.” — Dr. Malone
+
+This is misleading. Dr. Malone’s suggestion that Mr. Biden urged Prime Minister Narendra Modi of India to conceal the successful use of the drug ivermectin in Uttar Pradesh, the country’s most populous state, does not add up.
+
+It is not exactly a secret that Uttar Pradesh has promoted ivermectin as a prophylactic. The state issued a government notice in August 2020 recommending the prescription of the drug to those who had come into contact with Covid patients, and officials have publicly acknowledged its use throughout the pandemic. Mr. Biden and Mr. Modi met in September, and officials in Uttar Pradesh have continued to publicize the state’s use of ivermectin since, even as India stopped recommending it.
+
+Dr. Malone was also wrong that cases in Uttar Pradesh “flatlined” as the world coped with the Omicron variant. Though the case count in the state remained low during the summer and fall, it began to trend upward by late December, when Dr. Malone spoke with Mr. Rogan, and reached more than 11,000 daily cases in mid-January.
+
+Promoters of ivermectin often cite Uttar Pradesh’s low death toll as proof of the drug’s efficacy, but experts say there is no proof of that causal link. It is also worth noting that researchers have questioned the reliability of data from Uttar Pradesh.
+
+Mr. Rogan: “But I saw the shot where Joe Biden got it on TV and they didn’t aspirate them. They just ——”
+
+Dr. Malone: “I don’t know what to say ——”
+
+Mr. Rogan: “I’ll tell you what to say — that’s not the way to do it.”
+
+Dr. Malone: “Yeah, and was that really a vaccine? Right, then we go down that whole rabbit ——”
+
+Mr. Rogan: “That’s my favorite rabbit hole because of the fake set, remember.”
+
+False. Aspiration refers to pulling back the plunger of a syringe to check that the needle was not inserted into a blood vessel. The practice and its perceived benefits are the subject of debate among medical professionals. Mr. Rogan and others have wrongly suggested that Mr. Biden has not actually received the vaccine since his shots were not aspirated. But the Centers for Disease Control and Prevention does not recommend aspirating before administering any vaccines, as it could cause additional pain.
+
+Mr. Biden received his booster shot on camera in September, in front of a backdrop that looks like the White House but is actually in the South Court Auditorium in the Eisenhower Executive Office Building. Some social media posts cited the use of the backdrop as evidence that Mr. Biden had not actually been vaccinated. In reality, Mr. Biden and his predecessors have used the auditorium for events for years.
+
+Mr. Rogan: “So, if they had just done what Sweden had done and some other countries where they didn’t institute lockdowns and they sort of let people just live their lives and make their own choices, they were saying that millions of people would have died?”
+
+Dr. Malone: “So it would be, so it seems.”
+
+Mr. Rogan: “But time has shown that Sweden actually had a more effective take on the virus.”
+
+This is misleading. Unlike many other European countries, Sweden did not impose full-scale lockdowns, though it has enacted some restrictions, including limiting the sizes of gatherings and imposing partial travel bans and social distancing requirements. But Mr. Rogan is wrong to say that Sweden has been “more effective” in curtailing the virus.
+
+“Now, we’re two years into this and Sweden doesn’t really stand out,” Anders Tegnell, the country’s chief epidemiologist, told The Financial Times in November. “We’re not the best, but we’re definitely not the worst.”
+
+Compared with those of other countries in Europe, Sweden’s death rate and case count are indeed in the middle of the pack. Among its Scandinavian neighbors, however, Sweden has the highest death rate.
+
+“Those surrounding states in the Palestinian territory does not have that level of vaccine uptake at all. The mortality in the surrounding states in the Palestinian Authority is substantially less from this virus than the mortality in Israel.” — Dr. Malone
+
+False. About two-thirds of the Israeli population had been fully vaccinated by the end of December, compared with about a third of those living in the West Bank and Gaza. The case fatality rate and cumulative death rate from Covid are both higher in the occupied territories than in Israel.
+
+“The C.D.C. made the determination that they were going to make a core assumption — if P.C.R. positive and you die — that is death due to Covid. And so the extreme example, just to show the absurdity: If the patient comes in with a bullet hole in the head and they do a nose swab and they come up P.C.R. positive, they’re determined to have died from Covid.” — Dr. Malone
+
+This is misleading. The C.D.C. has issued guidelines on certifying deaths that detail how to track the immediate cause of death, an underlying cause or a significant condition that contributed to the death. The guidelines do not require counting Covid-19 as a cause of death when someone has tested positive but died for unrelated reasons.
+
+Robert Anderson, the chief of mortality statistics at the C.D.C.’s National Center for Health Statistics, said on a podcast in January that a car crash victim who tested positive and died would not be counted as a Covid fatality in “most cases.”
+
+“Maybe the person comes in and they’ve got a very severe injury and they simply test positive for Covid and there are no symptoms that are likely to be incidental to death,” he said. “But if you had somebody who, let’s say, had chest trauma from the car accident and they were, they’re struggling to breathe already. They get Covid in the hospital and they’re showing some symptoms. There, it could contribute.”
+
+“Now one of the things that people have said in response to the vaccine injuries is that it’s approximately one in 1,000 that are getting these significant injuries like myocarditis.” — Mr. Rogan
+
+False. Studies have shown that the Covid-19 vaccine can be associated with an increased risk of myocarditis or inflammation of the heart muscle, but Mr. Rogan’s one-in-1,000 figure comes from a retracted study.
+
+Researchers identified 32 cases of post-vaccine myocarditis in Ottawa from June to July 2021 out of some 32,000 vaccine doses administered. But the actual number of doses administered during that time was more than 800,000. When alerted to the error, the authors withdrew the paper and apologized for their mistake.
+
+Moreover, several studies have shown that Covid-19 is more likely to cause myocarditis than the vaccine.
+
+“Ninety-five percent of the people who have died from Covid had an average of four comorbidities.” — Mr. Rogan
+
+This is misleading. Throughout the pandemic, some social media users have misinterpreted data from the C.D.C. to suggest that Covid death counts are inflated.
+
+According to the public health agency, the virus has been “the only cause mentioned on the death certificate” for about 5 percent of deaths involving Covid-19. For the other 95 percent of deaths, the certificate listed an average of four additional conditions or causes.
+
+But as experts have explained repeatedly, the presence of other conditions or diseases does not mean that Covid-19 was incidental to the death. In fact, Covid-19 is listed as the underlying cause in 91 percent of the cases.
+
+For example, someone’s immediate cause of death could be respiratory distress syndrome, which was caused by viral pneumonia, which in turn was caused by the coronavirus. Other comorbidities would be listed on that death certificate, but the underlying cause is still Covid-19.
+
+“These mandates of an experimental vaccine are explicitly illegal. They are explicitly inconsistent with the Nuremberg Code. They’re explicitly inconsistent with the Belmont Report.” — Dr. Malone
+
+False. Vaccine mandates do not violate either the Nuremberg Code or the Belmont Report, sets of ethical principles for conducting medical research involving human subjects, given that the Covid-19 vaccines are not experimental.
+
+At the time of the podcast’s release, the Food and Drug Administration had fully approved the vaccine from Pfizer and BioNTech and had granted emergency use authorization for the Moderna and Johnson & Johnson vaccines. Moderna’s vaccine was fully approved in January.

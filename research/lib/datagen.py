@@ -31,7 +31,7 @@ def nytimes(url):
     :param url: New York Times Article URL
     :returns: A multi-line string containing all the text from the article.
     """
-    return "\n\n".join([tag.text for tag in souper(requests.get(url).content).findAll("p", {"class":"evys1bk0"})])
+    return "\n\n".join([tag.text for tag in souper(requests.get(url).content, features="lxml").findAll("p", {"class":"evys1bk0"})])
 
 
 def nature(url):
@@ -42,7 +42,7 @@ def nature(url):
     :param url: A Nature Opinion Article URL
     :returns: A multi-line markdown-formatted string containing all the text from the article.
     """
-    return "\n\n".join([(i.name=="h2")*"##" + i.text.strip() for i in souper(requests.get(url).content).findAll("div", {"class":"c-article-body"})[0].findChildren(recursive=False) if "recommended" not in _findClass(i)])
+    return "\n\n".join([(i.name=="h2")*"##" + i.text.strip() for i in souper(requests.get(url).content, features="lxml").findAll("div", {"class":"c-article-body"})[0].findChildren(recursive=False) if "recommended" not in _findClass(i)])
 
 
 def forbes(url):
@@ -52,7 +52,7 @@ def forbes(url):
     :param url: A Forbes Article URL
     :returns: A multi-line string containing all the text from the article.
     """
-    return "\n\n".join([tag.text.strip() for tag in souper(requests.get(url).content).find("div", {"class":"article-body"}).findAll("p") if "wp-caption-text" not in _findClass(tag)])
+    return "\n\n".join([tag.text.strip() for tag in souper(requests.get(url).content, features="lxml").find("div", {"class":"article-body"}).findAll("p") if "wp-caption-text" not in _findClass(tag)])
 
 
 #souper(requests.get("https://www.linkedin.com/pulse/hirings-new-red-line-why-newcomers-cant-land-35-jobs-george-anders/").content).find("div", {"class":"reader-article-content"})

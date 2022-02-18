@@ -1,26 +1,26 @@
 This article is part of the On Tech newsletter. Here is a collection of past columns.
 
-If the tech predictions pan out, weíll soon be wearing computers on our faces and plugging into immersive realms of virtual people and places, perhaps blended with the real world around us.
+If the tech predictions pan out, we‚Äôll soon be wearing computers on our faces and plugging into immersive realms of virtual people and places, perhaps blended with the real world around us.
 
-(I donít want to use the buzzword ìmetaverseî here, because ugh. This term from science fiction has been applied to anything and everything that we should just call the internet. But thatís partly what Iím talking about.)
+(I don‚Äôt want to use the buzzword ‚Äúmetaverse‚Äù here, because ugh. This term from science fiction has been applied to anything and everything that we should just call the internet. But that‚Äôs partly what I‚Äôm talking about.)
 
 I am both apprehensive and excited about the potential next generation of technologies that may further blur the lines between computers and us, and between online and real life. I can get into the idea of glasses that let me scroll restaurant menu items and feel as if the sizzling burger is in front of me, or into headgear that lets me exercise next to a virtual lake in Patagonia.
 
-No one can predict how long it might take this imagined future of the internet to come true and go mainstream, if it ever does. But if computers on our faces and more lifelike digital realities are coming for us, letís start thinking through the implications now.
+No one can predict how long it might take this imagined future of the internet to come true and go mainstream, if it ever does. But if computers on our faces and more lifelike digital realities are coming for us, let‚Äôs start thinking through the implications now.
 
-I donít have a fleshed out good humansí guidebook for the metaverse. (Ugh, that word again.) But I know that instead of letting Mark Zuckerberg or the Apple chief executive Tim Cook decide on the etiquette, ethics, norms, rewards and risks of our potential brave new world of technology, we need to do it.
+I don‚Äôt have a fleshed out good humans‚Äô guidebook for the metaverse. (Ugh, that word again.) But I know that instead of letting Mark Zuckerberg or the Apple chief executive Tim Cook decide on the etiquette, ethics, norms, rewards and risks of our potential brave new world of technology, we need to do it.
 
-How we use technology shouldnít be left to the companies that dream up electronics and software. It should be up to us, individually and collectively. That can happen by deliberate thought and careful design, or by the lack of it.
+How we use technology shouldn‚Äôt be left to the companies that dream up electronics and software. It should be up to us, individually and collectively. That can happen by deliberate thought and careful design, or by the lack of it.
 
-Iím writing this now because Apple reportedly plans to introduce its first computers for the face in the next year or so. 
+I‚Äôm writing this now because Apple reportedly plans to introduce its first computers for the face in the next year or so. 
 
-Apple appears to imagine that its face computers ó similar to Microsoftís HoloLens, Snapís experimental Spectacles or the failed Google Glass ó will blend virtual images with the world around us, sometimes called ìaugmented reality.î Imagine watching a fix-it video of a car engine while a guide overlays diagrams on the fan belt that youíre trying to repair. 
+Apple appears to imagine that its face computers ‚Äî similar to Microsoft‚Äôs HoloLens, Snap‚Äôs experimental Spectacles or the failed Google Glass ‚Äî will blend virtual images with the world around us, sometimes called ‚Äúaugmented reality.‚Äù Imagine watching a fix-it video of a car engine while a guide overlays diagrams on the fan belt that you‚Äôre trying to repair. 
 
-Apple has a reputation for making up-and-coming technology go mass market. Weíll see, but itís clear that there will be a lot of activity and attention on face computers and immersive technologies in all forms. (Counterpoint: Some tech experts have predicted the rise of face computers for most of the past decade.)
+Apple has a reputation for making up-and-coming technology go mass market. We‚Äôll see, but it‚Äôs clear that there will be a lot of activity and attention on face computers and immersive technologies in all forms. (Counterpoint: Some tech experts have predicted the rise of face computers for most of the past decade.)
 
-What I want all of us to do ó whether we donít get the fuss over virtual reality or love it ó is to begin deliberating over where we want to focus the promise of this technology and limit the risks.
+What I want all of us to do ‚Äî whether we don‚Äôt get the fuss over virtual reality or love it ‚Äî is to begin deliberating over where we want to focus the promise of this technology and limit the risks.
 
-Iím mindful of what has gone wrong when we allowed technology to wash over us and tried to figure out the details later.
+I‚Äôm mindful of what has gone wrong when we allowed technology to wash over us and tried to figure out the details later.
 
 Partly through an unwillingness or inability to imagine what could go wrong with technology, we have websites and apps that track us everywhere we go, and that sell the information to the highest bidders. We have carmakers that sometimes protect us with clever tech that helps offset human frailties, and other times seem to exacerbate them. We have the best aspects of human interactions online, and the worst.
 
@@ -28,18 +28,18 @@ We should think about this stuff now, before we might all be wearing supercomput
 
 What do we want from this technology? Can we imagine schools, offices or comedy clubs in virtual reality? What do we want from the next generation of immersive internet for our kids? Do we want to drive while our headgear flings tweets into our fields of vision? Do we even want to erase the gap between digital life and real life?
 
-It might be misguided to establish norms and laws around technologies that might take many years to become big. But tech companies and technologists arenít waiting. Theyíre molding their imagined future of the internet now. If we donít engage, that puts the companies in the driverís seat. And weíve seen the downside of that. 
+It might be misguided to establish norms and laws around technologies that might take many years to become big. But tech companies and technologists aren‚Äôt waiting. They‚Äôre molding their imagined future of the internet now. If we don‚Äôt engage, that puts the companies in the driver‚Äôs seat. And we‚Äôve seen the downside of that. 
 
-With the holiday season upon us, we want to hear from our readers about the new ways that youíre using technology (apps, social media, websites, gadgets or more) to help you plan your travel, parties, shopping or family time. Tell us about an app or site you use during the holidays and what makes it helpful, or the tech you stopped using and why. We may publish a selection of the responses in an upcoming newsletter. Email ontech@nytimes.com.
+With the holiday season upon us, we want to hear from our readers about the new ways that you‚Äôre using technology (apps, social media, websites, gadgets or more) to help you plan your travel, parties, shopping or family time. Tell us about an app or site you use during the holidays and what makes it helpful, or the tech you stopped using and why. We may publish a selection of the responses in an upcoming newsletter. Email ontech@nytimes.com.
 
 Tracking the Chinese propaganda and censorship machine: After the Chinese tennis star Peng Shuai accused a former high-ranking government official of sexual assault, she vanished from public life. My colleagues and ProPublica analyzed how Chinese state media, amplified by a network of fake social media accounts, circulated messages that Shuai was safe and free. 
 
-Reading this will make you hungry: One man has made it his mission to have Mexico Cityís street food vendors listed in Google Maps, Rest of World reported.
+Reading this will make you hungry: One man has made it his mission to have Mexico City‚Äôs street food vendors listed in Google Maps, Rest of World reported.
 
-A gazillion speedy delivery apps. With similar fonts: A brand expert writes for Bloomberg Opinion about the similar italics, avocado photos and ìbed-headed, bucket-hatted ëcheat dayí mood of indulgenceî used by start-ups like Gopuff, Getir, Fridge No More and Jokr that deliver convenience and grocery items in 15 minutes or less. (A subscription may be required.)
+A gazillion speedy delivery apps. With similar fonts: A brand expert writes for Bloomberg Opinion about the similar italics, avocado photos and ‚Äúbed-headed, bucket-hatted ‚Äòcheat day‚Äô mood of indulgence‚Äù used by start-ups like Gopuff, Getir, Fridge No More and Jokr that deliver convenience and grocery items in 15 minutes or less. (A subscription may be required.)
 
-ìBehold the fearsome Tyrannosaurus rex ó all swaddled in a cozy Christmas sweater.î
+‚ÄúBehold the fearsome Tyrannosaurus rex ‚Äî all swaddled in a cozy Christmas sweater.‚Äù
 
-We want to hear from you. Tell us what you think of this newsletter and what else youíd like us to explore. You can reach us at ontech@nytimes.com.
+We want to hear from you. Tell us what you think of this newsletter and what else you‚Äôd like us to explore. You can reach us at ontech@nytimes.com.
 
-If you donít already get this newsletter in your inbox, please sign up here. You can also read past On Tech columns.
+If you don‚Äôt already get this newsletter in your inbox, please sign up here. You can also read past On Tech columns.

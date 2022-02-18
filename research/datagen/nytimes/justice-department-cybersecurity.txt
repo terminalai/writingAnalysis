@@ -1,0 +1,25 @@
+WASHINGTON — A top Justice Department official said on Thursday that the agency was bolstering its efforts to address cybercrime, as cryptocurrencies have increasingly become part of the global economy and cyberthreats become more and more common.
+
+Lisa O. Monaco, the No. 2 official at the department, said in a virtual speech at the annual Munich cybersecurity conference that the agency had established a team at the F.B.I. dedicated to cryptocurrency; added a dozen federal prosecutors to a unit investigating and prosecuting criminal misuses of cryptocurrency; and tapped a director to lead it.
+
+“We continue to confront cybercriminals who enjoy safe haven in authoritarian countries and who wreak havoc in both the digital and physical worlds,” Ms. Monaco said, adding that the changes were the result of a monthslong review scrutinizing a threat inextricably tied to hostile nations and criminal gangs.
+
+The announcement by Ms. Monaco came a week after the Justice Department made its largest financial seizure ever, confiscating over $3.6 billion worth of Bitcoin stolen in a 2016 hacking.
+
+The newly formed unit at the F.B.I., the Virtual Asset Exploitation Unit, is meant to provide expertise, equipment and training to help agents trace the flow of funds on the blockchain, the digital ledger that permanently stores records of cryptocurrency trades. It is expected to work closely with the prosecutors on the National Cryptocurrency Enforcement Team, established in the fall. That team will be led by Eun Young Choi, a longtime computer crimes prosecutor.
+
+The Justice Department also created an initiative meant to foster cooperation among international law enforcement groups as they investigate the use of virtual currencies in illegal activity and trace it as it changes hands.
+
+Last year, the Justice Department disrupted REvil, a Russian ransomware group, and seized $6.1 million in cryptocurrency that had reportedly been paid as ransom.
+
+Those seizures were possible because law enforcement has improved at identifying the people who are trading cryptocurrency on the blockchain, where users once enjoyed a far greater degree of anonymity.
+
+“Even in cyberspace, the Department of Justice is able to use a tried and true investigative technique, following the money,” Ms. Monaco said. “It’s what led us to Al Capone in the ’30s. It helped us destroy La Cosa Nostra in the ’60s. And it took down terrorist financing networks in the early 2000s. The currency might be virtual, but the message to companies is concrete.”
+
+Ms. Monaco said that there had been an “explosion” of cryptocurrency abuse and the use of ransomware, malicious code that prevents users from gaining access to their computers until they pay a ransom.
+
+The F.B.I. is investigating more than 100 ransomware variants, and investigators are scrutinizing dozens of ransomware groups estimated to have demanded billions of dollars in payment.
+
+As hackers became increasingly sophisticated at infiltrating and stealing information from corporate and government computers, they relied on cryptocurrencies to collect ransoms from users who were desperate to get their data back.
+
+Last year, the Justice Department introduced the ransomware and digital extortion task force to develop ways to deter such breaches. For the first time, investigators used a traditional search warrant to execute code and erase digital back doors, and they worked with international partners to take down an enormous botnet network — moves that made hundreds of computers safe from hackers.

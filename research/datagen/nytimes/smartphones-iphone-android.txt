@@ -1,37 +1,37 @@
 This article is part of the On Tech newsletter. Here is a collection of past columns.
 
-Iím going to pose an intentionally provocative question: What if smartphones are so successful and useful that they are holding back innovation?
+I‚Äôm going to pose an intentionally provocative question: What if smartphones are so successful and useful that they are holding back innovation?
 
 Technologists are now imagining what could be the next big thing. But there may never be anything else like the smartphone, the first and perhaps last mass market and globally transformative computer.
 
-I may wind up looking like a 19th-century futurist who couldnít imagine that horses would be replaced by cars. But let me make the case that the phenomenon of the smartphone may never be replicated.
+I may wind up looking like a 19th-century futurist who couldn‚Äôt imagine that horses would be replaced by cars. But let me make the case that the phenomenon of the smartphone may never be replicated.
 
-First, when people in technology imagine the future, theyíre implicitly betting that smartphones will be displaced as the center of our digital lives by things that are less obvious ó not slabs that pull us away from our world but technologies that are almost indistinguishable from the air that we breathe.
+First, when people in technology imagine the future, they‚Äôre implicitly betting that smartphones will be displaced as the center of our digital lives by things that are less obvious ‚Äî not slabs that pull us away from our world but technologies that are almost indistinguishable from the air that we breathe.
 
-Virtual reality goggles are bulky annoyances now, but the bet is that tech like V.R. or computers that can ìlearnî like people will eventually blur the line between online and real life, and between human and computer, to the point of erasure. Thatís the vision behind the ìmetaverse,î a broad vision that virtual human interactions will be as complex as the real thing.
+Virtual reality goggles are bulky annoyances now, but the bet is that tech like V.R. or computers that can ‚Äúlearn‚Äù like people will eventually blur the line between online and real life, and between human and computer, to the point of erasure. That‚Äôs the vision behind the ‚Äúmetaverse,‚Äù a broad vision that virtual human interactions will be as complex as the real thing.
 
-Perhaps youíre thinking that more immersive and human-ish technologies sound intriguing, or maybe they seem like the woo-woo dreams of kooks. (Or maybe a little of both.) Either way, technologists must prove to us that the future they imagine is more compelling and useful than the digital life that we already have thanks to the magical supercomputers in our pockets.
+Perhaps you‚Äôre thinking that more immersive and human-ish technologies sound intriguing, or maybe they seem like the woo-woo dreams of kooks. (Or maybe a little of both.) Either way, technologists must prove to us that the future they imagine is more compelling and useful than the digital life that we already have thanks to the magical supercomputers in our pockets.
 
-The challenge for any new technology is that smartphones succeeded to the point where itís hard to imagine alternatives. In a sales boom that lasted about a decade, the devices transformed from a novelty for rich nerds to the only computer that billions of people around the world have ever owned. Smartphones have succeeded to the point where we donít need to pay them much notice. (Yes, that includes the incrementally updated iPhone models that Apple talked about on Tuesday.)
+The challenge for any new technology is that smartphones succeeded to the point where it‚Äôs hard to imagine alternatives. In a sales boom that lasted about a decade, the devices transformed from a novelty for rich nerds to the only computer that billions of people around the world have ever owned. Smartphones have succeeded to the point where we don‚Äôt need to pay them much notice. (Yes, that includes the incrementally updated iPhone models that Apple talked about on Tuesday.)
 
-The allure of these devices in our lives and in technologistsí imaginations is so powerful that any new technology now has to exist almost in opposition to the smartphone.
+The allure of these devices in our lives and in technologists‚Äô imaginations is so powerful that any new technology now has to exist almost in opposition to the smartphone.
 
-When my colleague Mike Isaac tried Facebookís new model of glasses that can snap photos with a tap on the temple, a company executive said to him: ìIsnít that better than having to take out your phone and hold it in front of your face every time you want to capture a moment?î
+When my colleague Mike Isaac tried Facebook‚Äôs new model of glasses that can snap photos with a tap on the temple, a company executive said to him: ‚ÄúIsn‚Äôt that better than having to take out your phone and hold it in front of your face every time you want to capture a moment?‚Äù
 
-I get the executiveís point. Itís true that devices like the Apple Watch, Facebookís glasses and Snapís Spectacles are clever about making features of smartphones less obtrusive. Companies including Facebook, Snap and Apple are also working on eyewear that ó like the failed Google Glass ó aims to combine digital information like maps with what we see around us.
+I get the executive‚Äôs point. It‚Äôs true that devices like the Apple Watch, Facebook‚Äôs glasses and Snap‚Äôs Spectacles are clever about making features of smartphones less obtrusive. Companies including Facebook, Snap and Apple are also working on eyewear that ‚Äî like the failed Google Glass ‚Äî aims to combine digital information like maps with what we see around us.
 
-The comment also shows that any new consumer technology will have to answer the inevitable questions: Why should I buy another gadget to take photos, flip through cycling directions or play music when I can do most of that with the smartphone thatís already in my pocket? Do I need to live in the metaverse when I have a similar experience in the rectangular screen of my phone?
+The comment also shows that any new consumer technology will have to answer the inevitable questions: Why should I buy another gadget to take photos, flip through cycling directions or play music when I can do most of that with the smartphone that‚Äôs already in my pocket? Do I need to live in the metaverse when I have a similar experience in the rectangular screen of my phone?
 
 Smartphones are unlikely to be the apotheosis of technology, and I am curious to see the development of technologies that want to move away from them. But at least for now, and maybe forever, most technologies for our daily lives are supplements to our phones rather than replacements. These tiny computers may be so darn handy that there will never be a post-smartphone revolution.
 
-Should you buy a new phone now? In a recent column, my colleague Brian X. Chen walked through the questions to ask if youíre thinking about swapping your smartphone for a fresh model: Can you repair what makes your phone annoying rather than replace it? Can you still get software updates with the existing model? How would a new phone change your life?
+Should you buy a new phone now? In a recent column, my colleague Brian X. Chen walked through the questions to ask if you‚Äôre thinking about swapping your smartphone for a fresh model: Can you repair what makes your phone annoying rather than replace it? Can you still get software updates with the existing model? How would a new phone change your life?
 
-We wanted flying cars and we got an $850 robot vacuum that steers around dog doo: To build the latest Roomba, the company ìbuilt over 100 physical models of pet droppings, and trained algorithms on over a hundred thousand images to get the device to avoid crap,î The Washington Post writes. Also, the robots collect a lot of data from inside your home. (The Roomba is still confused by black striped carpet, though.)
+We wanted flying cars and we got an $850 robot vacuum that steers around dog doo: To build the latest Roomba, the company ‚Äúbuilt over 100 physical models of pet droppings, and trained algorithms on over a hundred thousand images to get the device to avoid crap,‚Äù The Washington Post writes. Also, the robots collect a lot of data from inside your home. (The Roomba is still confused by black striped carpet, though.)
 
-ìItís a startlingly dark show, and thatís on purpose.î This is a thought-provoking essay about a new streaming video series focused on a TikTok-famous family that humanizes the people who are thrust into social media celebrity.
+‚ÄúIt‚Äôs a startlingly dark show, and that‚Äôs on purpose.‚Äù This is a thought-provoking essay about a new streaming video series focused on a TikTok-famous family that humanizes the people who are thrust into social media celebrity.
 
 Check out these video clips from a nest of barred owls in Indiana. Baby owls learning to fly really are the cutest things.
 
-We want to hear from you. Tell us what you think of this newsletter and what else youíd like us to explore. You can reach us at ontech@nytimes.com.
+We want to hear from you. Tell us what you think of this newsletter and what else you‚Äôd like us to explore. You can reach us at ontech@nytimes.com.
 
-If you donít already get this newsletter in your inbox, please sign up here. You can also read past On Tech columns.
+If you don‚Äôt already get this newsletter in your inbox, please sign up here. You can also read past On Tech columns.

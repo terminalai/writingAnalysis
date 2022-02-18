@@ -1,8 +1,8 @@
-The term ìmetaverseî is everywhere.
+The term ‚Äúmetaverse‚Äù is everywhere.
 
-On Tuesday, Microsoft cited the so-called metaverse as a reason for acquiring the game developer Activision Blizzard for $68.7 billion, saying the deal would provide ìbuilding blocks for the metaverse.î Facebookís founder, Mark Zuckerberg, has also bet on the metaverse and renamed his social networking company Meta. Google has worked on metaverse-related technology for years. And Apple has its own related devices in the works.
+On Tuesday, Microsoft cited the so-called metaverse as a reason for acquiring the game developer Activision Blizzard for $68.7 billion, saying the deal would provide ‚Äúbuilding blocks for the metaverse.‚Äù Facebook‚Äôs founder, Mark Zuckerberg, has also bet on the metaverse and renamed his social networking company Meta. Google has worked on metaverse-related technology for years. And Apple has its own related devices in the works.
 
-But what does the metaverse really mean, and does it even exist? Hereís what you need to know.
+But what does the metaverse really mean, and does it even exist? Here‚Äôs what you need to know.
 
 The metaverse is the convergence of two ideas that have been around for many years: virtual reality and a digital second life.
 
@@ -12,11 +12,11 @@ In what techies like Mr. Zuckerberg call the metaverse, virtual reality serves a
 
 Matthew Ball, a venture capitalist who has written extensively about the topic, said the metaverse represented the fourth wave to computers, following mainframe computing, personal computing and mobile computing.
 
-ìItís moving into what people call ambient computing,î he said about the metaverse. ìItís about being within the computer rather than accessing the computer. Itís about being always online rather than always having access to an online world.î
+‚ÄúIt‚Äôs moving into what people call ambient computing,‚Äù he said about the metaverse. ‚ÄúIt‚Äôs about being within the computer rather than accessing the computer. It‚Äôs about being always online rather than always having access to an online world.‚Äù
 
 To put it simply, yes.
 
-To some extent, there is already a metaverse in games. But ó and itís an important but ó itís rudimentary.
+To some extent, there is already a metaverse in games. But ‚Äî and it‚Äôs an important but ‚Äî it‚Äôs rudimentary.
 
 Some social elements of the metaverse can already be found in video games. Consider Fortnite, an online shooter game played on computers, game consoles and mobile devices. The average Fortnite player spends hundreds of hours in the game with a personal avatar, fighting with and interacting with the avatars of other players. Players also accrue virtual currency that unlocks outfits and other goodies to customize their avatars.
 
@@ -24,9 +24,9 @@ A precursor to the metaverse could also be found in Second Life, an online socia
 
 Virtual reality is also somewhat advanced in video games. In 2016, Sony released the $400 PlayStation VR, a virtual reality headset that plugged into its PlayStation 4 console to play virtual reality games. This month, Sony said a second-generation headset was coming for the PlayStation 5, though it did not share a release date.
 
-But those were just steppingstones toward the complete metaverse, which is still taking shape. Technologists say that thanks to a number of things ó fast internet connections, powerful virtual reality headsets and a large audience of gamers ó it is now more possible to live in a richly animated, lifelike 3-D simulation.
+But those were just steppingstones toward the complete metaverse, which is still taking shape. Technologists say that thanks to a number of things ‚Äî fast internet connections, powerful virtual reality headsets and a large audience of gamers ‚Äî it is now more possible to live in a richly animated, lifelike 3-D simulation.
 
-ìItís only in the last few years that a critical mass of working pieces has come together,î Mr. Ball said.
+‚ÄúIt‚Äôs only in the last few years that a critical mass of working pieces has come together,‚Äù Mr. Ball said.
 
 Truth be told, not too much.
 
@@ -34,7 +34,7 @@ Activision Blizzard is well known for making online games that have a metaverse 
 
 But the company has not dabbled in virtual reality. It has primarily made games for personal computers and game consoles but has yet to release a virtual reality game.
 
-So far, Microsoftís work on the metaverse has been nascent.
+So far, Microsoft‚Äôs work on the metaverse has been nascent.
 
 For several years, the software giant has developed the HoloLens, a $3,500 headset that shows digital holograms, with a focus on applications for businesses and government agencies. The device is related to augmented reality, which some technologists consider to be part of the future metaverse.
 

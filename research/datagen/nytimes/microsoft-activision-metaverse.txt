@@ -1,43 +1,43 @@
 This article is part of the On Tech newsletter. Here is a collection of past columns.
 
-Microsoft is making a big bet on video games, and even if youíre like me and donít really play them, itís worth taking notice.
+Microsoft is making a big bet on video games, and even if you‚Äôre like me and don‚Äôt really play them, it‚Äôs worth taking notice.
 
-Microsoft said on Tuesday that it would buy Activision Blizzard, which makes video games including Candy Crush and Call of Duty. Microsoft will pay close to $70 billion for the game maker, a lot of money even for such a rich company. Activision slots into Microsoftís other video game businesses, including the Xbox game console and video games like Halo and Minecraft.
+Microsoft said on Tuesday that it would buy Activision Blizzard, which makes video games including Candy Crush and Call of Duty. Microsoft will pay close to $70 billion for the game maker, a lot of money even for such a rich company. Activision slots into Microsoft‚Äôs other video game businesses, including the Xbox game console and video games like Halo and Minecraft.
 
-But Microsoftís acquisition also shows that video games are not merely entertainment anymore. They have become weapons that todayís technology titans wield to try to shape our future in their preferred direction.
+But Microsoft‚Äôs acquisition also shows that video games are not merely entertainment anymore. They have become weapons that today‚Äôs technology titans wield to try to shape our future in their preferred direction.
 
-Iím talking about the ìmetaverse,î the terrible shorthand that technologists have adopted for a broad vision of a future internet that will further blur the lines between online life and real life, and between people and computers.
+I‚Äôm talking about the ‚Äúmetaverse,‚Äù the terrible shorthand that technologists have adopted for a broad vision of a future internet that will further blur the lines between online life and real life, and between people and computers.
 
-The metaverse is hard to define. (We could just call it the next phase of the internet, but I guess thatís too boring.) Tech companies now believe that video games are a gateway to moving faster toward whatever that more immersive internet future will be, and they are dictating what it will look like, and who the winners and losers will be.
+The metaverse is hard to define. (We could just call it the next phase of the internet, but I guess that‚Äôs too boring.) Tech companies now believe that video games are a gateway to moving faster toward whatever that more immersive internet future will be, and they are dictating what it will look like, and who the winners and losers will be.
 
-Wanting to shape the future of the internet is one reason Facebook renamed itself Meta and has focused so much attention on its Oculus virtual reality goggles and video-game-like virtual business meetings. Itís also a reason Apple is designing face computers, and why Amazon and Google have used their cloud-computing services to make it easier for people to stream sophisticated video games over the internet.
+Wanting to shape the future of the internet is one reason Facebook renamed itself Meta and has focused so much attention on its Oculus virtual reality goggles and video-game-like virtual business meetings. It‚Äôs also a reason Apple is designing face computers, and why Amazon and Google have used their cloud-computing services to make it easier for people to stream sophisticated video games over the internet.
 
-Video games for a long time have been a glimpse at whatís possible. Even before we camped out on Facebook and YouTube, game designers created worlds that didnít exist but felt real. Video games were among the first consumer products that proved that people would pay for virtual things ó for example, weapons, clothing or tractors in FarmVille. Gamers are already living in the metaverse, and tech companies essentially want to bring that sense of imagination to every aspect of life online, including friendships, shopping and live theater.
+Video games for a long time have been a glimpse at what‚Äôs possible. Even before we camped out on Facebook and YouTube, game designers created worlds that didn‚Äôt exist but felt real. Video games were among the first consumer products that proved that people would pay for virtual things ‚Äî for example, weapons, clothing or tractors in FarmVille. Gamers are already living in the metaverse, and tech companies essentially want to bring that sense of imagination to every aspect of life online, including friendships, shopping and live theater.
 
-I donít know that any of these Big Tech companies know exactly what they want a more immersive internet to look like. I also donít know that we want Mark Zuckerberg or Microsoftís chief executive, Satya Nadella, to dictate the future of virtual human interactions.
+I don‚Äôt know that any of these Big Tech companies know exactly what they want a more immersive internet to look like. I also don‚Äôt know that we want Mark Zuckerberg or Microsoft‚Äôs chief executive, Satya Nadella, to dictate the future of virtual human interactions.
 
-But money sloshing around in video games and other immersive technologies shows that the titans of tech are both excited about the future and fearful that theyíll miss out on it.
+But money sloshing around in video games and other immersive technologies shows that the titans of tech are both excited about the future and fearful that they‚Äôll miss out on it.
 
-A side note: Thereís another, less sexy explanation for Microsoftís acquisition of Activision. This is what happens when crisis meets opportunity meets money that makes no sense.
+A side note: There‚Äôs another, less sexy explanation for Microsoft‚Äôs acquisition of Activision. This is what happens when crisis meets opportunity meets money that makes no sense.
 
-Activision might not have been sold without the claims of workplace sexual misconduct and other mistreatment of employees that have roiled the company in the past year. A significant number of its workers, plus regulators and some of the companyís investors, have said that Activision let problems fester for far too long. Those claims have hit its stock price, making it a less expensive purchase for Microsoft than it would have been a year ago.
+Activision might not have been sold without the claims of workplace sexual misconduct and other mistreatment of employees that have roiled the company in the past year. A significant number of its workers, plus regulators and some of the company‚Äôs investors, have said that Activision let problems fester for far too long. Those claims have hit its stock price, making it a less expensive purchase for Microsoft than it would have been a year ago.
 
-As for money not making any sense ó Microsoft and most other tech giants have oodles of cash and stock prices in the stratosphere, and they can borrow money practically for free. That makes even eye-popping business acquisitions like Activision less nutty than they might have seemed a couple of years ago. (Microsoftís stock price did fall a bit Tuesday morning, a sign that investors are questioning the wisdom of the purchase or the high price.)
+As for money not making any sense ‚Äî Microsoft and most other tech giants have oodles of cash and stock prices in the stratosphere, and they can borrow money practically for free. That makes even eye-popping business acquisitions like Activision less nutty than they might have seemed a couple of years ago. (Microsoft‚Äôs stock price did fall a bit Tuesday morning, a sign that investors are questioning the wisdom of the purchase or the high price.)
 
 Even absent imaginations of the metaverse, video games are a cultural force today and a huge business. Video games generate far more revenue than the global movie industry, and games are by far the most popular and lucrative smartphone apps in the world.
 
-Microsoftís purchase of Activision is a splurge on the now, and on the future.
+Microsoft‚Äôs purchase of Activision is a splurge on the now, and on the future.
 
 
 
-Amazon wants more electric delivery vans. AND IT WANTS THEM NOW. My colleagues Karen Weise and Neal Boudette explain why the mostly young electric vehicle manufacturers cannot meet Amazonís voracious needs.
+Amazon wants more electric delivery vans. AND IT WANTS THEM NOW. My colleagues Karen Weise and Neal Boudette explain why the mostly young electric vehicle manufacturers cannot meet Amazon‚Äôs voracious needs.
 
 The local government app that is challenging Uber: The tech news publication Rest of World writes that more Rio de Janeiro residents are skipping Uber rides for traditional taxis. The local government has invested in developing a taxi dispatch app, and the authorities have kept cab prices mostly the same while Uber fares have gone up because of high fuel prices and a shortage of drivers.
 
-ìSquid Gameî was not an accident. Bloomberg News explores Netflixís strategy to air more South Korean programming including last yearís hit ìSquid Gameî series. Netflix is picking up entertainment ideas that were too edgy for Koreaís TV industry, and itís winning fans throughout the world. (A subscription may be required.)
+‚ÄúSquid Game‚Äù was not an accident. Bloomberg News explores Netflix‚Äôs strategy to air more South Korean programming including last year‚Äôs hit ‚ÄúSquid Game‚Äù series. Netflix is picking up entertainment ideas that were too edgy for Korea‚Äôs TV industry, and it‚Äôs winning fans throughout the world. (A subscription may be required.)
 
 Say hello to these cuddling owls.
 
-We want to hear from you. Tell us what you think of this newsletter and what else youíd like us to explore. You can reach us at ontech@nytimes.com.
+We want to hear from you. Tell us what you think of this newsletter and what else you‚Äôd like us to explore. You can reach us at ontech@nytimes.com.
 
-If you donít already get this newsletter in your inbox, please sign up here. You can also read past On Tech columns.
+If you don‚Äôt already get this newsletter in your inbox, please sign up here. You can also read past On Tech columns.

@@ -1,8 +1,10 @@
+To hear more audio stories from publications like The New York Times, download Audm for iPhone or Android.
+
 The cost of just about everything has gone up. But nothing has been more ulcer-inducing than the skyrocketing price of a basic need: energy.
 
-The price increases stem in large part from the pandemicís many disruptions. Pacific Gas & Electric, the largest power provider in California, recently said natural gas prices this winter had jumped 90 percent from a year earlier because of stifled production worldwide. Electricity prices in January climbed 11 percent from last year, according to the Bureau of Labor Statistics.
+The price increases stem in large part from the pandemic‚Äôs many disruptions. Pacific Gas & Electric, the largest power provider in California, recently said natural gas prices this winter had jumped 90 percent from a year earlier because of stifled production worldwide. Electricity prices in January climbed 11 percent from last year, according to the Bureau of Labor Statistics.
 
-On social media apps like Nextdoor and Twitter, thousands of people have complained throughout the winter about their soaring gas and electricity bills, some of which have quadrupled to $900 a month. Thatís the equivalent of buying a fancy new smartphone every month.
+On social media apps like Nextdoor and Twitter, thousands of people have complained throughout the winter about their soaring gas and electricity bills, some of which have quadrupled to $900 a month. That‚Äôs the equivalent of buying a fancy new smartphone every month.
 
 So this winter, I embarked on a test of energy-saving tech. In January 2021, my energy bill peaked at $370. I wanted to see if I could do better.
 
@@ -10,31 +12,31 @@ For my experiment, I adjusted my Nest smart thermostat to control my heat and lo
 
 The great news: My winter energy bills dropped to an average of about $250 a month from an average of $310. The bad news: An energy-efficiency expert paid a visit and, while concluding that the bill could drop by 1.5 times more, said there was a lot to do for my home that gadgets would not solve.
 
-ìTech is helpful for sure, but most likely wonít take a huge bite out of bills,î said the expert, Mickey Souza, the owner of Energineers, a home energy auditing firm in the San Francisco Bay Area. She added that the main culprit of a homeís high energy costs was usually improper insulation.
+‚ÄúTech is helpful for sure, but most likely won‚Äôt take a huge bite out of bills,‚Äù said the expert, Mickey Souza, the owner of Energineers, a home energy auditing firm in the San Francisco Bay Area. She added that the main culprit of a home‚Äôs high energy costs was usually improper insulation.
 
 Here are the three main lessons I learned.
 
-There is no one-size-fits-all advice for saving energy. I learned this in December 2020 when I first started using Googleís Nest thermostat, which can create a heating and cooling schedule based on your usage habits throughout the day.
+There is no one-size-fits-all advice for saving energy. I learned this in December 2020 when I first started using Google‚Äôs Nest thermostat, which can create a heating and cooling schedule based on your usage habits throughout the day.
 
 The Department of Energy and utilities like PG&E and Consolidated Edison recommended setting the thermostat at 68 degrees Fahrenheit in the winter. So I programmed the Nest for 68 throughout the day.
 
-When the $370 bill arrived a month later, I realized that the rule of thumb was terrible for my two-bedroom home, which was built in the 1960s with insulation treated as an afterthought. Once the house reached 68 degrees, it couldnít retain that temperature for long, so the furnace powered back on about 20 minutes later.
+When the $370 bill arrived a month later, I realized that the rule of thumb was terrible for my two-bedroom home, which was built in the 1960s with insulation treated as an afterthought. Once the house reached 68 degrees, it couldn‚Äôt retain that temperature for long, so the furnace powered back on about 20 minutes later.
 
-This is all to say that saving energy with tech requires some independent thinking. While leaving the thermostat at 68 all day may make sense for small apartments in well-insulated buildings, this is generic advice that many homes probably wouldnít benefit from, said Ben Brown, Googleís product manager for the Nest thermostat.
+This is all to say that saving energy with tech requires some independent thinking. While leaving the thermostat at 68 all day may make sense for small apartments in well-insulated buildings, this is generic advice that many homes probably wouldn‚Äôt benefit from, said Ben Brown, Google‚Äôs product manager for the Nest thermostat.
 
 Instead, ask yourself some questions. What is the size of your home? What do you know about the insulation? How long does it take to heat up a few degrees? And most important, at what temperature would you and your family feel comfortable?
 
-In November, I decided to try to make the Nest work better with my home this winter. After tinkering with the Nestís settings and studying my energy costs every day for a month, I concluded that this was the best schedule for my house:
+In November, I decided to try to make the Nest work better with my home this winter. After tinkering with the Nest‚Äôs settings and studying my energy costs every day for a month, I concluded that this was the best schedule for my house:
 
-6:30 a.m.: Raise the temperature to 66, for when itís time to get out of bed.
+6:30 a.m.: Raise the temperature to 66, for when it‚Äôs time to get out of bed.
 
 8 a.m.: Set the temperature to 60 so that the temperature steadily drops throughout the day. This made the house a bit chilly but tolerable wearing a sweater.
 
-8 p.m.: Raise the temperature to 66, for when it gets cold at night (and after PG&Eís peak-pricing period).
+8 p.m.: Raise the temperature to 66, for when it gets cold at night (and after PG&E‚Äôs peak-pricing period).
 
 11 p.m.: Set the temperature to 57, for bedtime.
 
-During this experiment, the Nest thermostat also gave me a ìheads-upî warning that my furnace was turning on and off every few minutes, which meant something was wrong. I hired an HVAC professional who diagnosed and fixed the problem: The gas pressure was too high, causing the furnace to overheat and shut down automatically.
+During this experiment, the Nest thermostat also gave me a ‚Äúheads-up‚Äù warning that my furnace was turning on and off every few minutes, which meant something was wrong. I hired an HVAC professional who diagnosed and fixed the problem: The gas pressure was too high, causing the furnace to overheat and shut down automatically.
 
 This solution, combined with the programmed heating schedule, led to a significant drop in my bills.
 
@@ -44,11 +46,11 @@ I tested smart plugs from TP-Link, which offers a smartphone app to program the 
 
 Over a few weeks, I studied my bills. The differences in energy costs were marginal.
 
-Thatís not to say we shouldnít try to avoid wasting small amounts of power. But if your goal is to cut down on your bill, look elsewhere.
+That‚Äôs not to say we shouldn‚Äôt try to avoid wasting small amounts of power. But if your goal is to cut down on your bill, look elsewhere.
 
-After the tests, I brought in Ms. Souza of Energineers, who toured my home for two hours and delivered the unfortunate news: There were major issues with my homeís ìshellî ó that is, the roof and walls.
+After the tests, I brought in Ms. Souza of Energineers, who toured my home for two hours and delivered the unfortunate news: There were major issues with my home‚Äôs ‚Äúshell‚Äù ‚Äî that is, the roof and walls.
 
-ìThe shell naturally is the most important piece of efficiency,î she said. ìJust like the shell on a turtle, itís going to keep whateverís out there that you donít want from coming into your home.î
+‚ÄúThe shell naturally is the most important piece of efficiency,‚Äù she said. ‚ÄúJust like the shell on a turtle, it‚Äôs going to keep whatever‚Äôs out there that you don‚Äôt want from coming into your home.‚Äù
 
 Using an infrared camera, Ms. Souza showed that my roof lacked adequate insulation and that the walls had none at all. She also found that some ducts lacked insulation. There were also holes throughout the home where air was leaking out of the house.
 
@@ -58,4 +60,4 @@ If I did the work, Ms. Souza said, my average winter bill would most likely drop
 
 In the end, tech options like smart thermostats are important and must-have products to help us fight surging energy costs. But they are just tools that give us deeper insight into our energy use. The real problem-solvers are still people, like you and your local HVAC professional.
 
-ìTechnology can significantly help you around your home, but itís not a substitute for your own smarts,î said Mr. Brown of Google.
+‚ÄúTechnology can significantly help you around your home, but it‚Äôs not a substitute for your own smarts,‚Äù said Mr. Brown of Google.
