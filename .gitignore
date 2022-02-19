@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
 research/models_gitignored/
 research/data/
+.idea/

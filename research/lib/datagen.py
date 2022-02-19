@@ -10,9 +10,9 @@ __all__ = [
 
 def _findClass(tag):
     """
-    Yes, this a display of bad programming practices by our very own Prannaya Gupta.
+    Yes, this a display of bad programming practices by our very own Prannaya Gupta. Sound familiar?
 
-    Don't worry, it's just a way of saying that BeautifulSoup kinda sucks big time.
+    Don't worry, it's just a way of saying that BeautifulSoup kinda sorta sucks big time.
 
     :param tag: Simply the BeautifulSoup Tag Object
 
@@ -57,7 +57,8 @@ def forbes(url):
 
 #souper(requests.get("https://www.linkedin.com/pulse/hirings-new-red-line-why-newcomers-cant-land-35-jobs-george-anders/").content).find("div", {"class":"reader-article-content"})
 
-
+def current_nytimes():
+    return [tag["href"] for tag in souper(requests.get("https://www.nytimes.com/").content).findAll("a") if re.match(r"https://www\.nytimes\.com/\d{4}/\d{2}/\d{2}.*", tag["href"])]
 
 functions = [nytimes, nature, forbes]
 
