@@ -1,0 +1,69 @@
+This article is published with ProPublica, the nonprofit investigative newsroom.
+
+BEIJING — Inside the Potemkin village of China’s propaganda, the Winter Olympics have unfolded as an unalloyed success, a celebration of sports and political harmony that has obscured — critics say whitewashed — the country’s flaws and rights abuses.
+
+At Beijing 2022, the hills are snowy, not brown as usual this time of year. A Uyghur skier is the symbol of national unity, the tennis player Peng Shuai just a curious spectator. Athletes and foreign journalists praise the polite volunteers and marvel at the high-speed trains and the robots that boil dumplings and mix drinks.
+
+While China’s control of what its domestic viewers and readers consume is well established, the country has spread its own version of the Games beyond its borders, with an arsenal of digital tools that are giving China’s narrative arguably greater reach and more subtlety than ever before.
+
+With bots, fake accounts, genuine influencers and other tools, China has been able to selectively edit how the events have appeared, even outside the country, promoting everything that bolsters the official, feel-good story about the Winter Olympics and trying to smother whatever doesn’t.
+
+“For the Chinese Communist Party, the Winter Olympics are inseparable from the broader political goal of building up the country’s national image,” said David Bandurski, director of the China Media Project, a monitoring organization. Referring to the country’s leader, he added: “This is what Xi Jinping has called ‘telling China’s story well.’”
+
+On Twitter, which is banned in China, Chinese state media outlets and journalists, as well as diplomats, have tried to buff the image of the Games, raving about venues and cooing over the Olympic mascot.
+
+China has also sought to influence online discussions in more concealed ways. The New York Times and ProPublica identified a network of more than 3,000 inauthentic-looking Twitter accounts that appeared to be coordinating to promote the Olympics by sharing state media posts with identical comments, for instance. Such accounts tended to be recently created with very few followers, tweeted mostly reposts and nothing of their own, and appeared to operate solely to amplify official Chinese voices.
+
+Some of their efforts have centered on an account called Spicy Panda, which has been posting cartoons and videos to push back against calls for a boycott of the Olympics. In one cartoon, Spicy Panda accused the United States of wielding “its deceiving propaganda weapon to stain the Olympics.”
+
+The tweet was reposted 281 times, all by the fake-looking accounts, but received little other engagement, a strong indication that the network was mobilized to promote the message. Aside from the bursts of promotion, Spicy Panda’s posts about the Olympics received almost no attention.
+
+An analysis of Spicy Panda’s supporters turned up 861 accounts — 90 percent of which were created after Dec. 1. The accounts’ first wave of coordinated posts pushed Beijing’s stance that Hong Kong’s legislative council elections were legitimate, though critics have called the vote a sham. Then the accounts turned their attention to the Olympics. (By Thursday, all but one of the accounts had been suspended, shortly after The Times and ProPublica asked Twitter about them.)
+
+Spicy Panda appears to have a connection with iChongqing, a state media-linked multimedia platform based in Chongqing, a city in central China. The accounts that shared Spicy Panda’s posts often did the same with tweets by iChongqing’s account. IChongqing did not immediately respond to a request for comment.
+
+Other botlike accounts promoted hashtags that seemed aimed at drowning out criticism of China, a hallmark of previous campaigns.
+
+They promoted content under hashtags like #Beijing2022 and #TogetherForASharedFuture, this year’s official Olympic motto. Some accounts repeatedly posted tweets with identical wording, such as: “China’s hosting of the #Beijing2022 as scheduled has boosted the world’s confidence in defeating the pandemic.”
+
+Twitter said in an emailed statement that it had suspended hundreds of the accounts identified by The Times and ProPublica for violations of its platform manipulation and spam policies. It said it was continuing to investigate the accounts’ links to state-backed information operations.
+
+Even the Games’ official mascot, Bing Dwen Dwen, a cuddly panda in a suit of ice, has been the subject of an organized campaign on Twitter, according to Albert Zhang, a researcher at the Australian Strategic Policy Institute’s International Cyber Policy Center.
+
+Thousands of new or previously inactive accounts have helped the mascot go viral, he said — which China’s state media presented as evidence of the mascot’s popularity and, by extension, that of the Games.
+
+“If you want to push out a lot of content on something like the Beijing Olympics, this is an easy way to do it,” Mr. Zhang said. He added that the campaign now underway was like others sponsored by the Chinese state to push Beijing’s narrative on topics such as Covid-19 and the crackdown on Uyghur Muslims in Xinjiang.
+
+The information space inside China is not unlike the elaborate measures that have created the “closed loop” that keeps athletes, journalists and other participants strictly segregated from the general public.
+
+Inside the “closed loop” of official propaganda, the state carefully curates almost anything ordinary Chinese people see or read. The effect has been an Olympics free of scandal or criticism or bad news.
+
+When the United States men’s hockey team played an overmatched Chinese team, the game was not shown on the main state television sports channel, CCTV 5, and the 8-0 defeat was mentioned only glancingly in news reports. A state media slide show devoted to the men’s figure skating competition conspicuously omitted the gold medalist, Nathan Chen of the United States.
+
+In Chinese footage of the Games, the mountains where many competitions are being held have been deftly framed to exclude the dry, brown slopes in the background, until Day 8 when a snowstorm covered them in a frosting of white.
+
+One of the biggest political stories of these Games has also unfolded outside China’s internet firewall: the appearance of Peng Shuai, the professional tennis player and three-time Olympian who created a furor when she accused a senior Communist Party leader of sexually assaulting her.
+
+The president of the International Olympic Committee, Thomas Bach, met her for dinner, as he promised he would when the global outcry over her fate threatened to overshadow the Games. Ms. Peng has appeared at curling and figure skating, among other events. None of that was shown inside China, where all references to her accusations have been erased, including later statements attributed to her, saying she had been misunderstood.
+
+“It’s absolutely critical to understand that this is not just another narrative,” Mr. Bandurski of the China Media Project said of the Olympics. “It’s a narrative that implies widespread censorship and the manipulation of public opinion, which is actually policy.”
+
+Jack Stubbs, vice president of intelligence at Graphika, a social media monitoring company, said his firm had observed another Chinese propaganda network using foreign social media platforms.
+
+The network has spread videos emphasizing the Olympics as environmentally friendly and crooning about strengthening Chinese-Russian ties, punctuated by President Vladimir V. Putin’s attendance at the opening ceremony.
+
+China has defended its use of Twitter and Facebook, platforms that it bans at home. A foreign ministry spokeswoman, Hua Chunying, said last year that such sites were an “extra channel” to combat negative portrayals in the West.
+
+One American company, Vippi Media, based in New Jersey, signed a $300,000 contract with the consulate general of China in New York to help promote the Games, according to the company’s filing with the Justice Department under the Foreign Agents Registration Act.
+
+Under the contract, first reported by the research group Open Secrets, the company has been promoting the Games by recruiting “social media stars” to post on Instagram, YouTube and TikTok, the company’s founder, Vipinder Jaswal, said in a telephone interview.
+
+“They were very clear and I was very clear that it’s about the Olympics and the Olympics only, nothing to do with politics,” he said.
+
+Once the Games began, the drama of the sports themselves dominated attention. Protests over China’s human rights record have not materialized, as some activists hoped. On the contrary, many athletes have heaped praise. 
+
+“When you really meet the people here and talk to them,” Jenise Spiteri, the American snowboarder competing for Malta, said in a state media interview, “everyone has a very good heart.”
+
+Spicy Panda tweeted a state media report about another American competitor, the freestyle skier Aaron Blunck. In remarks posted by the official China Daily newspaper, Mr. Blunck praised China’s Covid protocols.
+
+“#AaronBlunck revealed the real China that is totally different from what some American media have said!” Spicy Panda’s post read.
