@@ -1,14 +1,14 @@
 WASHINGTON — Although new federal data suggests that the effectiveness of booster shots wanes after about four months, the Biden administration is not planning to recommend fourth doses of the coronavirus vaccine anytime soon.
 
-“We simply don’t have enough data to know that it’s a good thing to do,” Dr. Peter Marks, who heads the division of the Food and Drug Administration that regulates vaccines, said in an interview this week. 
+“We simply don’t have enough data to know that it’s a good thing to do,” Dr. Peter Marks, who heads the division of the Food and Drug Administration that regulates vaccines, said in an interview this week.
 
 In a separate interview, Dr. Anthony S. Fauci, the chief medical adviser to the White House, said the vaccines are still a firm bulwark against severe illness, despite data from the Centers for Disease Control and Prevention showing that booster shots lose some of their potency after four to five months.
 
-The C.D.C.’s research, released last Friday, analyzed hospitalizations and visits to emergency rooms and urgent care clinics in 10 states by people who had had booster shots of either Moderna’s or Pfizer-BioNTech’s vaccine. The study showed the level of protection against hospitalization fell from 91 percent in the two months after a third shot to 78 percent after four to five months. Effectiveness against visits to emergency rooms or urgent care clinics declined from 87 percent to 66 percent. 
+The C.D.C.’s research, released last Friday, analyzed hospitalizations and visits to emergency rooms and urgent care clinics in 10 states by people who had had booster shots of either Moderna’s or Pfizer-BioNTech’s vaccine. The study showed the level of protection against hospitalization fell from 91 percent in the two months after a third shot to 78 percent after four to five months. Effectiveness against visits to emergency rooms or urgent care clinics declined from 87 percent to 66 percent.
 
 The data came with major caveats: Researchers did not examine variations by age group, underlying medical conditions or the presence of immune deficiencies. Still, they said, the findings underscored the possible importance of a fourth shot.
 
-“‘Should I get a fourth shot?’ That’s what a lot of people are asking me,” Dr. Fauci said. “The answer is if you look at where we are now, it looks like it’s good protection. Seventy-eight percent is good.” 
+“‘Should I get a fourth shot?’ That’s what a lot of people are asking me,” Dr. Fauci said. “The answer is if you look at where we are now, it looks like it’s good protection. Seventy-eight percent is good.”
 
 The administration’s vaccine strategy has been under constant review since President Biden took office. What comes next, Dr. Fauci said, will depend on whether protection from boosters holds steady or continues to drop after four to five months — and if it keeps dropping, how steeply.
 
@@ -22,17 +22,16 @@ In Bangor, Maine, Dr. James W. Jarvis, who leads Covid response for Northern Lig
 
 Data from Britain is similar to that from the C.D.C., indicating that boosters are about 75 percent to 85 percent effective against hospitalization four to six months after they are given. Israel has also noted waning of the Pfizer-BioNTech vaccine’s effectiveness in the months after a booster shot, according to the C.D.C.
 
-Israel began offering a fourth shot in late December, but only to health care workers. The C.D.C. has recommended that those with immune deficiencies get three shots as part of their initial series, followed by a fourth shot as a booster.
+Israel began offering a fourth shot in late December, at first only to health care workers though eligibility has broadened. The C.D.C. has recommended that those with immune deficiencies get three shots as part of their initial series, followed by a fourth shot as a booster.
 
 Biden administration officials say two-thirds of eligible adults have gotten a booster shot since the additional injections were authorized in November. Uptake has been slower among children over 12, who only became eligible in early January.
 
-Dr. Marks said it may turn out that the best time for an additional shot is this fall, when the spread of the coronavirus is expected to pick up again. “Barring any surprises from new variants, maybe the best thing is to think about our booster strategy in conjunction with the influenza vaccine next fall, and get as many people as possible boosted then,” he said. 
+Dr. Marks said it may turn out that the best time for an additional shot is this fall, when the spread of the coronavirus is expected to pick up again. “Barring any surprises from new variants, maybe the best thing is to think about our booster strategy in conjunction with the influenza vaccine next fall, and get as many people as possible boosted then,” he said.
 
 Dr. Ransone said some of his patients would prefer that, so they can get their immunizations in a single visit.
 
 At a session hosted last month by the F.D.A. and the University of California, San Francisco, Dr. Marks said he hoped that a third shot would be enough of a shield against disease that only a yearly Covid booster would be needed. But both he and Dr. Fauci said it is impossible to make any prediction without more data.
 
-Earlier this month, Dr. Fauci suggested that any recommendation would likely be aimed at those most at risk, possibly based on age as well as underlying conditions. 
+Earlier this month, Dr. Fauci suggested that any recommendation would likely be aimed at those most at risk, possibly based on age as well as underlying conditions.
 
 “I don’t think you’re going to be hearing, if you do, any kind of recommendations that would be across the board for everyone,” he said at a White House briefing. “It very likely will take into account what subset of people have a diminished, or not, protection against the important parameters such as hospitalization.”
-

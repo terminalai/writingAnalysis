@@ -1,0 +1,39 @@
+Good news on inflation has been hard to come by lately. But this week we got two encouraging reports from the Federal Reserve Bank of New York — results from its latest Survey of Consumer Expectations, and an analysis of the recent behavior of inflation expectations by New York Fed economists.
+
+Neither report had any bearing on the inflation we’re actually seeing, which continues (so far) to run hotter than it has for decades. Instead, they were all about the hypothetical future. Consumers, it turns out, don’t expect inflation to stay hot. Rather, they appear to believe it will continue for a while, then fade away. In fact, expected inflation over the medium term has actually come down over the past couple of months.
+
+Furthermore, it’s unlikely that a few more bad numbers will create an inflation panic: Consumers appear much less likely to revise up their expectations of future inflation than they were in the past.
+
+Why do we care? It’s not because consumers have some special wisdom, but because expected inflation can feed actual inflation. Actually, it can do that in two ways — although only one is relevant to our current situation. And the apparent fact that medium-term expectations of inflation aren’t rising greatly improves our chance of getting past this difficult episode without a lot of pain.
+
+The irrelevant way expected inflation can matter, by the way, is through demand. When inflation is running high, consumers may rush to spend money before it loses its value. According to legend, when Germany experienced hyperinflation in the 1920s, patrons at beer halls would buy two beers at a time, because they expected the price of the second to rise while they were still drinking the first. When a government can’t stop inflationary money-printing, this urge to spend can lead to even higher inflation.
+
+As I said, this isn’t relevant to the current U.S. situation; no, we don’t need to print money to pay our bills. But we do need to keep an eye out for the possibility that inflation will become entrenched in the economy. What do we mean by that?
+
+Some readers may want to avert their eyes: I’m about to write down an equation. For the past half-century, most policy-oriented macroeconomists have accepted the idea that the inflation rate is determined by a relationship that looks something like this:
+
+Inflation = a – b × unemployment rate + expected inflation + other factors
+
+Why is expected inflation in there? Because in an economy in which everyone expects persistent inflation, companies setting prices or deciding what wages to offer will engage in a process of leapfrogging, raising their prices in the belief that other companies will also be raising their prices. I wrote more about that process here. And this in turn means that once people have come to expect persistent inflation, getting back to sustainably low inflation typically requires going through an extended period of high unemployment during which people keep seeing inflation lower than they expected, and gradually revise their expectations down.
+
+For the past two decades or so, this hasn’t really been a concern, because expectations of inflation have become “anchored”: the public has come to expect low inflation as normal, and doesn’t react much to temporary ups and downs due to things like oil price fluctuations. The big concern about the inflation spike between 2021 and 2022 has been that inflation expectations might lose their anchor, making it much harder to get inflation back down once supply chains and all that are back to normal.
+
+So is that happening? Not according to the New York Fed. Its survey of consumer expectations asks respondents what inflation rate they expect over both the short term — one year — and the medium term — three years. Here’s what that looks like:
+
+Medium-term expected inflation has come down recently, but the larger point is that it never rose nearly as much as short-term expectations. This tells us that consumers do expect higher inflation in the months ahead, but don’t expect it to persist — that is, expectations are still anchored.
+
+The analysis by the New York Fed’s economists took things a step further, asking how short-term movements in actual inflation seemed to be affecting medium-term expectations. They found that expectations are much less sensitive to inflation data than they used to be — in effect, that consumers aren’t quick to revise their views about future inflation in response to recent news. This further supports the idea that expectations are still anchored.
+
+All of this suggests that we should be optimistic about the possibility of a relatively painless end to our current inflation episode. But mightn’t we have said this about past inflations? Actually, no.
+
+U.S. inflation took two big steps down from its heights at the end of the 1970s:
+
+First came the Great Disinflation of the 1980s, which brought inflation down from around 10 to around 4 percent. This was a painful process, which involved a very severe double-dip recession. Then came a second disinflation in the early 1990s, which brought inflation down roughly from 4 percent to 2 percent. This involved a milder recession, but recovery from that recession was sluggish and unemployment stayed high for a long time — remember “It’s the economy, stupid”?
+
+Unfortunately, the New York Fed survey doesn’t go back far enough to cover these episodes. However, the University of Michigan has been asking consumers about both short- and medium-term inflation since 1979. So we can use their survey to compare current consumer expectations with what they looked like at the start of those past disinflations. And they’re very different:
+
+The message from this comparison is that expectations at the end of 2021 don’t look at all like 1980 or even 1990. Back then, inflation was entrenched in the sense that the public expected it to remain high over the medium term, and had to be convinced otherwise with years of high unemployment. This time, the public already expects inflation to subside to low levels within a year or so.
+
+That doesn’t mean that policymakers can just stand by and rely on inflation to solve itself. An overheated economy could keep inflation high and un-anchor those expectations. So I believe that the Fed is right to be signaling plans to gradually raise interest rates, with the goal of cooling things off.
+
+But the state of inflation expectations says that this process doesn’t have to be painful. If the Fed manages to get the right balance, we’ll be able to bring inflation down without a nasty economic slump.
