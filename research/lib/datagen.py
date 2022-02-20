@@ -42,7 +42,7 @@ def nature(url):
     :param url: A Nature Opinion Article URL
     :returns: A multi-line markdown-formatted string containing all the text from the article.
     """
-    return "\n\n".join([(i.name=="h2")*"##" + i.text.strip() for i in souper(requests.get(url).content, features="lxml").findAll("div", {"class":"c-article-body"})[0].findChildren(recursive=False) if "recommended" not in _findClass(i)])
+    return "\n\n".join([(i.name =="h2")*"##" + i.text.strip() for i in souper(requests.get(url).content, features="lxml").findAll("div", {"class":"c-article-body"})[0].findChildren(recursive=False) if "recommended" not in _findClass(i)])
 
 
 def forbes(url):
