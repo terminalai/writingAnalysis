@@ -8,7 +8,7 @@ Done for the **CS5131** Introduction to Artificial Intelligence Final Project
 
 **Domain**: Literature, Education, English
 
-**Subject Area**: Natural Language Processing, Deep Neural Network,  BERT, Transformers, Transfer Learning
+**Subject Area**: Natural Language Processing, Deep Neural Network, BERT, Transformers, Transfer Learning, Sequential Sentence Classification
 
 ## Description
 
@@ -66,7 +66,7 @@ A model capable of analysing and identifying the key argumentative elements in a
 
 - [Feedback Prize - Evaluating Student Writing (Kaggle Competition, Georgia State University)](https://www.kaggle.com/c/feedback-prize-2021/overview)
 - Zaheer, M., Guruganesh, G., Dubey, A., Ainslie, J., Alberti, C., Ontanon, S., … Ahmed, A. (2021). Big Bird: Transformers for Longer Sequences. *arXiv [cs.LG]*. Opgehaal van http://arxiv.org/abs/2007.14062
-- Cohan, A., Beltagy, I., King, D., Dalvi, B., & Weld, D. (2019). Pretrained Language Models for Sequential Sentence Classification. *Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)*. doi:10.18653/v1/d19-1383
+- Cohan, A., Beltagy, I., King, D., Dalvi, B., & Weld, D. (2019). Pretrained Language Models for Sequential Sentence Classification. *Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)*. https://arxiv.org/pdf/1909.04054.pdf
 - Beltagy, I., Peters, M. E., & Cohan, A. (2020). Longformer: The Long-Document Transformer. *arXiv [cs.CL]*. Opgehaal van http://arxiv.org/abs/2004.05150
 - Press, O., Smith, N. A., & Lewis, M. (2021). Shortformer: Better Language Modeling using Shorter Inputs. *arXiv [cs.CL]*. Opgehaal van http://arxiv.org/abs/2012.15832
 
