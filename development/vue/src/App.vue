@@ -46,8 +46,10 @@
       <v-app-bar-nav-icon v-if="user != null"
                           @click="drawerShown = !drawerShown"/>
       <v-toolbar-title>
-        YourName's Vue App
+        Writing Analyser
       </v-toolbar-title>
+      <v-switch v-model="$vuetify.theme.dark" color="orange" label="Dark Mode"
+                style="margin: 15px 15px 0 20px; display: block"/>
     </v-app-bar>
 
     <v-content>
@@ -57,19 +59,18 @@
 </template>
 
 <script lang="ts">
-import Vue from "vue";
-
+import Vue from 'vue'
 export default Vue.extend({
-  name: "App",
+  name: 'App',
   components: {},
   data: () => ({
     drawerShown: false,
     user: {
-      name: "YourName",
+      name: 'Prannaya'
     }
   }),
   computed: {
-    routes(): Array<{
+    routes (): Array<{
       name: string;
       route: string;
       icon: string;
@@ -77,12 +78,37 @@ export default Vue.extend({
       // Add routes here to correspond to router.ts
       return [
         {
-          name: "Main page",
-          route: "/",
-          icon: "mdi-file-table-box",
+          name: 'Home',
+          route: '/',
+          icon: 'mdi-home-variant'
         },
-      ];
-    },
+        {
+          name: 'New York Times Articles',
+          route: '/nytimes',
+          icon: 'mdi-github'
+        },
+        {
+          name: 'ISS',
+          route: '/iss',
+          icon: 'mdi-space-station'
+        },
+        {
+          name: 'Jokes!',
+          route: '/jokes',
+          icon: 'mdi-code-not-equal-variant'
+        },
+        {
+          name: 'Quotes',
+          route: '/quotes',
+          icon: 'mdi-format-quote-open'
+        },
+        {
+          name: 'News',
+          route: '/news',
+          icon: 'mdi-newspaper'
+        }
+      ]
+    }
   }
-});
+})
 </script>

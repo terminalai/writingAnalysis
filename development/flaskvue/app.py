@@ -1,49 +1,83 @@
 from flask import Flask, jsonify, request
-#from flask_pymongo import PyMongo
-#from bson.objectid import ObjectId
-from flask_cors import CORS
-from flair.models import TextClassifier
-from flair.data import Sentence
 from flask import session
+from flask_cors import CORS
+import nltk
+from transformers import pipeline
+from transformers import AutoTokenizer
+from transformers import AutoModelForSequenceClassification
+from bs4 import BeautifulSoup as souper
+import requests
+
+def nytimes(url):
+    soup = souper(requests.get(url).content, features="lxml")
+    title = soup.find("h1")
+    title = title.text if title else ""
+    text = "\n\n".join([tag.text for tag in soup.findAll("p", {"class":"evys1bk0"})])
+    return dict(text=text, title=title)
+
+model_checkpoint = "distilbert-base-uncased"
+category_codes = dict(enumerate(
+    ['Claim', 'Concluding Statement', 'Counterclaim', 'Evidence', 'Lead', 'Position', 'Rebuttal']))
+tokenizer = AutoTokenizer.from_pretrained(model_checkpoint, use_fast=True)
+sentence_tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
+model_path = r"models_gitignored/distilbert-base-uncased-finetuned-sentence-classification/checkpoint-12626"
+loaded_model = AutoModelForSequenceClassification.from_pretrained(
+    model_path, id2label=category_codes)
+
+pipe = pipeline("text-classification", model=loaded_model, tokenizer=tokenizer)
 
 app = Flask(__name__)
 app.secret_key = "super_secret_key"
-# # app.config['SECRET_KEY'] = 'oh_so_secret'
-
-# app.config['MONGO_DBNAME'] = 'exposeModel'
-# app.config['MONGO_URI'] = 'mongodb://localhost:27017/exposeModel'
-# mongo = PyMongo(app)
-
 CORS(app)
-classifier = TextClassifier.load_from_file('models/best-model.pt')
 
-@app.route('/', methods=['GET'])
-def index():
-    return jsonify("welcome to Arafa API")
+def predict(text,**kwargs):
+    texts = sentence_tokenizer.tokenize(text)
+    #tex = codecs.EncodedFile(BytesIO(bytes(text, "utf-8")), "utf-8").read()
+    meta = [{"text": i, **out, **kwargs} for i, out in zip(texts, pipe(texts))]
+    #     texts = []
+    #     labels = []
+    #     for text, label in df.loc[:, :"label"].values:
+    #         if len(labels):
+    #             if labels[-1] == label:
+    #                 texts[-1] += " "+text
+    #                 continue
 
-@app.route('/api/tasks', methods=['GET'])
-def get_result():
-    result = []
-    try:
-        data_result = session['my_result']
-        result.append ({'title': data_result['title'], 'tag': data_result['tag'] })
-    except:
-        result.append ({'title': 'The txt you input', 'tag': 'spam or harm' })
-    return jsonify(result)
+    #         texts.append(text)
+    #         labels.append(label)
+
+    #     df = pd.DataFrame({"text":texts, "label":labels})
+
+    
+    return meta
+
+
+@app.route("/api/tasks", methods=["GET"])
+def retrieve_data():
+  try:
+    return jsonify(session["result"])
+  except: return jsonify([])
 
 @app.route('/api/task', methods=['POST'])
 def input_predict_text():
-    title = request.get_json()['title']
+    text = request.get_json()['text']
+    meta = predict(text)
+    try: session["result"] += meta
+    except: session["result"] = meta
+    return jsonify(meta)
 
-    sentence = Sentence(title)
-    # # run classifier over sentence
-    classifier.predict(sentence)
-    #extract text and its prediction
-    text = sentence.to_plain_string()
-    label = sentence.labels[0]
-    result = {'title' : text, 'tag' : label.value}
-    session['my_result'] = result
-    return jsonify(result)
+@app.route("/api/clear", methods=["GET"])
+def clear_session():
+  session["result"] = []
+  return jsonify([])
+
+@app.route("/api/nytimes", methods=["POST"])
+def predict_nytimes():
+  url = request.get_json()["url"]
+  dat = nytimes(url)
+  meta = predict(dat["text"], url=url, title=dat['title'])
+  session["nytimes"] = meta
+  return jsonify(meta)
+
 
 if __name__ == '__main__':
     app.run(debug=True)

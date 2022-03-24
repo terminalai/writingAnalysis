@@ -3,16 +3,17 @@
 
         <v-row justify='center'>
           <v-col cols='10' align-self="center">
-        <v-textarea
+        <v-text-field
           outlined
           name="input-7-1"
-          label="Text to Analyse"
+          label="URL"
+                prefix="nytimes.com/"
+                @input="checkExists"
           v-model="text"
           clearable
           counter
-          auto-grow
           row-height="10"
-        ></v-textarea>
+        ></v-text-field>
           </v-col>
           <v-col cols='auto' align-self="center">
             <v-btn @click="submit" style="display: block; margin: auto" row-height="5"
@@ -70,6 +71,9 @@ export default Vue.extend({
     async clear() {
       await clearPredictions();
       this.$data.log = await getPredictions();
+    },
+    async checkExists() {
+        //
     }
   }
 
