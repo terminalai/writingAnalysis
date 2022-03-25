@@ -1,12 +1,13 @@
-import {User} from "@/types/user";
-import {Repo} from "@/types/repo";
+import {Result} from "@/types/output";
 
-export async function getUser(username: string): Promise<User> {
-  return await (await fetch(
-    "https://api.github.com/users/" + username)).json();
-}
-
-export async function getRepos(username: string): Promise<Repo[]> {
-  return await (await fetch(
-    `https://api.github.com/users/${username}/repos`)).json();
+export async function getPredictions(paragraph: string): Promise<Result[]> {
+  return await fetch('https://httpbin.org/post', {
+    method: 'POST',
+    headers: {
+      'Accept': 'application/json, text/plain, */*',
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify({text: paragraph})
+  }).then(res => res.json())
+    .then(res => console.log(res)) as Result[];
 }

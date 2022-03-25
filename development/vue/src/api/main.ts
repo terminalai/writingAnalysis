@@ -1,17 +1,51 @@
-import {getRepos, getUser} from "@/api/api";
+import {Result} from "@/types/output";
+import axios from 'axios';
 
-async function main(): Promise<string> {
-  const name = "junron";
-  const user = await getUser(name);
-  const repos = await getRepos(name);
-  const starredRepos = repos.filter(repo => {
-    return repo.stargazers_count > 0;
-  });
-  const repoNames = repos.map(repo => repo.name)
-    .join(", ");
-  return repoNames;
+export async function sendPrediction(paragraph: string) {
+  await axios.post('/api/task',
+        { text: paragraph })
+        .then(res => {
+          console.log(res)
+        },
+        res => {
+          console.log("error")
+        })
+        .catch(err => {
+          console.log(err)
+        }) 
 }
 
-export default {
-  main
-};
+export async function getPredictions(): Promise<Result[]> {
+    try {
+        const resp = await axios.get('/api/tasks');
+        return (await resp.data) as Result[]
+    } catch (err) {
+        console.error(err);
+        return []
+    }
+
+}
+
+export async function clearPredictions(): Promise<Result[]> {
+    try {
+        const resp = await axios.get('/api/clear');
+        return (await resp.data) as Result[]
+    } catch (err) {
+        console.error(err);
+        return []
+    }
+}
+
+export async function predictNYT(url: string) {
+  await axios.post('/api/task',
+        { url: url })
+        .then(res => {
+          console.log(res)
+        },
+        res => {
+          console.log("error")
+        })
+        .catch(err => {
+          console.log(err)
+        }) 
+}
