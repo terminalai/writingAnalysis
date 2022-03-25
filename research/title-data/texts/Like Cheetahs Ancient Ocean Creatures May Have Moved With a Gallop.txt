@@ -1,0 +1,27 @@
+Cheetahs are the fastest animals on land, clocking in at speeds over 60 miles per hour. Salamanders, in comparison, run at a far more measured pace. While cheetahs are exponentially larger and stronger than salamanders, another big difference between the two is how they move — their gait.
+
+When cheetahs chase prey, they move with an asymmetrical gait — specifically, they gallop, just like horses — their forelimbs and hindlimbs moving in pairs. Salamanders, on the other hand, run with a symmetrical gait, their left and right limbs moving opposite each other.
+
+Historically, scientists believed that symmetrical gaits were more evolutionarily ancient — salamanders being the model for how the first terrestrial animals moved. Conversely, asymmetrical gaits like galloping and bounding were believed to have independently evolved in different species over time.
+
+But new research is pointing to a different story, one in which asymmetrical gaits existed in our jawed ancestors living over 400 million years ago in ancient oceans, long before vertebrates moved onto land. The work was published in The Journal of Experimental Biology on Tuesday.
+
+Asymmetrical gaits underlie the speeds achieved by cheetahs, greyhounds and kangaroos. “That’s why so many people thought that these were purely mammalian innovations,” said Michael Granatosky, an evolutionary biologist at the New York Institute of Technology and one of the study’s authors.
+
+Evidence, however, has been piling up to suggest that asymmetrical gaits may not have arisen as recently as once thought, and that they certainly weren’t uniquely mammalian. Some species of crocodile gallop, at least one sea turtle species bounds underwater and there are fish that walk along the ocean floor.
+
+“The African lungfish has essentially little spaghetti noodles for legs, but they walk on the bottom of the substrate,” said Dr. Granatosky. “And within like 10 steps, half of them will be symmetrical and half of them will be asymmetrical.”
+
+This motivated the researchers to re-examine how asymmetrical movement evolved. From a sample of 308 living species of jawed vertebrates, including mammals, reptiles and others, the team built a tree of evolutionary relationships between species. From there, they assigned each species a score of 0 if it could not move asymmetrically or a score of 1 if it could. They then tested a series of potential models of asymmetrical-gait evolution to see which one best fit the data.
+
+The model that turned out to be the most likely didn’t put any restrictions on how asymmetrical gaits may have evolved, with gains and losses of asymmetrical gaits allowed to happen freely over time.
+
+“It’s a much looser model,” said Eric McElroy, a biologist at the College of Charleston and a co-author of the study, and it showed about a 75 percent likelihood that the ancestor of jawed vertebrates over 400 million years ago had an asymmetrical gait, and that asymmetrical gaits could be both lost and gained as jawed species evolved.
+
+This finding makes perfect sense to Sudhir Kumar, a biologist at Temple University who was not involved in the study. “In evolution, nothing is sacred,” he said. “We gain and lose characteristics based on our environment, based on our behaviors, based on our needs, and that’s what you see here — the way animals walk is not fixed. It evolves.”
+
+The researchers are forthcoming about the holes in their analysis.
+
+“When you’re trying to make an estimate of how something that has been dead for 400 million years moved, there’s a little bit of guesswork involved,” Dr. McElroy said. Referring to the research field, Dr. Granatosky added, “We have an extreme mammalian bias to how we sample biomechanical data.” Incorporating more data from non-mammalian species like fish could dramatically change their findings, he said.
+
+Although he acknowledges the study’s potential blind spots, Pedro Godoy, an evolutionary biologist at Stony Brook University who was not involved in the study, sees this work as an important contribution to understanding locomotion across species. “We can only fully understand the drivers of different types of gait if we do it in the light of evolution,” he said.

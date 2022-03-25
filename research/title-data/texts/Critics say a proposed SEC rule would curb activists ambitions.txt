@@ -1,0 +1,29 @@
+A group of unlikely allies, including roughly 80 law and finance professors, as well as hedge funds and labor activists — are pushing back on regulations proposed by the Securities and Exchange Commission around swaps, a type of financial instrument that gives investors a roundabout way to gain access to a stock.
+
+These groups are united by concerns that the proposed regulations could chip away at the market for activist investors, the shareholders who agitate for changes at publicly traded companies. Among the critics are members of corporate boards who activists could agitate against.
+
+A group including law professors from Harvard University, Stanford University and Texas A&M University were among those who submitted letters to the commission before Monday, the deadline for comments.
+
+The commission proposed rules in December that would force investors to disclose swap positions they’ve amassed in companies within one day if they exceed $300 million, 5 percent of a company or, in certain circumstances, as little as $150 million. The proposal followed the collapse of Archegos Capital Management, which utilized billions in swaps to make what turned out to be bad bets — a sudden failure that cost global banks billions in losses and roiled the stock market.
+
+Swaps are esoteric financial instruments that get their name from the way they exchange one stream of income for another. They are a central way by which activist investors build up positions in companies before other investors or the target company becomes aware of their interest.
+
+The one-day reporting requirement for swaps in the S.E.C.’s proposal is even shorter than the time in which chief executives must disclose their own trading in their company’s stock; chief executives have two business days to disclose stock purchases or sales.
+
+The law professors and others argue that forcing activist investors to so quickly report their positions in swaps would make it uneconomical to take big positions in companies. They say other investors could immediately trade against them, or corporate boards could swiftly put in place defenses or other attacks against activists attempting to build a big enough stake to force changes.
+
+Even the critics of elements of shareholder activism among them, the professors wrote, recognize that “activism can be a means to address corporate underperformance and malfeasance, and hold management and boards of directors accountable to the ultimate owners of targeted companies.”
+
+The professors argued that the S.E.C. could simply ask investors to disclose these positions directly to the commission, not the general public. Activist investors currently have a 10-day window to disclose that they’ve built a stake of more than 5 percent of a company's stock, which the S.E.C. also recently proposed shortening to five days.
+
+A number of other groups are advocating against the rules or submitting their own letters, including the activist investor Elliott Management, trade industry groups and other investment funds.
+
+Jay Clayton, the former S.E.C. chairman, said he believed the value of active and activist investing needs to be considered in the proposed rule. “The benefits of passive investing are based on a portfolio approach that captures active investors across the marketplace,” said Mr. Clayton, now the lead independent director of Apollo Global Management. “Activism has emerged as a key component of active investing.”
+
+The S.E.C. declined to comment.
+
+Swaps were a key mechanism through which Archegos, a little-known investment firm, quietly built giant positions in companies, including ViacomCBS and Discover, and saddled banks around the world with billions of dollars in losses last year when the shares of companies in its portfolio declined.
+
+After Archegos imploded, Gary Gensler, the S.E.C. chair, said that he and his team were seeking new rules to bring more transparency to the swaps market to prevent a similar meltdown. However, the S.E.C. didn't mention Archegos in the proposed rules for swaps or specify how the disclosures would minimize the risks to counterparties.
+
+The swaps proposal is one in a flurry of rules from the commission, including rules that hit on disclosures around short-selling activity and hedge funds and private-equity firms.

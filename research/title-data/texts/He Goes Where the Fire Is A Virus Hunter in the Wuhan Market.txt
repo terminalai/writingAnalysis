@@ -1,0 +1,113 @@
+As soon as Edward Holmes saw the dark-ringed eyes of the raccoon dogs staring at him through the bars of the iron cage, he knew he had to capture the moment.
+
+It was October 2014. Dr. Holmes, a biologist at the University of Sydney, had come to China to survey hundreds of species of animals, looking for new types of viruses.
+
+On a visit to Wuhan, a commercial center of 11 million people, scientists from the city’s Center for Disease Control and Prevention brought him to Huanan Seafood Wholesale Market. In stall after stall of the poorly ventilated space, he saw live wild animals — snakes, badgers, muskrats, birds — being sold for food. But it was the raccoon dogs that made him pull out his iPhone.
+
+As one of the world’s experts on virus evolution, Dr. Holmes had an intimate understanding of how viruses can jump from one species to another — sometimes with deadly consequences. The SARS outbreak of 2002 was caused by a bat coronavirus in China that infected some kind of wild mammal before infecting humans. Among the top suspects for that intermediate animal: the fluffy raccoon dog.
+
+“You could not get a better textbook example of disease emergence waiting to happen,” Dr. Holmes, 57, said in an interview.
+
+The tall, bald Englishman did his best not to draw attention to himself as he snapped a picture of the raccoon dogs, which look like long-legged raccoons but are more closely related to foxes. He then took a few more pictures of other animals in cages of their own. As a vendor began clubbing one of the creatures, Dr. Holmes pocketed his phone and slipped away.
+
+The photos faded from his mind until the last day of 2019. As Dr. Holmes was browsing Twitter from his Sydney home, he learned of an alarming outbreak in Wuhan — a SARS-like pneumonia with early cases linked to the Huanan market. The raccoon dogs, he thought.
+
+“It was a pandemic waiting to happen, and then it bloody well happened,” he said.
+
+From that day on, Dr. Holmes was swept into a vortex of discoveries and controversies related to the origins of the virus — making him feel like “the Forrest Gump of Covid,” he joked. He and a Chinese colleague were the first to share the genome of the new coronavirus with the world. He then discovered crucial clues about how the pathogen most likely evolved from bat coronaviruses.
+
+And in the contentious geopolitical debate over whether the virus may have leaked from a Wuhan laboratory, Dr. Holmes has become one of the strongest proponents of an opposing theory: that the virus spilled over from a wild animal. With colleagues in the United States, he recently published tantalizing clues that raccoon dogs kept in the very iron cage he photographed in 2014 could have set off the pandemic.
+
+Dr. Holmes’s Covid research has won him international acclaim, including Australia’s top science prize. But it has also garnered claims that his research had been overseen by the Chinese military, along with a flood of attacks on social media and even death threats.
+
+Through it all, Dr. Holmes has continued to publish a torrent of studies on Covid. Longtime colleagues attribute his steady output through unsteady times to an exceptional knack for building big scientific teams, and a willingness to dive into controversial debates if he thinks they are important.
+
+“He’s the right kind of person with the right kind of mind-set, because of the fact that he can be open-minded and engaged and thoughtful, and not become defensive,” said Pardis Sabeti, a geneticist at the Broad Institute of M.I.T. and Harvard who worked with Dr. Holmes on Ebola.
+
+Growing up in western England, a young Edward Holmes had a biology teacher who put a poster of an orangutan on the wall that read, “I’m not your cousin.”
+
+The teacher told the class not to read the garbage in their textbook about evolution. That made the 14-year-old eager to dive in.
+
+He went on to study the evolution of apes and humans, and then turned to viruses. Over three decades — working in Edinburgh, Oxford, Pennsylvania and finally Sydney — Dr. Holmes has published more than 600 papers on the evolution of viruses including H.I.V., influenza and Ebola.
+
+When he was invited to come to the University of Sydney, in 2012, he seized the chance to move closer to Asia, where he feared that the wildlife trade could set off a new pandemic.
+
+“He goes where the fire is,” said Andrew Read, an evolutionary biologist at Penn State University, who worked with Dr. Holmes at the time.
+
+As he was preparing for the move, Dr. Holmes got an email out of the blue from a Chinese virologist named Yong-Zhen Zhang, asking if he’d like to study viruses with him in China. Their collaboration quickly expanded into a sweeping search for new viruses in hundreds of species of animals. They studied spiders plucked off the walls of huts and fish hauled up from the South China Sea.
+
+They ultimately found more than 2,000 virus species new to science, with many surprises among them. Scientists used to think that influenza viruses infected primarily birds, for example, which could then pass them along to mammals like ourselves. But Dr. Holmes and Dr. Zhang found that fish and frogs get the flu, too.
+
+“That’s been quite eye opening,” said Andrew Rambaut, an evolutionary biologist at the University of Edinburgh who was not involved in the surveys. “The diversity of viruses that are out there is just enormous.”
+
+On one of their survey trips in 2014, Dr. Holmes and Dr. Zhang formed a partnership with scientists at the Wuhan Center for Disease Control and Prevention to survey animals in the surrounding Hubei Province. The C.D.C. scientists brought them to the Huanan market to see a worrying case of wildlife trade.
+
+After the visit, Dr. Holmes hoped he and his colleagues could use the genetic sequencing techniques they had developed for their animal surveys to look for viruses in the animals at the market. But his colleagues were more interested in searching for viruses in sick people.
+
+Dr. Zhang and Dr. Holmes began working with doctors at Wuhan Central Hospital, fishing for viral RNA in samples of lung fluid from people with pneumonia. Because of this collaboration, he was named a guest professor with the Chinese Center for Disease Control and Prevention from 2014 to 2020.
+
+Last month, Dr. Holmes and his colleagues published their first report on the project, based on samples from 408 patients collected in 2016 and 2017. Many were sick with more than one virus, it turned out, and some were also infected with bacteria or fungi. The researchers even saw evidence of a hidden outbreak: Six patients were infected with genetically identical enteroviruses.
+
+Dr. Holmes and Dr. Zhang also continued surveying the virosphere, examining soil, sediments and animal feces from across China. But in late December 2019, that work ground to a halt.
+
+When Dr. Zhang got wind of a new pneumonia in Wuhan, he asked colleagues at the Wuhan Central Hospital to ship him lung fluid from a patient. It arrived on Jan. 3, and he used the techniques he and Dr. Holmes had perfected to search for viruses. Two days later, Dr. Zhang’s team had assembled the genome of a new coronavirus, SARS-CoV-2.
+
+Other scientific teams in China had also sequenced the virus. But none made it public, because the Chinese government had barred scientists from publishing information about it.
+
+Dr. Zhang and Dr. Holmes began writing a paper about the genome, which would later appear in the journal Nature. Dr. Zhang flouted the ban and uploaded the virus genome to a public database hosted by the U.S. National Institutes of Health. But the database requires a lengthy review of new genomes, and so days passed without the information going online.
+
+Dr. Holmes urged his collaborator to find another way to share the genome with the world. “It felt like it had to happen,” Dr. Holmes said.
+
+On Jan. 10, they agreed to share it on a forum for virologists, and Dr. Holmes put it online.
+
+That decision was a turning point, according to Jason McLellan, a structural biologist at the University of Texas at Austin who worked on the mRNA technology powering the Moderna vaccine. Only with that genetic sequence could researchers start working on tests, drugs and vaccines. Until then, Dr. McLellan said, scientists like himself were like runners in their starting blocks, waiting for a starter’s pistol.
+
+“It fired the moment Edward and Yong-Zhen posted the genome sequence,” he said. “Immediately, Twitter was abuzz, emails were being exchanged, and the race was on.”
+
+But according to Chinese media reports, Dr. Zhang paid a price for defying his country’s information ban. The day after the genome sequence went live, his laboratory at the Shanghai Public Health Clinical Center was reportedly ordered to close for “rectification.”
+
+Dr. Zhang later insisted to a reporter at Nature that the move was not a punishment, and that his lab later reopened. Email requests to Dr. Zhang to comment for this story went unanswered. Dr. Holmes declined to comment about Dr. Zhang’s current situation.
+
+After the coronavirus genome was sequenced, Dr. Holmes was puzzled to see some bits of genetic material that looked like they might have been put there through genetic engineering.
+
+On a Feb. 1, 2020, telephone conference, Dr. Holmes shared his worries with other virus experts, including Dr. Francis Collins, the director of the N.I.H., and Dr. Anthony S. Fauci, America’s top infectious disease expert. Other scientists explained on the call that those features of the genome could easily have been produced through the natural evolution of viruses.
+
+Soon afterward, Dr. Holmes helped researchers at the University of Hong Kong analyze a coronavirus, found in a pangolin, that was closely related to SARS-CoV-2. The virus looked especially similar in its surface protein, called spike, which the virus uses to enter cells.
+
+Finding such a distinct biological signature in a virus from a wild animal strengthened Dr. Holmes’s confidence that SARS-CoV-2 was not the product of genetic engineering. “Suddenly what looks odd is clearly natural,” Dr. Holmes said.
+
+Dr. Holmes and his colleagues laid out some of these findings in a letter published in March 2020. That same month, he published some of his photos of caged animals at the Huanan market in a commentary he wrote with Dr. Zhang, suggesting that it might have been the site of an animal spillover.
+
+But the idea that the virus had been engineered in a lab continued to gain traction, and Dr. Holmes came under attack for his work with Chinese scientists.
+
+In May 2020, The Daily Telegraph, an Australian newspaper, linked him to the Chinese military with an article titled, “How the Red Army Oversaw Coronavirus Research.”
+
+The newspaper based its claim on the fact that two scientists involved in the pangolin study had secondary affiliations with a Chinese military lab. Dr. Holmes, who said he never met the scientists, noted that they had helped with sequencing RNA from the pangolin tissue.
+
+The University of Sydney responded on Dr. Holmes’s behalf with a statement: “We strongly defend the right of our researchers to collaborate with scientists around the world in line with all relevant Australian laws and government guidelines.” The university noted that Dr. Holmes’s research was entirely supported by Australian grants.
+
+In late 2020, the World Health Organization organized a group of experts to travel to China to investigate the origin of the novel coronavirus. Dr. Holmes sent them his 2014 market photos, but they never made it into the W.H.O.’s report.
+
+“Some of the Chinese delegation suggested that I might have fabricated those pictures,” Dr. Holmes said. (Peter Daszak, the president of EcoHealth Alliance and one of the investigators of the W.H.O. report, corroborated this account: The Chinese investigators said the photos were “not verifiable, and could have been faked,” Dr. Daszak said.)
+
+In reports published last month, Dr. Holmes and over 30 collaborators analyzed early Covid cases, finding that they clustered around the market, and examined the mutations in early coronavirus samples.
+
+Chris Newman, a wildlife biologist at the University of Oxford and a co-author of one of the studies, said that his Chinese colleagues saw a number of wild mammals for sale at the Huanan market in late 2019. Any of them might have been responsible for the pandemic, Dr. Holmes said.
+
+“You can’t prove raccoon dogs yet, but they’re certainly a suspect,” he said.
+
+Some critics have questioned how sure Dr. Holmes and his colleagues can be that a Huanan animal was to blame. Although many of the earliest Covid cases were linked to the market, it’s possible that other cases of pneumonia have not yet been recognized as early Covid cases.
+
+“We still know far too little about the earliest cases — and there are likely additional cases we don’t know about — to draw final conclusions,” said Filippa Lentzos, an expert on biosecurity at King’s College London. “I remain open to both natural spillover and research-related origins.”
+
+Another problem: If infected animals indeed started the pandemic, they’ll never be found. In January 2020, when researchers from the Chinese C.D.C. arrived at the market to investigate, all the animals were gone.
+
+But Dr. Holmes argues that there’s more than enough evidence that animal markets could spark another pandemic. Last month, he and Chinese colleagues published a study of 18 animal species often sold at markets, obtaining them either in the wild or on breeding farms.
+
+“They were absolutely full of virus,” Dr. Holmes said.
+
+Over 100 vertebrate-infecting viruses came to light, including a number of potential human pathogens. And some of these viruses had recently jumped the species barrier — bird flu infecting badgers, dog coronaviruses infecting raccoon dogs. Some of the animals were sick with human viruses, too.
+
+The simplest way to reduce the odds of future pandemics, Dr. Holmes has argued, is to carry out studies like this one at the interface between humans and wildlife. His own experience discovering new viruses has convinced him that it doesn’t make sense to try to catalog every potential threat in wildlife.
+
+“You could never possibly sample every virus out there and then work out which one of those can infect humans,” Dr. Holmes said. “I don’t think that’s viable.”

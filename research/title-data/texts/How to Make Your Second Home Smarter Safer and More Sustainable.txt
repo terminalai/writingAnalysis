@@ -1,0 +1,47 @@
+Anyone fortunate enough to own a second home knows that the solace of a private retreat can fade once the worries surface — all made worse by added distance. An empty home is a vulnerable home, after all, be it from drips, leaks, floods, fires, ice, wind, burglars or bears (so many bears). That’s why smart home devices — wireless appliances and electronics that can communicate with one another and connect via the internet — can be an effective salve, if not an outright cure-all.
+
+Here’s a look at several products, from security systems to comforts and conveniences, that can take some of the anxiety out of maintaining a second home.
+
+Unlike traditional security systems that come with professional installation, long-term contracts and hefty price tags, smart security systems are easy to self-install, customizable, and cost a fraction of their conventional forebears. They can also notify homeowners instantly should something go awry, and even let them see what’s happening in real time.
+
+Smart security systems are available as kits with a main base station connecting to door, window and motion sensors that keep an eye on your home. At Wirecutter, we always recommend adding a subscription to professional monitoring, whereby a call center receives a notification when your system is triggered and then contacts you and the appropriate emergency services.
+
+SimpliSafe and Ring offer a wide range of affordable devices, including door and window sensors, lighting, cameras and motion detectors, with responsive customer support and speedy professional monitoring.
+
+A smoke detector is an essential device for any home, but unlike basic versions, smart smoke detectors send an alert to your smartphone when they detect smoke, fire, and in some cases carbon monoxide. (Some security systems, like Ring, offer a device that listens for the sound of any smoke alarm, then alerts authorities.) The Google Nest Protect (about $120) only integrates with other Nest devices, but it’s easy to install, has a 10-year life span, reliably sends alerts when it’s triggered, emits a loud verbal warning before triggering, and can be silenced before or during an alert using an app (though you must be physically nearby).
+
+A security camera of any style can be an effective tool for dissuading potential intruders. Smart security cameras can be set up to send smartphone notifications should someone, or something, venture into specific zones in the camera’s field of view. (They also let you check on your home and property after a storm.) Many are able to distinguish among a person, animal, package or a blowing leaf.
+
+The Wyze Cam v3 is a versatile yet low-cost (about $35) model that works indoors or outdoors, has a built-in magnetic stand, and can be used with or without a subscription, depending on your needs. Similarly, a smart doorbell camera alerts you when someone approaches your door or a package is delivered; even better, it lets you see your visitor and speak with them via video chat using an app on your phone. The Arlo Essential Video Doorbell (wired) works especially well; it retails for about $140, with video storage and smart detection features requiring a $3 monthly subscription.
+
+Burglars are savvy to the old trick of hiding a house key under a rock or a garden gnome. A smart lock lets you dispense with physical keys altogether. There are several styles, but versions with a keypad that replace your existing deadbolt make it effortless for you — as well as for selected guests, neighbors, contractors and babysitters — to get in and out of the house without having to copy and distribute keys. You also get a notification every time someone uses the lock on your door.
+
+The Schlage Encode (about $275) is hardy yet a breeze to install in a few minutes with doors that have an existing deadbolt. It connects directly to your Wi-Fi and has a built-in alarm should anyone try to force or jam your door.
+
+A smart thermostat makes your house comfier, which for many is a defining trait of a second home, while also reducing energy costs. It does that by optimizing how your home’s climate-control system runs, turning it up or down automatically whenever possible to eke out savings. Smart thermostats also ensure that your home is at your selected comfort level when you or guests arrive, and that you aren’t wasting energy heating or cooling an empty house.
+
+The Google Nest Learning Thermostat (about $250) is simple to use and works with most consumer HVAC systems. It’s the smartest model we’ve tested, and has an attractive design. The Alexa Smart Thermostat (about $60) is noticeably less sleek and a bit less versatile, but is a competent, budget-friendly option that’s adequate for most homes.
+
+Water damage is the most common cause of home-insurance claims, in large part because there are so many ways for water to go where it isn’t welcome. Pipes can corrode, freeze or burst; toilets, drains and washers can get backed up or overflow; water heaters can rust out. A smart water shut-off valve, like the Phyn Plus (about $500) or the Flo by Moen Smart Water Monitor and Shut Off (starting at about $760), attach to your home’s water supply line and can detect both a small running leak or a serious flood — and even shut off your water supply if it’s catastrophic. (Many insurance companies offer a discount on your annual premium as well as the purchase price of the device).
+
+A quicker but less effective option is a smart leak detector like the Flo by Moen Smart Water Detector (about $50). These small devices are placed on the low spot of your floor in areas where leaking water might pool, then send an alert when water is detected.
+
+For the water outside your home, in-ground irrigation systems can help sustain your gardens and lawn, but non-smart versions lack the brains to adjust to rain and weather patterns, and can squander precious water (and create mosquito ponds). Smart sprinkler controllers, like the Rachio 3 (about $165), connect to your existing irrigation zones, then control the watering based on custom schedules that can account for plant types and hyperlocal weather forecasts, so you don’t waste water.
+
+The quality and capability of your home’s lighting affects your comfort as well as your sense of security. Smart lighting excels at enhancing both. Smart bulbs can be screwed into any standard socket and then set on a schedule, so that you never arrive at a dark house or have to bother with setting up outmoded lighting timers for when you’re away. They can be remotely controlled using an app, tuned and dimmed for the right colors and brightness, and paired with other devices so that they’re triggered by other actions — like having lights turn on when you unlock your smart lock on the front door.
+
+The relatively inexpensive Wyze Bulb Color (about $15) is exceptionally bright and has useful modes you can trigger in its app — like vacation mode, which causes bulbs to randomly turn on and off in your house to simulate occupancy.
+
+Smart speakers have become the preferred way to control and interact with their smart devices, but their primary role is to make it easy to summon news, music, weather and other audio via voice control. Depending on your preferred digital assistant — Amazon’s Alexa, Google Assistant or Apple’s Siri — there are great options. Most smart home devices are compatible with Alexa and Google Assistant; fewer work with Apple’s HomeKit, which relies on Siri for voice commands.
+
+If you’re into Alexa, there’s a wide range of speaker options, but the basic Amazon Echo is a reasonably powerful yet inexpensive tabletop speaker (the Echo Dot is a mini version good for small rooms). The Google Nest Audio is comparable for those who prefer the Google ecosystem. And for HomeKit users, there is only Apple’s HomePod Mini, a small but surprisingly powerful orb. (All of these items cost about $100.)
+
+To keep the house clean while you’re away, enlist the help of a smart robot vacuum, which can be set loose to roam your floors and rugs like an inexhaustible sentry.
+
+The iRobot Roomba i3+ (about $300) is a standout among home-ready robots. It handles carpets and even pet hair with aplomb, and unlike some robots it cleans in a uniform back-and-forth way to avoid missing spots. You can use an app to direct it to clean at a moment’s notice, like the day you arrive, or create specific schedules as needed.
+
+Window treatments like shades and blinds can help regulate your home’s temperature, preserve your house plants, and protect your furniture, carpets, books and artwork from sun damage. Smart shades and blinds let you automate them all, quietly opening and closing on a customizable schedule based on your preferences. They also can be opened or closed at any time via an app, voice command or remote control.
+
+The convenience does come at a premium, however. Though IKEA’s Fyrtur line of blackout shades (about $150) are relatively inexpensive, they only come in standard sizes. The top-tier options are Lutron Serena shades and blinds (about $500), which are fully customizable. You can install them yourself, but Lutron recommends hiring a professional to ensure everything fits well.
+
+Interested in learning more about the best things to buy and how to use them? Visit Wirecutter, where you can read the latest reviews and find daily deals.

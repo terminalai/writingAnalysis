@@ -1,0 +1,47 @@
+RIO DE JANEIRO — Brazil’s Supreme Court banned the fast-growing messaging app Telegram in the country on Friday, taking a drastic measure that showed the court plans to aggressively fight disinformation ahead of this year’s presidential elections.
+
+Alexandre de Moraes, a Supreme Court judge, said he was blocking Telegram because the app had not fully responded to previous orders to remove the accounts of a prominent supporter of President Jair Bolsonaro. That supporter is being investigated for spreading disinformation and threatening Supreme Court judges.
+
+Mr. de Moraes ordered internet and cell-service providers to make Telegram unusable in the country and directed Apple and Google to remove the app from their mobile app stores. He gave the companies five days to comply.
+
+Mr. de Moraes has emerged as one of Mr. Bolsonaro’s biggest political opponents, overseeing a number of investigations and issuing court orders that target the president, his allies and his political strategy. Mr. Bolsonaro has struck back with sharp criticism of the judge, even vowing at a major political rally last year that he would not comply with his rulings.
+
+While authoritarian countries like China regularly clamp down on internet platforms, blocking such a popular app across an entire country is highly unusual in a democracy like Brazil’s. But some authorities in Brazil, most notably the Supreme Court, have vowed to hold internet companies responsible for disinformation over concerns that they could influence October’s presidential elections.
+
+In a statement late Friday, Pavel Durov, Telegram’s chief executive, said his company didn’t always respond to the Brazilian Supreme Court because Telegram missed the court’s emails.
+
+“I apologize to the Brazilian Supreme Court for our negligence. We definitely could have done a better job,” he said.
+
+Mr. Durov asked the court to delay the ban “to allow us to remedy the situation by appointing a representative in Brazil and setting up a framework to react to future pressing issues like this in an expedited manner.”
+
+In the order on Friday, Mr. de Moraes said he sent emails directly to Mr. Durov.
+
+Telegram has become a hotbed of misinformation across the world, in part because it removes less content on its app than other social networks and includes features that make it easy to spread information far and fast. 
+
+While WhatsApp, a main Telegram competitor, has made changes to limit the spread of misinformation — like limiting the size of group chats and the number of times a message can be forwarded — Telegram allows users to broadcast messages to thousands of people at once.
+
+“If Facebook is the heroin of disinformation, Telegram is the fentanyl,” said Sarah Oates, a University of Maryland professor who studies internet platforms.
+
+Telegram’s hands-off approach has made the app particularly popular with right-wing users across the world who complain that the more mainstream social networks censor their views. In Brazil, Mr. Bolsonaro has urged his supporters to use Telegram instead of other social networks, and he has amassed nearly 1.1 million followers on the app. His top competitor in the 2020 presidential race, former President Luiz Inácio Lula da Silva, has less than 50,000.
+
+Telegram’s popularity on Brazil’s right has made it one of the country’s fastest-growing messaging apps. Since 2014, Telegram has been downloaded nearly 85 million times in Brazil, with 29 percent of those installations coming last year, according to Sensor Tower, an app data firm. By comparison, WhatsApp, the dominant app in Brazil, has been downloaded 677 million times in the country.
+
+Amid growing concern over the spread of disinformation on social media, governments are increasingly grappling with how to regulate platforms, particularly in democracies where politicians are also eager to protect freedom of expression. The United States has taken a mostly hands-off approach. While former President Donald J. Trump tried to ban the Chinese apps WeChat and TikTok over national security concerns, the Biden administration later reversed the policy. China and Russia, meanwhile, have blocked apps like Facebook and Instagram.
+
+Banning an app across an entire country is not technologically simple. Removing it from the Apple and Google app stores prevents additional people from downloading it, but the millions of people who already have the app — or who access it from a web browser — can continue to use the service.
+
+Brazil’s approach is notable for how it seeks to force companies that provide the backbone of the internet to block Telegram’s web traffic. The policy even covers people who try to use software to get around the ban by routing their web traffic through other countries. Mr. de Moraes said anyone caught doing so would face a $20,000 fine.
+
+The policy “is trying to attack from several fronts, so maybe it will be feasible,” said Lucas Lago, a Brazilian software researcher.
+
+While misinformation is a tremendous concern on the platform, many major news outlets use Telegram to deliver content, including The New York Times.
+
+Supporters of Mr. Bolsonaro immediately criticized the ban. Carla Zambelli, a Brazilian congresswoman and a longtime supporter of the president, said on Twitter that Telegram was “the only current tool in which we have freedom of expression” and called Mr. de Moraes a “tyrant.”
+
+Senator Humberto Costa, a left-wing critic of Mr. Bolsonaro, said that “the Fake News Stock Market has plummeted. The Bolsonaros lost part of their heritage of lies.”
+
+Representatives for Mr. Bolsonaro and Mr. de Moraes did not respond to requests for comment. Apple and Google declined to comment.
+
+Ms. Oates, the University of Maryland professor, said that Telegram had become well-known for ignoring government orders and requests for data. Yet she added that because Telegram was so overwhelmingly popular with the right wing in Brazil, the order could be perceived as a partisan move.
+
+“On the one hand, it’s understandable to want to regulate your media space, and platforms like this exacerbate existing problems,” she said. “On the other hand, it can be perceived as unfair because this targets a particular group of people.”
