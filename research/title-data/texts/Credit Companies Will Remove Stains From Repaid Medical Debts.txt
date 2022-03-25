@@ -1,0 +1,41 @@
+Equifax, Experian and TransUnion — the giant credit-reporting companies that each keep files on roughly 200 million Americans — said on Friday that they will soon wipe away credit stains created by certain medical debts.
+
+The changes — including removing black marks for people who settled a debt after it went to collections — were cheered by consumer advocates and reflected a growing acceptance that such debts aren’t the best predictor of a consumer’s financial behavior.
+
+The companies said the changes would eliminate up to 70 percent of the medical debt accounts on consumers’ credit reports, which contain reams of data used to calculate the all-important three-digit credit score that is the key to mortgages, car loans, rental agreements and more.
+
+Starting on July 1, medical debts that were paid after they went to collections will no longer appear on consumers’ credit reports, where they can currently linger for up to seven years.
+
+New unpaid medical debts will now only appear after a full year of being sent to collections — instead of the current six months. That will give people more time to address the debt with their insurance companies and health care providers.
+
+And beginning in the first half of 2023, the credit-reporting companies said, they will exclude unpaid medical collection debts under $500.
+
+“As an industry we remain committed to helping drive fair and affordable access to credit for all consumers,” the companies’ chief executives said in a statement.
+
+The changes mirror some already in action elsewhere: The formulas used to generate credit scores have already been updated to reduce the influence of paid medical debts. But older scoring models are still widely in circulation, so consumers haven’t necessarily reaped the benefits.
+
+And the three companies’ changes do go a bit further — for example, they will expunge more unpaid medical debts — while reducing the negative information flowing into the calculations of lenders that haven’t adopted the latest formulas.
+
+“This is huge, no doubt about it,” said Chi Chi Wu, a staff attorney at the National Consumer Law Center, “and it helps those people who have medical debt due to things like co-pays and deductibles, which is usually under $500.”
+
+But the changes will do little to lift the scores of people with the largest unpaid debts, who are often dealing with catastrophic or costly illnesses that result in high bills even with insurance coverage.
+
+“It is the sickest and poorest, the most vulnerable, who are the 30 percent,” Ms. Wu added, referring to the portion of unpaid medical debt accounts that will remain on credit reports.
+
+FICO, the most widely used credit score, baked in changes to ignore paid debts and to weigh certain unpaid medical collections less heavily starting in 2014 with its FICO 9 formula. It found that ignoring collection accounts — medical or otherwise — that had been paid would actually improve its score’s accuracy, so it eliminated them entirely.
+
+It also found that people with unpaid medical collections were less risky than those with other types of unpaid collections, so it factored in that information as well. But people with any unpaid accounts (including medical) were still riskier than those with none at all, so it did not go as far as eliminating medical debt from its algorithm altogether.
+
+VantageScore, FICO’s main competitor, made similar changes to its formula even earlier. It eliminated all paid collections, including medical debt, with a scoring model introduced in 2013. 
+
+Ethan Dornhelm, FICO’s vice president of scores and predictive analytics, said the company was working with the credit-reporting companies to quantify how the changes may shift scores — and how many people will be affected. He said he believed the changes would have a similar effect as when the reporting companies eliminated two other sources of negative information: tax liens and civil judgments. Those affected generally saw their scores rise by 20 points or less, he said.
+
+If a consumer had an otherwise spotless credit report and eliminated a medical bill — paid or unpaid — it could boost a score by more than 25 points, he added. (FICO scores range from 300 to 850, the higher the better.)
+
+“The more pristine the file looks after you take away that negative information, the more that score can increase,” Mr. Dornhelm said. 
+
+The bureaus’ announcements came just weeks after the Consumer Financial Protection Bureau said it would be scrutinize the credit companies’ treatment of medical debt and would consider an outright ban on including medical debt in credit reports. The agency said its research suggested that roughly 43 million people had medical bills on their credit report as of June, totaling around $88 billion. Fifty-eight percent of collections debt appearing on credit reports was tied to medical bills, the bureau estimated.
+
+Medical debts are often difficult to resolve given the nation’s byzantine insurance system and confounding billing practices. Sometimes consumers aren’t even aware unpaid bills are lurking on their credit reports until they apply for a loan and their score is lower than expected. 
+
+Regulators have targeted medical debts on credit reports before. Seven years ago, the credit bureaus reached a settlement with the New York State attorney general (and later with attorneys general of dozens of others) to overhaul their approach to fixing errors and their treatment of medical debt. Under that agreement, the companies established the six-month waiting period before reporting delinquent medical debt on consumers’ files; it also removed medical debts from reports after they had been paid by insurance.

@@ -1,0 +1,21 @@
+RIO DE JANEIRO — Brazil’s Congress, Supreme Court, election officials and federal police have been trying to get a response from Telegram, the fast-growing messaging app, for months. It turned out, all they had to do was ban it.
+
+On Friday, Brazil’s Supreme Court blocked Telegram in the country because the company behind the app had been ignoring the court’s orders.
+
+Then, suddenly, Telegram’s chief executive responded — with a pedestrian excuse: his company had missed the court’s emails. “I apologize to the Brazilian Supreme Court for our negligence,” said the executive, Pavel Durov.
+
+Telegram worked quickly over the weekend to comply with the court’s orders, including by deleting classified information shared by the account of President Jair Bolsonaro and removing the accounts of a prominent supporter of Mr. Bolsonaro who has been accused of spreading misinformation.
+
+That action satisfied the court. Late Sunday, the court lifted its ban on Telegram.
+
+But Telegram also went further in a bid to avoid a ban. The app made several other changes in Brazil to combat misinformation on its app, which has worried Brazilian officials ahead of the presidential elections in October. Telegram said that among the changes, it would start promoting verified information in Brazil and marking false posts as inaccurate, while also having employees monitor the 100 most popular channels in Brazil, which account for 95 percent of the views of public posts in the country.
+
+“The app has always been willing to collaborate with the authorities. What happened was a misunderstanding regarding communication,” said Alan Thomaz, Telegram’s lawyer in Brazil, who was appointed on Sunday as part of Telegram’s response to the court.
+
+The court’s reversal was so swift that the ban never took effect. While the court’s order was law for two days, the ban had given internet providers, wireless companies, and Apple and Google five days to comply.
+
+The ban was instituted and lifted by Alexandre de Moraes, a Supreme Court judge who has emerged as a prominent opponent of Mr. Bolsonaro. He is overseeing several investigations into the president and his allies. Mr. Bolsonaro criticized the ban, calling it “unacceptable,” and his administration quickly challenged it in court.
+
+Telegram has long maintained a hands-off approach to content on its apps, which has made it popular with right-wing users who complain that their views are censored on more mainstream social networks. That has meant Telegram has become an important broadcast channel for Mr. Bolsonaro, who has amassed nearly 1.1 million followers on the app. His top competitor in the 2020 presidential race, former President Luiz Inácio Lula da Silva, has less than 50,000.
+
+Brazil is an important market for Telegram, and losing access to the country would have been a major blow to a company that has been surging in popularity. Since 2014, Telegram has been downloaded nearly 85 million times in Brazil, with 29 percent of those installations coming last year, according to Sensor Tower, an app data firm.

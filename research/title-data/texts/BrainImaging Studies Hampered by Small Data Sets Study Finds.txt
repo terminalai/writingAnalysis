@@ -1,0 +1,23 @@
+For two decades, researchers have used brain-imaging technology to try to identify how the structure and function of a person’s brain connects to a range of mental-health ailments, from anxiety and depression to suicidal tendencies.
+
+But a new paper, published Wednesday in Nature, calls into question whether much of this research is actually yielding valid findings. Many such studies, the paper’s authors found, tend to include fewer than two dozen participants, far shy of the number needed to generate reliable results.
+
+“You need thousands of individuals,” said Scott Marek, a psychiatric researcher at the Washington University School of Medicine in St. Louis and an author of the paper. He described the finding as a “gut punch” for the typical studies that use imaging to try to better understand mental health.
+
+Studies that use magnetic-resonance imaging technology commonly temper their conclusions with a cautionary statement noting the small sample size. But enlisting participants can be time-consuming and expensive, ranging from $600 to $2,000 an hour, said Dr. Nico Dosenbach, a neurologist at Washington University School of Medicine and another author on the paper. The median number of subjects in mental-health-related studies that use brain imaging is around 23, he added.
+
+But the Nature paper demonstrates that the data drawn from just two dozen subjects is generally insufficient to be reliable and can in fact yield “massively inflated” findings,” Dr. Dosenbach said.
+
+For their analysis, the researchers examined three of the largest studies using brain-imaging technology to reach conclusions about brain structure and mental health. All three studies are ongoing: the Human Connectome Project, which has 1,200 participants; the Adolescent Brain Cognitive Development, or A.B.C.D., study, with 12,000 participants; and the U.K. Biobank study, with 35,700 participants.
+
+The authors of the Nature paper looked at subsets of data within those three studies to determine whether smaller slices were misleading or “reproducible,” meaning that the findings could be considered scientifically valid.
+
+For instance, the A.B.C.D. study looks, among other things, at whether thickness of the brain’s gray matter can be correlated to mental health and problem-solving ability. The authors of the Nature paper looked at small subsets within the big study and found that the subsets produced results that were unreliable when compared with the results yielded by the full data set.
+
+On the other hand, the authors found, when results were generated from sample sizes involving several thousand subjects, the findings were similar to those from the full data set.
+
+The authors ran millions of calculations by using different sample sizes and the hundreds of brain regions explored in the various major studies. Time and again, the researchers found that subsets of data from fewer than several thousand people did not produce results consistent with those of the full data set.
+
+Dr. Marek said that the paper’s findings “absolutely” applied beyond mental health. Other fields, like genomics and cancer research, have had their own reckonings with the limits of small sample sizes and have tried to correct course, he noted.
+
+“My hunch this is much more about population science than it is about any one of those fields,” he said.

@@ -1,0 +1,45 @@
+The majority of appraisals on home purchases in the United States can now be conducted without an appraiser ever stepping foot into the home — a move that some lawmakers and real estate professionals say could address pervasive racism against Black homeowners in the appraisal industry.
+
+In recent years, studies have shown that appraisers often undervalue homes, sometimes by hundreds of thousands of dollars, when the homeowner is Black or Latino. The remote desktop appraisal, in which an appraiser never meets a homeowner or has an opportunity to see their family portraits on the wall, could serve as a remedy. The move went into effect on Saturday.
+
+“You’re taking some of the potential for bias out of the equation,” said Ken Wingert, head of federal government relations for Zillow Group, which issued an advisory document to the Federal Housing Finance Agency on this topic last year. More than 85 percent of appraisers are white, and 77 percent are male, according to data from the Appraisal Institute, a global professional association of appraisers.
+
+Though reducing bias is an objective, Fannie Mae and Freddie Mac, two of the world’s largest financial institutions, say they are implementing the change on most loans that they buy, for several reasons, including a shortage of appraisers.
+
+The option for desktop appraisals could alleviate a logjam that has delayed closings in the white-hot housing market in many states because of the scarcity of appraisers, representatives of Freddie Mac and Fannie Mae said.
+
+The two government-sponsored entities, which buy loans from lenders and package them into investments, had already allowed the option temporarily during the pandemic to keep the mortgage industry functioning amid social distancing requirements.
+
+With desktop appraisals, appraisers analyze a home without any sort of physical inspection of the property. But the process still requires multiple steps and the input of a trained appraiser that bases home valuations on data such as tax records and comparable homes rather than on an on-site inspection. Unlike automated valuation models, which are the computer-driven price estimates that potential home buyers see while browsing sites like Zillow, Redfin and Trulia, desktop appraisals require a number of data points including floor plans, public records on the home, and resources like Google Maps and 3-D scans.
+
+The option does not exist for all loans; they must be purchase transactions on homes that are a single-unit primary residence, and the mortgage in question can’t account for more than 90 percent of the home’s actual price. Detailed floor plans, with interior walls, also have to be available for the appraiser to study.
+
+Both Fannie Mae and Freddie Mac, which bankrate.com says own more than 60 percent of American home loans, have said that the process is as accurate as traditional appraisal methods.
+
+Following widespread reports of discrimination in appraisals, including through amateur sting operations that Black homeowners have set up themselves, both companies launched their own research into systemic racism in the appraisal industry.
+
+In a statement, Fannie Mae said, “The traditional appraisal process relies heavily on human observations that can be subject to conscious or unconscious bias, while modern appraisal methodology — such as desktop and hybrid appraisals — involves significant reliance on data and a more arms-length process between the appraiser and the borrower or homeowner.”
+
+The move to desktop appraisals is the latest in a series of actions from the federal government aimed at stemming appraisal bias. Last year, President Biden put Marcia L. Fudge, the secretary of Housing and Urban Development, in charge of a task force focused on eradicating discrimination in appraisals.
+
+“Over the past year, far too many stories recounting the serious and all too frequent problem of racial bias latent in home buying and homeownership have made major headlines,” Ms. Fudge said in a tweet in December. “I say enough is enough.”
+
+The Interagency Task Force on Property Appraisal and Valuation Equity requires the help of “partners across the housing landscape,” she added in her tweet. “It will take the time and work of agencies, financial institutions, and the appraisal and real estate industry to meet a problem of this size with an adequate solution.”
+
+The Appraisal Foundation, which sets national standards for real estate valuation, did not respond to a request for comment. Jody Bishop, president of the Appraisal Institute, said in a statement that desktop appraisals are likely to be most useful in markets where many homes are similar and easily compared, and he anticipates hiccups with the technology in more nuanced situations.
+
+“We expect that many orders will need to be upgraded to a full interior and exterior inspection assignment because of the lack of quality and/or confidence in the data,” Mr. Bishop said.
+
+Abena Horton, a Black homeowner who saw her home’s appraised value jump by 40 percent in 2020 when she removed evidence of her race from her house, said the move made her optimistic that the industry was making real strides to address a history of racism.
+
+“I’ve always thought, there’s got to be a solution to this,” she said about persistent allegations of minority homeowners receiving lowballed appraisals. “The most important part is that major institutions are hearing these stories and acting on it. It’s very encouraging.”
+
+Despite the severity of the issue of racial bias, Phil Crawford, a Cincinnati-based appraiser who has spoken about desktop appraisals on his podcast, Voice of Appraisal, said a widespread shift to desktop valuations could pose a risk to financial markets. A more targeted solution, he said, would be to ensure that appraisers received better training on Fair Housing laws (in many states, there is no requirement for appraisers to undergo ongoing fair housing training after earning their credential).
+
+“Watering down the traditional appraisal process that we have today puts Fannie Mae into a dangerous position,” he said. “Remember, only 4 or 5 percent of their loans had to go into foreclosure to create the great financial crisis.”
+
+“We’re living in a world of black swans right now,” he added, “and with all the uncertainty, it’s a bad time to implement some new product that may or may not be successful.”
+
+But Mr. Wingert, of Zillow, disagreed.
+
+“You’re entering just as many data points as you would in an in-person appraisal, and in some ways, you’re able to even leverage more,” he said. “Will this be a magic fix? Maybe not. But it’s definitely another tool in the toolbox for trying to combat racism.”

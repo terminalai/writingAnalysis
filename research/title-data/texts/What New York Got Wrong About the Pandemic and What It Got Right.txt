@@ -1,0 +1,199 @@
+Just over two years ago, a middle-aged lawyer arrived at a Westchester County hospital, struggling to breathe. What ailed him remained a mystery for days until, on March 2, he tested positive for the new coronavirus.
+
+If a lawyer who was leading a quiet life structured by Metro-North’s timetable on the weekdays and synagogue on the Sabbath was infected, how many others were as well?
+
+His case, among the first warnings that the virus was spreading here undetected, triggered a contact-tracing investigation at his Midtown law office, as well as at the Bronx school and Manhattan university his children attended. 
+
+Within two weeks, subway ridership was down by half, as the city grew fearful. Within three weeks, the state banned social gatherings of any size. Many New Yorkers — the ones with jobs deemed nonessential — stayed home.
+
+Then the ambulance sirens began.
+
+New York City had become the global epicenter of the pandemic. Scenes from overwhelmed hospitals in Brooklyn and Queens replaced earlier ones from Wuhan, China, and northern Italy. Until the virus struck, Mayor Bill de Blasio and his health commissioner, Dr. Oxiris Barbot, had offered optimistic pronouncements of how New York would fare.
+
+That first wave infected nearly a quarter of the city and killed more than 22,000 residents, according to city data. Over the next two years, New York City would face three more waves, killing 16,000 others and infecting several million more, although none rivaled the first wave’s devastation. The city’s residents pulled together, by and large embracing masks, testing and vaccines with less rancor than elsewhere.
+
+The pandemic is not yet over. A subvariant of Omicron, BA.2, is causing cases in Europe to rise, and it now makes up a growing proportion of cases in the New York region, according to the Centers for Disease Control and Prevention. Still, New York’s experience of the last two years — from its sluggish response in March 2020 to its successful use of vaccine mandates the next year — will be studied for decades to come.
+
+Here are a few of the lessons.
+
+With growing dread, epidemiologists at the Health Department’s headquarters, in a Queens office tower, watched a big screen showing emergency-room visits across the city, sorted by symptoms. Over the first few days of that March, flulike symptoms were rising.
+
+Around March 5, the department’s top infectious-disease official, Dr. Demetre Daskalakis, and his team were growing convinced that the new coronavirus was spreading rapidly, largely undetected. There might be thousands of people infected.
+
+But when Dr. Daskalakis and his boss, the health commissioner, Dr. Barbot, presented the data to Mr. de Blasio and his advisers, it set off few alarms.
+
+“I don’t think any of us understood the scale of it,” recalled Dr. Mitch Katz, who runs the city’s public hospitals and participated in those meetings.
+
+At the time, the city had fewer than a dozen cases confirmed through coronavirus testing, some connected to the Westchester lawyer. The mayor took reassurance in how slowly that number was rising. The official case count, however, was not a measure of the outbreak, but of limited test availability because of the C.D.C.’s botched rollout of a test. Fewer than 100 city residents had been tested.
+
+Yet Mayor de Blasio suggested the low numbers meant the virus might not be so contagious. “There’s clearly a higher bar for the transmission of this disease,” he said on March 9.
+
+By the time he realized what was happening, New York City was on course to becoming the global epicenter of the pandemic.
+
+The communication breakdown between the public health experts and the mayor offers a clear lesson: When facing a dangerous new pathogen with pandemic potential, one must sound the alarm early and clearly.
+
+On at least one occasion, Dr. Barbot recalled that she and her deputy, Dr. Daskalakis, told the mayor that what awaited could be on the scale of the 1918 influenza pandemic, the deadliest in modern history. But she had trouble impressing upon the mayor just how quickly the virus was spreading and how he should respond.
+
+“I’ve actually been accused of being too poker face,” Dr. Barbot wrote to the mayor’s chief of staff on March 6.
+
+She said she believed she was sounding the alarm, urging social distancing and warning of the potential for tens of thousands of deaths. But the mayor’s aides said that her analysis and recommendations weren’t clear, and that her office sometimes sent mixed messages.
+
+Dr. Barbot urged the mayor to start talking about social distancing at his daily news conferences. Work from home. Wait for a less crowded subway car.
+
+But on March 6, she told City Hall aides it was too early to cancel mass gatherings. On March 9, she said the response was “moving in the right direction,” though the city had yet to implement restrictions.
+
+The next morning, on March 10, she sent a memo urging City Hall to recommend that indoor gatherings of more than 1,000 people be rescheduled. Yet she also said Broadway shows could continue, if theaters made hand sanitizer available, according to the memo.
+
+The turning point came late March 11, when the N.B.A. suspended its season and Gov. Andrew M. Cuomo said the St. Patrick’s Day parade would be postponed.
+
+Less than 40 minutes after the N.B.A. announcement, the mayor emailed his advisers, directing them to learn how other countries were curbing the virus. He wrote that the city needed to prepare for 100,000 cases. “Need to learn what works really, really quickly,” he wrote. “We are flying too blind.”
+
+But crucial time had been lost.
+
+Public health experts and epidemiologists had long studied the 1918 pandemic for lessons. A consensus emerged: In the United States, cities that acted quickly to thin out crowds and close schools, theaters or other venues fared better during a devastating fall wave that year.
+
+You wanted to be St. Louis, which quickly imposed restrictions, not Philadelphia, which allowed a superspreader war-bonds parade to go forward, a lesson mentioned in one 2014 New York City emergency management document.
+
+Such restrictions could reduce the total number of infections during a wave. They could also “flatten the curve” — reducing the number of people sick at once — so hospitals would not be overwhelmed.
+
+China had stamped out its initial outbreak through lockdowns and by sealing off Wuhan. New York’s shutdown measures, once they began, were much less severe. Still, they managed to cut short the first wave, epidemiologists say. Had they been implemented sooner, these experts add, the toll of the first wave would have been lower.
+
+Many New Yorkers had already begun staying closer to home when, on March 12, Governor Cuomo barred gatherings larger than 500 people. By March 15, Mayor de Blasio shuttered bars and restaurants and announced that public schools would close the next day. By March 22, the state prohibited all social gatherings.
+
+Hospital admissions peaked the week of March 29 before declining rapidly during April. One study estimated that New York City’s “lockdown-like measures” were associated with a greater than 50 percent reduction in coronavirus transmission.
+
+Even though shutdowns suppress transmission, cases may once again spike when restrictions are lifted. But that did not occur in New York, which gradually lifted restrictions over months. The city’s experience shows that lockdowns can prevent many people from getting infected until a vaccine is available or doctors learn how to treat the disease more effectively — especially if other measures, such as mask wearing, remain in place.
+
+New York City’s first wave was not followed by another until late 2020, as vaccines were becoming available.
+
+“Those nonpharmaceutical interventions worked much better than we thought they might,” said Dr. Isaac Weisfuse, a former New York City deputy health commissioner.
+
+As Mr. de Blasio tried to chart a course, Mr. Cuomo, who had long had an acrimonious relationship with the mayor, seemed to relish any opportunity to show who held more power. This often slowed the public health response.
+
+Perhaps the most significant moment came on March 17, 2020, when Mr. de Blasio, following California’s lead, said he was considering ordering residents to “shelter in place.”
+
+Mr. Cuomo objected, saying the mayor lacked the authority. Several days later, Mr. Cuomo himself imposed a similar plan.
+
+“There was a hesitation, or a slowness to respond, and some of that has to do with internecine rivalries,” said Dr. Howard Markel, a medical historian who has written about the city’s handling of epidemics.
+
+The pattern repeated itself as City Hall tried to plan when schools and restaurants might reopen.
+
+Throughout 2020, Mr. de Blasio’s authority to make basic public health decisions remained in dispute, with Mr. Cuomo even referring to mayoral announcements as the mayor’s “opinion.”
+
+In October 2020, with New York facing a second wave, Mr. de Blasio announced a plan to close schools and nonessential businesses in areas where the virus was surging. Mr. Cuomo knocked aside the mayor’s plan and instituted his own.
+
+Many New Yorkers felt caught in the middle, as the two men issued dueling pronouncements.
+
+The economic and racial inequalities that mark life in New York amplified the virus’s toll. Covid-19 has been especially deadly for those with diabetes, hypertension and obesity — conditions often linked to socioeconomic status. The virus hit hardest in poor and immigrant communities, where crowded homes were more common and social distancing and working from home were rarely options.
+
+The hospitals in these neighborhoods — like Elmhurst Hospital in Queens and Brookdale Hospital in Brooklyn, where patients are predominantly Black or Hispanic — have less resources than the big hospital systems in Manhattan. And some were quickly stretched to the breaking point as desperately ill patients filled emergency rooms. Nurses had more patients than they could possibly care for. At some safety-net hospitals, patients were three times as likely to die as patients at big Manhattan institutions.
+
+Yet reinforcements were scarce, or slow to arrive.
+
+At first, there was little organized effort to shift patients from the hardest-hit hospitals to other institutions in the city. “There was no system in place to immediately share the load,” Dr. Howard A. Zucker, then the state health commissioner, later said.
+
+After the first wave, the state has largely left it up to hospitals to coordinate patient transfers when virus cases are surging. Often big hospitals have partnered with smaller ones. During the recent Omicron surge, the state’s largest hospital system, Northwell Health, took in some 65 patients from overburdened hospitals across the city.
+
+But Dr. John D’Angelo, who oversees Northwell's emergency departments, acknowledged that the present system has its limits. For one thing, each patient transfer requires planning and coordination — a major administrative burden for hospitals during a surge.
+
+Two years into the pandemic, hospitals tend to have fewer nurses than before, a result of burnout and higher-paying jobs elsewhere. The nursing shortage remains largely unaddressed — and the costs were clear at the height of the Omicron surge.
+
+One key lesson is that smaller, poorer hospitals need more support when virus cases surge. That has focused more attention on state policies that have left these hospitals with inadequate funding, including from low Medicaid reimbursement rates.
+
+After early shortages of testing kits, plenty were available by the summer of 2020. But large commercial labs were now being inundated with samples. Results were often delayed by days or more than a week, often making them useless for people urgently wanting to know if they might be contagious.
+
+So the city partnered with a robotics company to open the Pandemic Response Lab, able to process tens of thousands of tests daily. The city could now boast of one of the most robust testing programs in the country.
+
+That didn’t fix another problem: the long lines of people waiting to get their noses swabbed at clinics during surges. But where the city has established its own public health infrastructure — lessening its reliance on the federal government or the marketplace — it has helped.
+
+For instance, with new variants proliferating by early 2021, the United States had no large-scale system for screening coronavirus samples for mutations and tracking variants. So New York City quickly stitched together its own program, which offered insights about the spread of variants around the city.
+
+“Strengthening your local capacity and local resilience is absolutely critical,” said Dr. Jay K. Varma, who was a senior adviser to City Hall during the pandemic and played a key role in expanding New York’s testing capacity.
+
+The city’s public health leaders learned a similar lesson with masks. In the early days of the pandemic, the Health Department took its cue from the C.D.C. and generally discouraged people from wearing masks. In hindsight, New York officials said they wished they had gotten out ahead and told people to wear masks sooner.
+
+“The early advice was masks wouldn’t help, and that was a major mistake,” Dr. Katz said.
+
+As the first wave of the virus ebbed, New York City hired 3,000 people to call every positive case, and they reached more than 900,000 people between June 2020 and December 2021.
+
+Of those, about half provided the name of at least one contact, and the tracers reached out to about 800,000 additional New Yorkers, asking them to quarantine.
+
+But this huge tracing effort had limited effectiveness in curbing the fast-moving respiratory virus. By the time tracers reached people, they typically had been contagious for days. And it seemed that many people named only a fraction of their contacts, if any. Tracers in other places experienced the same problems.
+
+By January 2021, even the head of communicable disease investigation at the city’s Department of Health, Dr. Marcelle Layton, was expressing doubts.
+
+“There is no question in my mind that the most effective use of staffing (especially more experienced public health staff) is to focus on vaccination,” she wrote in an email obtained by the Documenting Covid-19 project at the Brown Institute for Media Innovation.
+
+But a call from a tracer did help people in other ways. Tracers provided information about the virus to the sick in multiple languages. They instructed people on how to isolate and offered a broad list of services. These services grew over time, from free meal and medicine delivery to dog walking. For those who could not isolate at home, the city offered free hotel rooms.
+
+In all, 360,000 people received help through these services, according to city data.
+
+This month the Centers for Disease Control and Prevention stopped recommending universal contact tracing for Covid. The city will shut down its main tracing effort at the end of April and focus limited contact tracing in high-risk settings like prisons.
+
+Now everyone else who tests positive will get a text message with instructions for accessing city services, including free antiviral pill delivery for those at heightened risk of getting severely sick.
+
+One month after New York City received its first vaccine shipments in December 2020, thousands of doses sat for days or weeks in freezers, despite enormous demand.
+
+Governor Cuomo had for weeks stuck to rigid guidelines that prioritized high-risk health care workers and residents and staff members at nursing homes. But those vaccinations were going more slowly than expected, even as virus cases surged.
+
+Under pressure to speed things up, the governor made millions of New Yorkers over 65 eligible, though New York had nowhere near enough doses for them all. That set off a confused rush for appointments.
+
+Older New Yorkers were forced to navigate glitchy websites, and family members spent hours refreshing websites for slots. An Airbnb software engineer who set up a simpler online appointment system himself, TurboVax, became a city hero.
+
+White suburban residents snagged appointments at vaccination sites in hard-hit Black and Hispanic neighborhoods. The vaccine drive now seemed like a free-for-all.
+
+Relatively few of the early doses went to Black or Latino residents. The city’s vaccine campaign was adding a new disparity to a pandemic already full of them.
+
+“We lost time and credibility,” said Dr. Wafaa El-Sadr, an epidemiologist at Columbia University, which is heading up a new institute, partly financed by the city, to prepare better for the next pandemic.
+
+Still, New York’s vaccination effort improved greatly over time. Today, an estimated 87 percent of adults in the city are fully vaccinated, and 97 percent have had a least one dose, surpassing national averages. The racial gaps have shrunk or reversed. Hispanic New Yorkers now have a higher overall vaccination rate than white New Yorkers.
+
+Sweeping vaccine mandates were a significant factor in achieving those rates.
+
+Mayor de Blasio had initially been reluctant to make coronavirus vaccines mandatory, hoping that encouragement and convenience would suffice. The city deployed vaccination vans to neighborhoods with low rates and even offered free at-home vaccinations.
+
+But many people avoided the vaccine, for varied reasons: anxiety about side effects, distrust of government, the reach of conspiracy theories.
+
+City officials had underestimated resistance, particularly among young Black New Yorkers, two-thirds of whom had yet to get vaccinated by late last summer. Rates also remained low in conservative communities like areas of Staten Island and Orthodox Jewish Brooklyn.
+
+As the Delta variant proliferated in the summer of 2021, Mr. de Blasio began to apply pressure. “We’ve been really nice, really respectful,” he said July 20. “But I’m like, come on, people.”
+
+The city required all public schoolteachers to get vaccinated. Then the entire city work force came under a similar mandate. Mr. de Blasio’s moves were mirrored by the state, which required health care workers to get vaccinated.
+
+The new policies provoked lawsuits and protests. Thousands of health care workers statewide left their jobs, and thousands of municipal workers were placed on unpaid leave. But those numbers were dwarfed by the many holdouts who finally got vaccinated. By this March 9, 97 percent of the city’s 370,000 workers had received at least one dose, up from 84 percent when the mandate was first announced last October.
+
+Last September, the city also began requiring proof of vaccination to enter restaurants or other indoor venues, ranging from museums to movie theaters. (This requirement has recently been lifted.)
+
+By December, just before leaving office, Mr. de Blasio announced a sweeping mandate that all New York City employers must require in-person employees to be vaccinated. There was little pushback. By then, such vaccine mandates were largely accepted in New York as a fact of life.
+
+After closing schools during the first wave, Mayor de Blasio was determined to reopen public schools in September 2020, making New York the first big city in the country to do so.
+
+Some teachers protested. But schools did reopen that October, on a hybrid schedule. About 300,000 of the city’s one million schoolchildren showed up.
+
+As students returned to their desks, six feet apart, the city began to administer virus tests to a fraction of in-person students and teachers. There appeared to be less transmission at school than in the community as a whole, giving the city confidence to go further.
+
+“We learned that schools were not a major driver of transmission, particularly when we did have preventive measures in place,” Dr. Dave A. Chokshi, the city’s health commissioner during much of the pandemic, said.
+
+After city officials closed schools for a second time, in November 2020, when the city hit a 3 percent positivity rate, officials later said they regretted it. By the spring, the city began opening many schools five days a week. This school year, a remote option for schools was eliminated.
+
+Still, as the virus has mutated, the dynamics of transmission and the risk to children have grown more uncertain. Young children are far less likely to be vaccinated than adults. And with masks now optional, another layer of mitigation has been removed.
+
+A broad consensus has formed that remote learning doesn’t work well for most children and that schools should be among the last places to close. But health experts say that schools also need safeguards, like good ventilation, to keep transmission down. 
+
+The key lesson of the deadly first wave in March 2020 turned out to be the same as in 1918: Decisive action early was needed to reduce transmission. But that is a difficult task, requiring leaders to act on incomplete information and reorder daily life before catastrophe strikes.
+
+Other lessons have emerged. Improve the air quality in indoor spaces, either through air filtration or opening windows. Tell people to wear high-quality masks early and have stockpiles of them available. Protect nursing homes, given the frailty of the residents and the speed at which a virus can spread in a communal setting.
+
+Hospitals are more prepared now, with new stores of protective equipment and a wealth of experience responding to surges of patients. But the nursing staffs at many hospitals have been depleted, and plans for replenishing them are moving slowly.
+
+The disparities in health care remain profound. The hospitalization rate for Black New Yorkers was more than twice that of white New Yorkers during the Omicron wave in December and January, a wider gap than in previous waves, a city study showed. And booster rates citywide remain low, a gap in virus defenses.
+
+“We’re two years in, and there’s so many things that we should have figured out by this point, and we just haven’t,” said Kelley Cabrera, an emergency room nurse at Jacobi Medical Center, a public hospital in the Bronx.
+
+Experts agree that this moment is an ideal opportunity to reinvest in public health programs, which have been defunded over decades. Counties and cities could have more health workers providing education and care in poorer neighborhoods, and pandemic surveillance methods could be strengthened.
+
+But at a time when so many people just want to move on, experts worry that there is little interest in City Hall or Albany to look deeply into what lessons the virus response taught us.
+
+Bill Hammond, a health policy expert at the Empire Center for Public Policy in Albany, is calling for a formal commission to investigate the mistakes made before and during the first wave, but the idea has not caught on.
+
+“If we would only look back at what the virus told us,” he said, “we would have this enormous trove of insight that we could use to prepare for the future.”

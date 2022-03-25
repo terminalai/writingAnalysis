@@ -1,0 +1,77 @@
+Roughly 17 million Americans received the Johnson & Johnson Covid vaccine, only to be told later that it was the least protective of the options available in the United States. But new data suggest that the vaccine is now preventing infections, hospitalizations and deaths at least as well as the Pfizer-BioNTech and Moderna vaccines.
+
+The reasons aren’t clear, and not all experts are convinced that the vaccine has vindicated itself. But the accumulating data nonetheless offer considerable reassurance to recipients of the vaccine and, if confirmed, have broad implications for its deployment in parts of the world.
+
+In Africa, for example, distribution of a single-dose vaccine that can be refrigerated for months is by far the most practical option.
+
+Johnson & Johnson has at least temporarily shut down the only plant making usable batches of the vaccine. But the South Africa-based Aspen Pharmacare is gearing up to supply large quantities to the rest of the continent. Only about 13 percent of Africans are fully vaccinated, and only about 1 percent have received a booster dose.
+
+“In the setting of Africa, where we have the need to quickly get vaccines out, the single dose is very exciting,” said Linda Gail-Bekker, director of the Desmond Tutu H.I.V. Center at the University of Cape Town, who has studied the vaccine’s effectiveness in South Africa.
+
+The Johnson & Johnson vaccine was billed as an attractive option for communities with limited access to health care, including some within the United States, because of its ease of delivery and mild side effects. But it has had a bumpy journey.
+
+The shot seemed to produce a weaker initial immune response, and more people who got the single-dose vaccine had breakthrough infections, compared with those who got two doses of Pfizer or Moderna, the mRNA vaccines.
+
+In April, federal health officials in the United States and in South Africa paused the J.&J. vaccine’s distribution as they examined reports of a rare blood-clotting disorder in women. Though both countries resumed the rollouts soon after, the vaccine’s reputation never fully recovered.
+
+But the notion that the vaccine is inferior has grown outdated, some experts said: More recent data suggest that it has more than held its own against its competitors.
+
+“We’ve been aware that J.&J. has been kind of downgraded in people’s minds,” Dr. Gail-Bekker said. But “it punches above its weight for a single-dose vaccine.”
+
+Until last June, the cumulative data from the C.D.C. showed that immunization with the Moderna vaccine resulted in the lowest rates of breakthrough infections; those who got Johnson & Johnson saw the highest rates, with Pfizer-BioNTech somewhere in the middle.
+
+During the summer months, the gaps — particularly between J.&J. and Pfizer — began to narrow. By now, all the vaccines seem to be performing about equally well against coronavirus infections; in fact, Johnson & Johnson appears to be holding up slightly better.
+
+As of Jan. 22, the latest data available, unvaccinated people were 3.2 times as likely to become infected as those who received the single-dose Johnson & Johnson vaccine; they were 2.8 times as likely to become infected as those who received two doses of the Moderna vaccine and 2.4 times as likely as those with two doses of Pfizer-BioNTech. Overall, then, the Johnson & Johnson vaccine appeared to be somewhat more protective against infection than the two alternatives.
+
+Among Americans who got booster doses, all the vaccines appeared to have roughly the same effectiveness against infection. A booster shot did not add much to Johnson & Johnson’s previous level of protection (although the data do not indicate who received which type of booster shot).
+
+The data were collected by the C.D.C. from 29 jurisdictions, representing 67 percent of the population.
+
+“The C.D.C. data adds to the growing body of evidence indicating the Johnson & Johnson Covid-19 vaccine provides durable protection against breakthrough infection and hospitalization,” the company said in a statement.
+
+The findings indicate that the J.&J. vaccine deserves a closer look, said Dr. Larry Corey, an expert in vaccine development at the Fred Hutchinson Cancer Research Center in Seattle.
+
+“This vaccine platform may have some surprising characteristics that we hadn’t anticipated,” he said. The data “is interesting, provocative, and we should spend more time understanding it.”
+
+Dr. Corey said the results jibe with his experience in H.I.V. research with the adenovirus that forms the backbone of the Johnson & Johnson vaccine. “It has much longer durability than almost any other platform that we’ve ever worked with,” he said.
+
+Scientists are only beginning to guess why the vaccine’s profile is improving with the passing months.
+
+Levels of antibodies skyrocket in the first few weeks after immunization, but then rapidly wane. The J.&J. vaccine may produce antibodies that decline more slowly than those produced by the other vaccines, some research suggests. Or those antibodies may become more sophisticated over time, through a biological phenomenon called affinity maturation.
+
+Perhaps, some researchers suggest, the vaccine offered a more robust defense against the Omicron variant, responsible for the huge increase in infections over the past few months. And studies have shown that the vaccine trains other parts of the immune system at least as well as the other two vaccines.
+
+Not everyone is convinced that the Johnson & Johnson vaccine is catching up. It may only appear to be effective now because many recipients got breakthrough infections early on, gaining additional immunity, said Natalie Dean, a biostatistician at Emory University. “They may have a different immunity profile,” she said.
+
+The infection rate is now lower among people who got the Johnson & Johnson vaccine but did not get a booster. Still, the death rate is slightly higher, compared with that among those who got the Pfizer-BioNTech and Moderna vaccines, Dr. Dean noted.
+
+But the differences are not huge, and disappeared among those who got booster shots. The C.D.C.’s statistics on deaths only run through Jan. 1, and the Johnson & Johnson vaccine’s edge may only become apparent in data from February or March, said Dan Barouch, a virologist at Beth Israel Deaconess Medical Center in Boston who collaborated with Johnson & Johnson in the development of the vaccine.
+
+Deaths tend to lag infections, often by weeks or months, “because many deaths are after prolonged hospital courses,” he said.
+
+Dr. Dean said for a clearer comparison of the vaccines, she would like to see data with information on individual factors, like prior infections and other high-risk conditions, rather than the age-adjusted overall numbers provided by the C.D.C.
+
+“It is a shame that we don’t have more direct study of outcomes among people who received J.&J.,” she said. That is in part because fewer people got the vaccine than the mRNA vaccines, she said, but also “because we’re relying on other countries generating data.”
+
+Some of that information has come from South Africa. In one trial, called Sisonke, Dr. Gail-Bekker and her colleagues evaluated one dose of the Johnson & Johnson vaccine in nearly 500,000 health care workers, and two doses in about 240,000 of those individuals.
+
+In the first part of the trial, the researchers matched the recipients with a control group by age, sex, risk factors for Covid, socioeconomic status and prior Covid infection. When the Delta variant was dominant in the country, they found that the vaccine had an effectiveness of about 67 percent against hospitalization and about 82 percent against death. Protection against the Beta variant was similar.
+
+“Certainly during the Beta and the Delta waves, the single dose worked very well for severe disease and death,” Dr. Gail-Bekker said.
+
+When the Omicron variant began circulating in South Africa, the researchers offered a booster of the same vaccine to the participants. Fewer than half of them agreed.
+
+“It was extraordinary, the pushback,” Dr. Gail-Bekker said. By that point, the perception was that the Pfizer-BioNTech and Moderna vaccines were superior. “There was a feeling again that we were offering a very second-rate option,” she recalled.
+
+Still, the data so far suggest that two doses of the J.&J. vaccine had an effectiveness of about 75 percent against hospitalization with the Omicron variant, comparable to the protection from the Pfizer-BioNTech vaccine. The researchers presented the findings last month at the Conference on Retroviruses and Opportunistic Infections in Denver.
+
+Although the trial looked only at people who got two doses of the Johnson & Johnson vaccine, it suggests that the vaccine may make an excellent booster for people who initially got two doses of an mRNA vaccine, experts said.
+
+But in December, the C.D.C. recommended the mRNA vaccines over Johnson & Johnson’s for all adults, citing a risk of rare side effects like blood clots and Guillain-Barré syndrome. The agency found four cases of blood clots per million people who got the vaccine; women ages 30 to 39 had the highest incidence, at about 11 per million.
+
+The mRNA vaccines, too, have been associated with uncommon side effects. They are thought to cause about 11 cases of myocarditis, or inflammation of the heart, for every 100,000 vaccinated males aged 16 to 29 years.
+
+More data on different combinations of vaccines may clarify which is the safest and most effective in the long term, Dr. Dean said. The arrival of new variants may also give some vaccines an edge over others, she said.
+
+“I do keep a very open mind about what could end up being the best vaccine regimen for the future,” she said.

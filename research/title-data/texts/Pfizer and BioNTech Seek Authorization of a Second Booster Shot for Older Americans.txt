@@ -1,0 +1,43 @@
+WASHINGTON — Pfizer and BioNTech said on Tuesday that they had sought emergency authorization for a second booster shot of their coronavirus vaccine for adults 65 and older.
+
+The companies’ request to the Food and Drug Administration was based heavily on data from Israel, where such shots are authorized for a somewhat broader group. Their move could further inflame a tortuous debate among scientists over when and how the vaccines’ protection should be bolstered, and for whom.
+
+Pfizer’s chief executive, Dr. Albert Bourla, said repeatedly over the past week that he believed an additional dose would be necessary to counteract waning protection after the third dose, now authorized for all Americans 12 and older.
+
+“The protection that you are getting from the third, it is good enough, actually quite good for hospitalizations and deaths,” he told CBS’s “Face the Nation” on Sunday. “It’s not that good against infections.”
+
+Previous requests last fall for a booster shot set off a fierce public debate. Some public health experts vigorously opposed a third dose for the general population only to change their minds after the Omicron variant proved more agile at evading the vaccines’ shield.
+
+But scientists have continued to clash over how long the vaccines’ protection lasts and how much benefit added shots offer. A fourth dose could prove even more contentious than a third.
+
+In an interview with Business Insider on Monday, Dr. Stephen Hoge, the president of Moderna, whose vaccine is the second most widely used in the United States, sounded a more cautious note than Dr. Bourla.
+
+“For those who are immune-compromised, those who are older adults, over the age of 50 or at least 65, we want to strongly recommend and encourage” a fourth shot, he said — without saying when it should be given. Like a number of other experts, he suggested that most people would need an annual coronavirus shot, just like the flu shot.
+
+In their justification, Pfizer and BioNTech cited two recent studies from Israel, both published on preprint servers without peer review. One study, done in conjunction with Israel’s Ministry of Health, reviewed the health records of 1.1 million people and concluded that those who got a fourth dose of Pfizer’s vaccine were less likely to become infected with the virus or to develop severe illness than those who had received just three doses.
+
+But since Israel only recently began its second booster program, researchers could not determine whether the added protection was short-lived. Israel began offering fourth doses to health care workers in late December, then quickly broadened eligibility to those 60 and older and other vulnerable groups.
+
+The second study, of Israeli health care workers, showed that even though fourth shots of either Pfizer’s or Moderna’s vaccine boosted antibody levels, they were not very effective at preventing infections. Researchers said those findings underscored the urgency of developing vaccines that target whatever variant is circulating.
+
+The National Institutes of Health in the United States and various vaccine manufacturers have been studying how the vaccines could be updated. One federal health official said results were not expected until the summer.
+
+Some senior administration officials say that depending on the evidence, a second booster could make sense now for older Americans, but not for the general population. The F.D.A. is expected to convene a meeting of its expert advisory committee next month to discuss the issue of fourth shots. Developments on Pfizer’s request were reported earlier by The Washington Post.
+
+Asked last month whether everyone would need another injection, Dr. Peter Marks, the F.D.A.’s top vaccine regulator, said, “Barring any surprises from new variants, maybe the best thing is to think about our booster strategy in conjunction with the influenza vaccine next fall, and get as many people as possible boosted then.” Dr. Anthony S. Fauci, the chief medical adviser to the White House, has suggested that any move toward a second booster now would most likely be aimed at those most at risk, possibly based on age and underlying conditions.
+
+To date, about two-thirds of Americans 5 and older have been fully vaccinated with two shots of a vaccine. Only about half of those eligible for boosters have received them, but the proportion rises to two-thirds for those 65 and older, according to the Centers for Disease Control and Prevention.
+
+In a call with reporters on Tuesday, senior administration officials said the administration was running short on funds for new doses. The administration has enough supply to manage a fourth shot for people 65 and older, one said, but could not expand that effort to everyone without more funding from Congress.
+
+The C.D.C. has recommended that many Americans with immune deficiencies get three shots as part of their initial series, followed by a fourth shot as a booster. But a huge question mark hangs over everyone else.
+
+A study released by the agency last month showed waning protection after a booster shot of either Moderna’s or Pfizer-BioNTech’s vaccine. While researchers did not break down cases by age, underlying conditions or the presence of immune deficiencies, they said the findings illustrated the possible importance of a fourth shot.
+
+The study analyzed hospitalizations and visits to emergency rooms and urgent care clinics in 10 states by people who received booster shots of either Moderna’s or Pfizer-BioNTech’s vaccine. It showed the level of protection against hospitalization fell from 91 percent in the two months after a third shot to 78 percent after four to five months. Effectiveness against visits to emergency rooms or urgent care clinics declined from 87 percent to 66 percent.
+
+Kaiser Permanente Southern California also suggested that the effectiveness of a booster dose against both symptomatic and severe disease wanes in three to six months, while a fourth dose restores antibody levels to the peak level triggered by a third dose, according to Pfizer and BioNTech.
+
+But other recent studies have suggested that three doses of a Covid vaccine — or even just two — are enough to protect most people from serious illness and death for a long period of time. While antibody levels fall off, other parts of the immune system can remember and destroy the virus over many months if not years, according to at least four studies published in top-tier journals.
+
+“We’re starting to see now diminishing returns on the number of additional doses,” E. John Wherry, the director of the Institute for Immunology at the University of Pennsylvania, said in an interview last month.

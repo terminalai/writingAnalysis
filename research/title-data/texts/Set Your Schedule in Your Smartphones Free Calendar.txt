@@ -1,0 +1,25 @@
+If your phone’s personal calendar app hasn’t gotten much use in the past two years of social distancing and working from home, it might be time to brush up. Here’s a quick guide to tools in Apple’s iOS Calendar and Google Calendar that help you plan your social life, get to your events on time, share your hybrid work schedule with family and more.
+
+Your Apple ID or Google Account includes a default calendar app that can sync with any device logged into that account. Adding and editing events in either Apple’s iOS Calendar app or the Google Calendar app for Android and iOS is straightforward: Tap the plus (+) button on the screen and fill in the details. (Apple’s Siri and the Google Assistant can add appointments on command or from events mentioned in email.) You can also add a location and adjust the amount of time alerting you to the event.
+
+On an iPhone, tap the Today button in the bottom-left corner of the calendar’s monthly view to see what’s immediately ahead. In Google’s Calendar app, tap the Menu icon in the upper-left corner and select Schedule to see your next appointments. You can use search to find events. Want to see the full week on display? Turn your phone sideways.
+
+Scheduling an appointment is easy. Getting there on time can be harder, but Apple and Google have tapped into their maps software for help.
+
+When you create an event (or edit an existing one) in Apple’s iOS Calendar, select the Travel Time option for the appointment and tap the button to enable it. The app will automatically calculate the time needed to get there by car, foot or other transit methods based on distance and travel conditions from your current or stated location. (Alternatively, you can just tack on a generic block of time.) The feature also works on the Mac desktop calendar app.
+
+Using Google Calendar in a desktop browser is the most direct way to add travel time. To do so, create or edit an event and click on the location. In the Google Maps panel that opens on the right, browse the suggested travel directions and click the Add to Calendar button to schedule the predicted travel time ahead of your appointment.
+
+Want to change the day your week starts or adjust other calendar behaviors? Visit the calendar app’s settings. On an iOS device, open the Settings app from the home screen and select Calendar. In Google Calendar for Android and iOS, tap the Menu icon and select Settings and then General.
+
+Both apps can display the dates from a religious or cultural calendar. Tap Alternate Calendar and select one; Apple offers Chinese, Hebrew and Islamic/Hijri options, as does Google — which also includes Indian, Korean and Persian calendars.
+
+Apple and Google allow you to add calendars alongside your personal calendar — like ones for holidays, birthdays or the book club. At the bottom of the main iOS calendar screen, tap Calendars and then Add Calendar. To share it with others, create an iCloud Calendar and, in the Shared With area, tap Add Person and enter the email addresses of the other people using the calendar. (If you want to add your company’s official office calendar, check with your employer for guidance.)
+
+Sharing full access to a calendar is easiest if everyone is on the same platform. If you’ve already set up Apple’s Family Sharing feature or created a “family” through Google, you automatically have a shared Family calendar for your household to use.
+
+You need to use a browser to create an additional Google Calendar. Log into the program on the web and click the plus sign next to Other Calendars on the left side of the screen. After you create the calendar, select it in the Settings for My Calendars area and add the email addresses of the people who’ll be sharing it.
+
+Some sports leagues and other groups offer online public calendars for subscription on their sites (The New York Times has a free astronomy calendar, too) and you need only a web link to subscribe. In the iOS Calendars app, tap Add Calendar, select Add Subscription Calendar and paste in the URL. In the Google Calendar settings in the browser, click the + next to Other Calendars and choose “From URL” to paste in the link; the “Browse calendars of interest” menu option has several freebies to explore.
+
+Need to mind-meld separate Apple and Google calendars into one app? Google’s support site has instructions for iOS users who want to add a Google calendar. Apple’s iCloud Help site explains how to publicly share your iCloud calendar and get the URL needed to view it in Google Calendar.
