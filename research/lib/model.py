@@ -1,26 +1,7 @@
 import nltk
-
-from tqdm.auto import tqdm
-
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import cohen_kappa_score
-
 import pandas as pd
 import numpy as np
-import logging
-from glob import glob
-from os import path
 
-from IPython.display import HTML, display
-
-import torch
-
-from transformers import pipeline
-from transformers import AutoTokenizer
-from transformers import DataCollatorWithPadding
-from transformers import AutoModelForSequenceClassification, TrainingArguments
-from transformers import PreTrainedModel
-from transformers.pipelines.pt_utils import KeyDataset
 
 category_codes = {0: 'Claim',
  1: 'Concluding Statement',
@@ -29,14 +10,24 @@ category_codes = {0: 'Claim',
  4: 'Lead',
  5: 'Position',
  6: 'Rebuttal'}
-labels = list(zip(*category_codes.items()))[1]
 
+labels = list(zip(*category_codes.items()))[1]
 
 sentence_tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
-def predictLogits(text, tokenizer, model):
-    return {t:dict(zip(labels, model(**tokenizer(t, return_tensors="pt")).logits[0].tolist())) for t in sentence_tokenizer.tokenize(text)}
-
-def predictLabel(logits):
-    return sorted(logits, key=lambda x:logits[x])[-1]
-
+def pseudoLabel(text, tokenizer, model):
+    """
+    text is a pd.Series variable containing paragraphs.
+    """
+    
+    sentences = text.apply(sentence_tokenizer.tokenize).explode()
+    
+    tokenized = sentences.apply(lambda s: tokenizer(s, return_tensors="pt", truncation=True, max_length = 514))
+    
+    logits = tokenized.apply(lambda t: pd.Series(dict(zip(labels, model(**t).logits[0].tolist()))))
+    
+    category = logits.apply(lambda l: labels[np.argmax(l)], axis=1)
+    
+    #print(text, sentences, logits, category, sep="\n\n\n")
+    
+    return pd.concat([text, sentences, logits, category], axis=1).rename(columns={0:"text", 1:"sentence", 2:"category"})
