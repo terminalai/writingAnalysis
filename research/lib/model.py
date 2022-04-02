@@ -11,8 +11,7 @@ category_codes = {0: 'Claim',
  5: 'Position',
  6: 'Rebuttal'}
 
-labels = list(zip(*category_codes.items()))[1]
-
+nltk.download('punkt')
 sentence_tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
 def pseudoLabel(text, tokenizer, model):
@@ -21,14 +20,10 @@ def pseudoLabel(text, tokenizer, model):
     """
     
     sentences = text.apply(sentence_tokenizer.tokenize).explode()
+    encoded_inputs = tokenizer(sentences.to_list(), return_tensors="pt", padding=True,
+                               truncation=True, max_length=512)
+    outputs = model(**encoded_inputs)
+    logits_df = pd.DataFrame([(x,) for x in outputs.logits.detach().numpy()])
     
-    tokenized = sentences.apply(lambda s: tokenizer(s, return_tensors="pt", truncation=True, max_length = 514))
-    
-    logits = tokenized.apply(lambda t: pd.Series(dict(zip(labels, model(**t).logits[0].tolist()))))
-    
-    category = logits.apply(lambda l: labels[np.argmax(l)], axis=1)
-    
-    #print(text, sentences, logits, category, sep="\n\n\n")
-    
-    return pd.concat([text, sentences, logits, category], axis=1).rename(columns={0:"text", 1:"sentence", 2:"category"})
+    return pd.concat([sentences, logits_df], axis=1).rename(columns={"0":"text", "1":"labels"})
 
