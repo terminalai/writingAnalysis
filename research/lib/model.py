@@ -31,3 +31,4 @@ def pseudoLabel(text, tokenizer, model):
     #print(text, sentences, logits, category, sep="\n\n\n")
     
     return pd.concat([text, sentences, logits, category], axis=1).rename(columns={0:"text", 1:"sentence", 2:"category"})
+
