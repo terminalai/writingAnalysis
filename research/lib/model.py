@@ -1,7 +1,9 @@
 import nltk
 import pandas as pd
 import numpy as np
+import torch
 
+from datasets import Dataset
 
 category_codes = {0: 'Claim',
  1: 'Concluding Statement',
@@ -20,10 +22,24 @@ def pseudoLabel(text, tokenizer, model):
     """
     
     sentences = text.apply(sentence_tokenizer.tokenize).explode()
-    encoded_inputs = tokenizer(sentences.to_list(), return_tensors="pt", padding=True,
-                               truncation=True, max_length=512)
-    outputs = model(**encoded_inputs)
-    logits_df = pd.DataFrame([(x,) for x in outputs.logits.detach().numpy()])
+    print(f"{len(sentences)} sentences split")
     
-    return pd.concat([sentences, logits_df], axis=1).rename(columns={"0":"text", "1":"labels"})
+    def tokenize_and_encode(examples):
+        return tokenizer(examples['0'], padding=True, truncation=True)
+
+    dataset = Dataset.from_pandas(pd.DataFrame(sentences))
+    dataset = dataset.map(tokenize_and_encode, batched=True, remove_columns=["0"])
+    dataset.set_format(type='torch', columns=['input_ids', 'attention_mask'])
+    
+    def model_prediction(examples):
+        torch.cuda.empty_cache()
+        print(examples['attention_mask'])
+        with torch.no_grad():
+            outputs = model(input_ids=examples['input_ids'].to(model.device),
+                            attention_mask=examples['attention_mask'].to(model.device))
+        return {"labels":outputs.logits.cpu().detach().numpy()}
+    
+    dataset = dataset.map(model_prediction, batched=True, batch_size=150)
+    
+    return dataset
 
