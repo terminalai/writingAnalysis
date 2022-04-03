@@ -1,9 +1,9 @@
 import {Result} from "@/types/output";
 import axios from 'axios';
 
-export async function sendPrediction(paragraph: string) {
-  await axios.post('/api/task',
-        { text: paragraph })
+export async function sendPrediction(paragraph: string, model:string) {
+  await axios.post('/api/output',
+        { text: paragraph, model:model })
         .then(res => {
           console.log(res)
         },
@@ -17,7 +17,7 @@ export async function sendPrediction(paragraph: string) {
 
 export async function getPredictions(): Promise<Result[]> {
     try {
-        const resp = await axios.get('/api/tasks');
+        const resp = await axios.get('/api/outputs');
         return (await resp.data) as Result[]
     } catch (err) {
         console.error(err);
@@ -34,18 +34,4 @@ export async function clearPredictions(): Promise<Result[]> {
         console.error(err);
         return []
     }
-}
-
-export async function predictNYT(url: string) {
-  await axios.post('/api/task',
-        { url: url })
-        .then(res => {
-          console.log(res)
-        },
-        res => {
-          console.log("error")
-        })
-        .catch(err => {
-          console.log(err)
-        }) 
 }

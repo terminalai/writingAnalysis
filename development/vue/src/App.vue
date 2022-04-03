@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <v-navigation-drawer
+    <!-- <v-navigation-drawer
       v-if="user != null"
       v-model="drawerShown"
       temporary app>
@@ -37,14 +37,14 @@
           <v-divider/>
         </router-link>
       </v-list>
-    </v-navigation-drawer>
+    </v-navigation-drawer> -->
     <v-app-bar
       app
       color="primary"
       dark
     >
-      <v-app-bar-nav-icon v-if="user != null"
-                          @click="drawerShown = !drawerShown"/>
+      <!-- <v-app-bar-nav-icon v-if="user != null"
+                          @click="drawerShown = !drawerShown"/> -->
       <v-toolbar-title>
         Writing Analyser
       </v-toolbar-title>

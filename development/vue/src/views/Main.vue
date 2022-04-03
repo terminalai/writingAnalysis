@@ -1,8 +1,31 @@
 <template>
   <v-container fluid>
+    <v-row justify="center" >
+      <v-col cols='3' align-self="center">
+        <v-combobox
+          outlined
+          dense
+          v-model="selection"
+          label="Select Model"
+          :items="items"
+        ></v-combobox>
+      </v-col>
+      <v-col align-self="center" cols="1">
+        <v-row>
+          <v-col>
+        <v-btn @click="submit" style="display: block; margin: auto" row-height="5" color="primary"
+        :loading="loading">Submit</v-btn>
+        </v-col>
+        <v-col>
+        <v-btn @click="clear" style="display: block; margin: auto" row-height="5"
+        :loading="loading">Clear</v-btn>
+        </v-col>
+        </v-row>
+      </v-col>
+    </v-row>
 
-        <v-row justify='center'>
-          <v-col cols='10' align-self="center">
+    <v-row justify='center'>
+      <v-col cols='10' align-self="center">
         <v-textarea
           outlined
           auto-grow
@@ -12,13 +35,7 @@
           counter
           row-height="10"
         ></v-textarea>
-          </v-col>
-          <v-col cols='auto' align-self="center">
-            <v-btn @click="submit" style="display: block; margin: auto" row-height="5"
-        :loading="loading">Submit</v-btn>
-            <v-btn @click="clear" style="display: block; margin: auto" row-height="5"
-        :loading="loading">Clear</v-btn>
-          </v-col>
+      </v-col>
         </v-row>
     <v-data-table :headers="table.headers" :items="log" row-height="15">
     </v-data-table>
@@ -36,11 +53,23 @@ export default Vue.extend({
     log: Result[],
     text: string,
     table: any,
+    selection: string,
+    items: string[],
     loading: boolean
     } {
     return {
       log: [],
       text: "",
+      selection: "",
+      items: [
+        'DistilBERT',
+        'BERT',
+        'DistilGPT2',
+        'Teacher RoBERTa',
+        'Student RoBERTa 0',
+        'Student RoBERTa 1',
+        'Student RoBERTa 2',
+      ],
       table: {
         headers: [
           {
@@ -50,6 +79,10 @@ export default Vue.extend({
           {
             text: "Label",
             value: "label",
+          },
+          {
+            text: "Model",
+            value: "model",
           }
         ]
       },
@@ -62,7 +95,7 @@ export default Vue.extend({
   methods: {
     async submit() {
       this.loading = true;
-      await sendPrediction(this.text);
+      await sendPrediction(this.text, this.selection);
       this.$data.log = await getPredictions();
       this.loading = false;
     },
