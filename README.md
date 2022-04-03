@@ -1,4 +1,4 @@
-# Evaluation of Writing Elements in Argumentative  Essay Pieces to Map Writing Proficiency
+# Noisy Student Training to identify Textual Elements in Unsupervised News Data via Argumentative Essay Pieces
 
 BY **Liew Wei Pyn and Prannaya Gupta**
 
@@ -6,11 +6,19 @@ Done for the **CS5131** Introduction to Artificial Intelligence Final Project
 
 <hr>
 
+To access models, access `model_url.txt` and use the Google Drive Link. Follow `README.docx` to access the large model files. Follow `development/README.md` to learn how to load the UI.
+
+
+
+<hr>
+
+## Proposal
+
 **Domain**: Literature, Education, English
 
 **Subject Area**: Natural Language Processing, Deep Neural Network, BERT, Transformers, Transfer Learning, Sequential Sentence Classification
 
-## Description
+### Description
 
 Argumentative Essays usually include a plethora of different essay elements that are quite  difficult for the average student to identify. These include, but are not strictly limited to, Lead, Position, Claim, Counterclaim, Rebuttal, Evidence,  Concluding Statement.
 
@@ -34,12 +42,12 @@ In addition, automatically and consistently identifying and highlighting such el
 
 **Objective(s)**: Developing a model capable of analyzing essay elements in argumentative pieces
 
-## Target Users
+### Target Users
 
 - Teachers aiming to help their students improve their writing
 - Students aiming to improve their writing to prepare for the A Level GP and University  Preparation
 
-## Project Plan and Timeline
+### Project Plan and Timeline
 
 | Timeline         | Project Plan                                                 |
 | ---------------- | ------------------------------------------------------------ |
@@ -50,7 +58,7 @@ In addition, automatically and consistently identifying and highlighting such el
 | 2-20th March     | Buffer time, pray we don’t need it                           |
 | 21-29th March    | Report and Presentation                                      |
 
-## Resources and Tools Use
+### Resources and Tools Use
 
 - PyTorch
 - GPUs
@@ -58,11 +66,11 @@ In addition, automatically and consistently identifying and highlighting such el
 - Hugging Face
 - Fast.AI
 
-## Target Outcome and Benefits
+### Target Outcome and Benefits
 
 A model capable of analysing and identifying the key argumentative elements in an English essay. We can possibly test it on real-life samples like model essays from teachers at NUS High.
 
-## References
+### References
 
 - [Feedback Prize - Evaluating Student Writing (Kaggle Competition, Georgia State University)](https://www.kaggle.com/c/feedback-prize-2021/overview)
 - Zaheer, M., Guruganesh, G., Dubey, A., Ainslie, J., Alberti, C., Ontanon, S., … Ahmed, A. (2021). Big Bird: Transformers for Longer Sequences. *arXiv [cs.LG]*. Opgehaal van http://arxiv.org/abs/2007.14062
