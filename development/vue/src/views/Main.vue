@@ -5,12 +5,11 @@
           <v-col cols='10' align-self="center">
         <v-textarea
           outlined
+          auto-grow
           name="input-7-1"
           label="Text to Analyse"
           v-model="text"
-          clearable
           counter
-          auto-grow
           row-height="10"
         ></v-textarea>
           </v-col>
@@ -75,3 +74,20 @@ export default Vue.extend({
 
 });
 </script>
+<style>
+ // Hide scrollbar for Chrome, Safari and Opera */
+.hide-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+// Hide scrollbar for IE, Edge and Firefox */
+.hide-scrollbar {
+   -ms-overflow-style: none;  /* IE and Edge */
+   scrollbar-width: none;  /* Firefox */
+}
+
+.v-input.v-text-field.v-textarea .v-text-field__slot {
+  padding-right: 1px;
+  padding-bottom: 1px
+}
+</style>
